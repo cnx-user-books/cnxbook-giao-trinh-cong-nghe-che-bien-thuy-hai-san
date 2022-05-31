@@ -1,0 +1,443 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Công nghệ chế biến nước mắm</title>
+  <metadata>
+  <md:content-id>m30469</md:content-id><md:title>Công nghệ chế biến nước mắm</md:title>
+  <md:abstract>CÔNG NGHỆ CHẾ BIẾN NƯỚC MẮM</md:abstract>
+  <md:uuid>1009ee86-3c32-47e8-a678-e794e14c2386</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-723297058447">
+      <title>Mở đầu</title>
+      <para id="id6609330">Nước mắm là dung dịch đạm mà chủ yếu là các acid amin, được tạo thành do quá trình thủy phân protein cá nhờ hệ enzym protease có trong cá. Ngoài ra nước mắm còn dùng để chữa một số bệnh như đau dạ dày, phỏng, cơ thể suy nhược, cung cấp năng lượng.</para>
+      <para id="id6609347">Nước mắm được sản xuất ở hầu hết các nước Châu Á. Mỗi nước có kiểu sản xuất khác nhau tạo ra sản phẩm có giá trị dinh dưỡng và giá trị cảm quan khác nhau</para>
+      <section id="id-01674844589">
+        <title>Bảng 5.1. Tên các loại nước mắm và tỷ lệ phối trộn tạo sản phẩm</title>
+        <table id="id6449320" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Nước mắm</entry>
+                <entry>Điều kiện và thời gian lên men</entry>
+              </row>
+              <row>
+                <entry>Nhật BảnShottsuruUwo - shoyu</entry>
+                <entry>Tỷ lệ 5 : 1 = Cá : Muối + gạo lên men và koji (3 : 1)Thời gian lên men : 6 tháng</entry>
+              </row>
+              <row>
+                <entry>Hàn QuốcJeot - kal</entry>
+                <entry>Tỷ lệ 4 : 1 = Cá : Muối (6 tháng)</entry>
+              </row>
+              <row>
+                <entry>Việt NamNước mắm</entry>
+                <entry>Tỷ lệ 3: 1 - 3 : 2 = Cá : Muối ( 4 - 12 tháng)</entry>
+              </row>
+              <row>
+                <entry>Thái LanNam - pla</entry>
+                <entry>Tỷ lệ 5 : 1 = Cá : Muối (5 - 12 tháng)</entry>
+              </row>
+              <row>
+                <entry>MalaysiaBudu</entry>
+                <entry>Tỷ lệ 5 : 1 - 3 :1 = Cá : Muối + đường + me( 3 - 12 tháng)</entry>
+              </row>
+              <row>
+                <entry>PhilippinePatis</entry>
+                <entry>3 : 1 - 4 : 1 = Cá : Muối (3 - 12 tháng)</entry>
+              </row>
+              <row>
+                <entry>BrumaNgapi</entry>
+                <entry>5 : 1 = Cá : Muối (3 - 6 tuần)</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id-609309641074">
+      <title>Giá trị dinh dưỡng của nước mắm </title>
+      <section id="id-515316119377">
+        <title>Các chất đạm</title>
+        <para id="id6449584">Chiếm chủ yếu và quyết định giá trị dinh dưỡng của nước mắm. Gồm 3 loại đạm</para>
+        <para id="id6449596">- Đạm tổng số: là tổng lượng nitơ có trong nước mắm (g/l), quyết định phân hạng của nước mắm.</para>
+        <para id="id6449608">- Đạm amin: là tổng lượng đạm nằm dưới dạng acid amin (g/l), quyết định giá trị dinh dưỡng của nước mắm</para>
+        <para id="id6449622">- Đạm amon: càng nhiều nước mắm càng kém chất lượng</para>
+        <para id="id6449633">Ngoài ra trong nước mắm còn chứa đầy đủ các acid amin, đặc biệt là các acid amin không thay thế: valin, leucin, methionin, isoleucin, phenylalanin, alanin.v.v .. Các thành phần khác có kích thước lớn như tripeptid, peptol, dipeptid. Chính những thành phần trung gian này làm cho nước mắm dễ bị hư hỏng do hoạt động của vi sinh vật.</para>
+        <para id="id6449659">Thành phần dinh dưỡng của nước mắm phụ thuộc vào nguyên liệu đem đi chế biến.</para>
+      </section>
+      <section id="id-705717709835">
+        <title>Các chất bay hơi</title>
+        <para id="id6449683">Rất phức tạp và quyết định hương vị của nước mắm.</para>
+        <para id="id6449694">Hàm lượng các chất bay hơi trong nước mắm mg/100g nước mắm</para>
+        <para id="id6449704">- Các chất cacbonyl bay hơi: 407-512 (formaldehyde)</para>
+        <para id="id6449715">- Các acid bay hơi: 404-533 (propionic)</para>
+        <para id="id6449724">- Các amin bay hơi: 9,5-11,3 (izopropylamin)</para>
+        <para id="id6449738">- Các chất trung tính bay hơi: 5,1-13,2 (acetaldehyde)</para>
+        <para id="id6449748">Mùi trong nước mắm được hình thành chủ yếu do hoạt động của vi sinh vật yếm khí trong quá trình sản xuất nước mắm tạo ra.</para>
+      </section>
+      <section id="id-866754291546">
+        <title>Các chất khác</title>
+        <para id="id6449770">- Các chất vô cơ: NaCl chiếm 250-280g/l và một số các chất khoáng như: S, Ca, Mg, P, I, Br.</para>
+        <para id="id6449782">- Vitamin: B1, B12, B2, PP.</para>
+      </section>
+    </section>
+    <section id="id-45055674616">
+      <title>Quá trình thủy phân của cá</title>
+      <section id="id-909335935495">
+        <title>Bản chất của quá trình sản xuất nước mắm</title>
+        <figure id="id6449842">
+          <media id="id1172784900583" alt=""><image src="../../media/graphics1-9fc0.png" mime-type="image/png" height="21" width="253"/></media>
+        </figure>
+        <para id="id6449866">Bản chất của quá trình này chính là quá trình thủy phân protein trong cá nhờ hệ </para>
+        <figure id="id6449878">
+          <media id="id5998448" alt=""><image src="../../media/graphics2-3346.png" mime-type="image/png" height="20" width="584"/></media>
+        </figure>
+        <para id="id6449902">Quá trình thủy phân protein đến acid amin là một quá trình rất phức tạp. Đặc hiệu của enzym là chỉ tác dụng lên một vài chất nào đó với vài kiểu liên kết nhất định, như enzym peptidase chỉ tác dụng lên mối nối liên kết peptid để thủy phân nối liên kết này: </para>
+        <para id="id6449922">
+          <media id="id8786244" alt=""><image src="../../media/graphics3-0a96.png" mime-type="image/png" height="55" width="355"/></media>
+        </para>
+        <para id="id6449956">Sự tham gia của enzym trong quá trình thủy phân theo cơ chế xúc tác </para>
+        <figure id="id6449974">
+          <media id="id1172782309233" alt=""><image src="../../media/graphics4-eb0e.png" mime-type="image/png" height="28" width="261"/></media>
+        </figure>
+      </section>
+      <section id="id-50565307501">
+        <title>VớiE : enzym.</title>
+        <para id="id6449998">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-203969036147">
+        <title> S : cơ chất (protein)</title>
+        <para id="id6450024">ES : hợp chất trung gian giữa enzym và cơ chất.</para>
+        <para id="id6450035">P : sản phẩm.</para>
+        <para id="id6450042">Sản phẩm chủ yếu của quá trình phân giải protein là acid amin và các peptid cấp thấp.</para>
+        <para id="id6450051">Sự tạo thành và chuyển biến hợp chất ES qua 3 bước:</para>
+        <para id="id6450061">* Bước 1: Enzym kết hợp với protein tạo thành phức chất enzym protein, bước này xảy ra khá nhanh, liên kết không bền.</para>
+        <para id="id6450078">* Bước 2: Xảy ra sự chuyển biến của các phân tử protein dẫn đến làm phá vỡ các mối liên kết đồng hóa trị tham gia vào phản ứng. Khi đó phức chất ES đồng thời xảy ra hai quá trình là sự dịch chuyển thay đổi electron, dẫn đến sự cực hóa của mối liên kết tham gia vào phản ứng và sự biến dạng hình học của nối liên kết đồng hóa trị trong phân tử protein cũng như trong trung tâm hoạt động của enzym, làm cho protein hoạt động, quá trình thủy phân dễ dàng hơn.</para>
+        <para id="id6450100">* Bước 3: Giai đoạn tạo thành các acid amin và peptid cấp thấp, giải phóng enzym.</para>
+        <para id="id6450115">Theo nghiên cứu của Beddow, ba bước tạo thành và chuyển hóa hợp chất ES tương ứng với 3 chặng đường biến đổi hợp chất nitrogen trong quá trình thủy phân cá.</para>
+        <para id="id6450130">- Pha 1 (0 - 25 ngày): Có sự gia tăng thể tích của phần chất lỏng nổi ở trên bề mặt sản phẩm và protein hòa tan.</para>
+        <para id="id6450146">- Pha 2 (80 - 120 ngày): Mô tế bào bị phá vỡ, protein của tế bào trở nên tiếp xúc với enzym, sản phẩm của quá trình tự phân protein được phóng thích. Hầu như tất cả mô tế bào đều bị phân hủy và biến mất sau 120 - 140 ngày.</para>
+        <para id="id6450164">- Pha 3 (140 - 200 ngày): Enzym phóng thích và tấn công vào các phần protein hòa tan. Đây là nguyên nhân làm thay đổi hợp chất Nitơ.</para>
+        <para id="id6450179">Ngoài ra đường, chất béo cũng bị phân giải thành rượu và các acid hữu cơ.</para>
+      </section>
+      <section id="id-515147699809">
+        <title>Các hệ enzym trong sản xuất nước mắm</title>
+        <para id="id6450205">Gồm 3 hệ enzym lớn</para>
+        <para id="id6450214">a. Hệ enzym Metalo-protease (Aminodipeptidase)</para>
+        <para id="id6450231">Hệ enzym này tồn tại trong nội tạng của cá và chịu được nồng độ muối cao nên ngay từ đầu nó đã hoạt động mạnh, giảm dần từ tháng thứ 3 trở về sau. Loại enzym này có hoạt tính khá mạnh, có khả năng thủy phân rộng rãi đối với các loại peptid. Đây là nhóm thủy phân enzym trung tính, pH tối thích từ 5-7, pI = 4-5, nó ổn định với ion Mg2+, Ca2+và mất hoạt tính với Zn2+, Ni2+, Pb2+, Hg2+..</para>
+        <para id="id6263106">b. Hệ enzym serin-protease</para>
+        <para id="id6263120">Điển hình là enzym tripsin, tồn tại nhiều trong nội tạng của cá. Ở giai đoạn đầu của quá trình sản xuất nước mắm hoạt động của nó yếu đến tháng thứ 2 và phát triển dần đạt giá trị cực đại ở tháng tứ 3 rồi giảm dần đến khi chượp chín (protein phân giải gần như hoàn toàn không còn ở dạng peptol). Hệ enzym này luôn bị ức chế bởi chuỗi acid amin trong cấu trúc của enzym. Để tháo gỡ chuỗi này phải nhờ đến hoạt động của men cathepsin B nhưng men cathepsin B dễ bị ức chế bởi nồng độ muối cao. Vì vậy để men cathepsin B hoạt động được người ta thực hiện phương pháp cho muối nhiều lần. Enzym serin-protease hoạt động mạnh ở pH từ 5-10, mạnh nhất ở pH=9.</para>
+        <para id="id6263148">c. Hệ enzym acid-protease</para>
+        <para id="id6263165">Có trong thịt và nội tạng cá, điển hình là enzym cathepsin D. Hệ enzym này dễ bị ức chế bởi nồng độ muối khoảng 15% nên thường nó chỉ tồn tại một thời gian ngắn ở đầu thời kỳ của quá trình thủy phân. Loại men này đóng vai trò thứ yếu trong quá trình sản xuất nước mắm. </para>
+      </section>
+      <section id="id-487054027287">
+        <title>Vi sinh vật trong sản xuất nước mắm</title>
+        <para id="id6263194">- Nguồn gốc: có từ nguyên liệu, dụng cụ, thiết bị, môi trường (không khí, nước). Khi vi sinh vật xâm nhập vào chượp có các ảnh hưởng sau:</para>
+        <para id="id6263210">- Tham gia vào quá trình thủy phân protein nhưng rất yếu vì bị ức chế bởi nồng độ muối cao.</para>
+        <para id="id6263223">- Tham gia tích cực vào việc hình thành hương vị của nước mắm, chủ yếu là các vi sinh vật kỵ khí có khả năng sinh hương.</para>
+      </section>
+    </section>
+    <section id="id-991301830797">
+      <title>Nhân tố ảnh hưởng đến quá trình chế biến nước mắm</title>
+      <section id="id-153564313416">
+        <title>Nhiệt độ</title>
+        <para id="id6263255">Nhiệt độ tăng vận tốc phản ứng tăng, đến một nhiệt độ nào đó sẽ không tăng nữa và có thể giảm xuống do nhiệt độ cao làm cho hệ enzym serin-protease mất hoạt tính. Quá trình thủy phân kém.</para>
+        <para id="id6263271">- Nhiệt độ 30 - 47oC thích hợp cho quá trình chế biến chượp.</para>
+        <para id="id6263298">- Nhiệt độ 70oC trở lên hầu hết các hệ enzym trong cá mất hoạt tính.</para>
+        <para id="id6263317">Nâng nhiệt độ của chượp lên bằng cách phơi nắng, nấu hoặc sử dụng tôn nóng để che phân xưởng.</para>
+      </section>
+      <section id="id-00673272055793">
+        <title>pH</title>
+        <para id="id6263339">Mỗi hệ enzym có pH tối thích khác nhau, vì vậy phải xem loại enzym nào nhiều nhất và đóng vai trò chủ yếu nhất trong quá trình sản xuất nước mắm để tạo pH thích hợp cho enzym đó hoạt động. Qua thực nghiệm cho thấy:</para>
+        <para id="id6263356">pH môi trường tự nhiên từ 5,5-6,5 enzym tripsin và pepsin hoạt động được, đồng thời ở pH này có tác dụng ức chế một phần vi khuẩn gây thối. Vì vậy ở môi trường tự nhiên có pH thích hợp cho quá trình sản xuất nước mắm hơn.</para>
+      </section>
+      <section id="id-634089282797">
+        <title>Lượng muối</title>
+        <para id="id6263383">Muối là nguyên liệu quan trọng cho quá trình sản xuất nước mắm, thiếu muối nước mắm không hình thành được.</para>
+        <para id="id6263396">Yêu cầu của muối trong sản xuất nước mắm phải là loại muối ăn, càng tinh khiết càng tốt, kết tinh hạt nhỏ có độ rắn cao, màu trắng óng ánh (không vón cục, ẩm ướt, vị đắng chát).</para>
+        <para id="id6263412">- Nồng độ muối thấp có tác dụng thúc đẩy quá trình thủy phân protein nhanh hơn, chượp mau chín.</para>
+        <para id="id6263425">- Nồng độ muối quá cao có tác dụng ức chế làm mất hoạt tính của enzym, quá trình thủy phân chậm lại, thời gian thủy phân kéo dài (protein bị kết tủa bởi muối trung tính bão hòa).</para>
+        <para id="id6263441">Để chế biến chượp nhanh cần xác định lượng muối cho vào trong chượp là bao nhiêu và lượng muối này phải thõa mãn 2 điều kiện:</para>
+        <para id="id6263452">- Không mặn quá để tránh ức chế hoạt động của enzym.</para>
+        <para id="id6263463">- Không nhạt quá để có đủ khả năng ức chế sự phát triển của vi khuẩn gây thối.</para>
+        <para id="id6263475">Thường lượng muối cho vào khoảng 20-25% so với khối lượng cá. Nên thực hiện phương pháp cho muối nhiều lần và cần phải xác định số lần cho muối, tỉ lệ muối của mỗi lần và khoảng cách giữa các lần cho muối để không ảnh hưởng đến quá trình sản xuất nước mắm.</para>
+      </section>
+      <section id="id-650307316082">
+        <title>Diện tích tiếp xúc</title>
+        <para id="id6263502">Muốn phản ứng xảy ra nhanh phải có sự tiếp xúc tốt giữa enzym và cơ chất. Các enzym trong cá tập trung nhiều ở nội tạng, nên để tăng tốc độ thủy phân người ta tìm cách tăng diện tích tiếp xúc giữa enzym và thịt cá. Có thể dùng các biện pháp:</para>
+        <para id="id6263521">- Phương pháp xay nhỏ cá: </para>
+        <para id="id6263530">+ Xay nhỏ cá diện tích tiếp xúc sẽ lớn nhưng protein dễ bị biến tính do tác dụng cơ học.</para>
+        <para id="id6263542">+ Enzym phân tán nhưng phân tán rất rộng ra môi trường nước làm cho nồng độ enzym loãng ra. Khi chượp chín đem kéo rút sẽ gặp hiện tượng tắt lù.</para>
+        <para id="id6263557">- Phương pháp đập dập: Cá đập dập sẽ giữ được hình dạng ban đầu, cơ thịt bên trong bị mềm ra, tổ chức cơ thịt lỏng lẻo giúp enzym dễ ngấm vào trong thịt. Cá đập dập xương cá không bị vỡ vụn, khi chượp chín kéo rút dễ dàng. </para>
+        <para id="id6263578">- Phương pháp cắt khúc: thịt cá vẫn còn chắc nên enzym khó ngấm vào hơn phương pháp đập dập, protein ở mặt ngoài dễ bị biến tính do tiếp xúc với dung dịch có nồng độ muối cao.</para>
+        <para id="id6263594">Như vậy để tăng diện tích tiếp xúc sử dụng phương pháp đập dập kết hợp với đánh khuấy chượp là tốt nhất.</para>
+      </section>
+      <section id="id-726339833503">
+        <title>Bản thân nguyên liệu</title>
+        <para id="id6263616">Những loài cá khác nhau, thành phần hóa học và cấu trúc cũng khác nhau, nhất là hệ enzym trong cá vì vậy tạo ra loại nước mắm có chất lượng khác nhau.</para>
+        <para id="id6263631">- Cá tươi chế biến chất lượng tốt hơn cá ươn.</para>
+        <para id="id6263641">- Loại cá có kết cấu cơ thịt lỏng lẽo, mềm mại, ít vảy dễ chế biến hơn loại cá cứng, chắc, nhiều vảy.</para>
+        <para id="id6263654">- Nếu cá có nhiều mỡ thì nước mắm có mùi ôi khét khó chịu, mùi chua (do sự thủy phân chất béo thành acid béo và glycerid) hoặc khét do oxy hóa chất béo.</para>
+        <para id="id6263669">- Cá sống ở tầng nước mặt và giữa như cá thu, cá cơm, cá nục, cá mòi... cho chất lượng nước mắm tốt nhất vì nó ăn được thức ăn ngon nên dinh dưỡng và thành phần đạm cao. </para>
+        <para id="id6263685">- Cá sống ở tầng nước dưới và tầng đáy như cá phèn, cá mối cho nước mắm có chất lượng kém vì thiếu thức ăn (ăn rong, rêu, bùn hoặc thực vật dưới đáy) làm cho thịt cá thiếu dinh dưỡng và bụng cá có bùn đất ảnh hưởng đến màu sắc nước chượp</para>
+      </section>
+    </section>
+    <section id="id-322632152025">
+      <title>Phương pháp rút ngắn thời gian chế biến nước mắm</title>
+      <para id="id6263719">Có 2 phương pháp rút ngắn thời gian chế biến nước mắm</para>
+      <para id="id6263730">1. Tạo điều kiện tối ưu (5 yếu tố)</para>
+      <para id="id6263740">2. Sử dụng enzym từ các nguồn tự nhiên:</para>
+      <para id="id6263750">- Động vật: trong nội tạng của gia súc có hiện diện nhiều enzym thủy phân protease như: pepsin, tripsin, cathepsin.</para>
+      <para id="id6263763">- Thực vật: có một vài loại thực vật cũng có enzym protease như trong đu đủ có enzym papain, khóm có enzym bromelin</para>
+      <para id="id6263776">- Vi sinh vật: trong quá trình hoạt động sống nhiều hệ enzym sinh ra từ nấm mốc Aspergillus oryzae, Asp. niger.</para>
+      <para id="id6263806">* Phương pháp sử dụng </para>
+      <para id="id6263818">- Sử dụng dưới dạng thô: cho các nguyên liệu có enzym đó vào chượp với tỉ lệ nhất định.</para>
+      <para id="id6263830">- Sử dụng dưới dạng chiết xuất: chiết enzym từ các nguyên liệu trên thành dạng tinh chế sau đó cho vào trong chượp</para>
+      <para id="id6263844">Để rút ngắn thời gian chế biến nước mắm thường người ta đưa ra các biện pháp sau:</para>
+      <para id="id6263854">- Pha với nước mắm có hương vị tốt, sau đó để một thời gian cho nó ổn định</para>
+      <para id="id6263866">- Kéo rút qua bã chượp tốt, cách này cho hiệu quả đáng kể nhất vì nó trích ly hương vị bã chượp làm cho nước mắm ngắn ngày có hương vị thơm ngon hơn</para>
+      <para id="id6263881">- Phân lập những vi sinh vật gây hương trong chượp tốt sau đó cấy vào trong nước mắm kém hương hoặc sử dụng vi sinh vật gây hương này để sản xuất hương liệu rồi cho hương liệu này vào trong nước mắm kém hương.</para>
+    </section>
+    <section id="id-812303309519">
+      <title>Các phương pháp chế biến nước mắm</title>
+      <section id="id-105530333175">
+        <title>Phương pháp chế biến nước mắm cổ truyền</title>
+        <section id="id-227288944258">
+          <title>Nguyên lý</title>
+          <para id="id6263926">Có 3 phương pháp chế biến chượp cổ truyền</para>
+          <para id="id6263935">* Phương pháp đánh khuấy:</para>
+          <para id="id6263948">- Cho muối nhiều lần.</para>
+          <para id="id6263953">- Cho nước lã</para>
+          <para id="id6263962">- Đánh khuấy liên tục</para>
+          <para id="id6263972">* Phương pháp gài nén:</para>
+          <para id="id6263982">- Cho muối một lần hoặc nhiều lần</para>
+          <para id="id6263991">- Không cho nước lã</para>
+          <para id="id6264002">- Gài nén và không đánh khuấy</para>
+          <para id="id6264011">* Phương pháp hỗn hợp:</para>
+          <para id="id6264024">- Kết hợp giữa 2 phương pháp gài nén và đánh khuấy.</para>
+          <para id="id6264034">- Lúc đầu thực hiện phương pháp gài nén.</para>
+          <para id="id6264046">- Sau đó thực hiện phương pháp đánh khuấy</para>
+          <para id="id6264056"/>
+        </section>
+        <section id="id-411020288035">
+          <title>Phương pháp</title>
+          <figure id="id6264071">
+            <media id="id1172782585066" alt=""><image src="../../media/graphics5-b467.png" mime-type="image/png" height="660" width="584"/></media>
+          </figure>
+          <para id="id6605179">Hình 5.1. Qui trình công nghệ chế biến sản phẩm nước mắm cổ truyền</para>
+          <para id="id6605202">** Phương pháp chế biến nước mắm cải tiến</para>
+          <para id="id6605211">
+            <media id="id8344915" alt=""><image src="../../media/graphics6-d538.png" mime-type="image/png" height="359" width="432"/></media>
+          </para>
+          <para id="id6605253">Hình 5.2. Sơ đồ qui trình chế biến nước mắm cải tiến</para>
+          <para id="id6605266">Đặc điểm: Tận dụng nguồn nguyên liệu cá đáy và cá nổi do :</para>
+          <para id="id6605275">- Cá đáy có chất lượng kém, chượp khó làm nên sử dụng phương pháp đánh khuấy rút ngắn thời gian chế biến càng nhanh càng tốt.</para>
+          <para id="id6605289">- Cá nổi do có chất lượng tốt nên sử dụng phương pháp gài nén có bổ sung thêm khóm nhằm tăng hương vị của nước mắm.</para>
+          <para id="id6605303">5.6.2. Phương pháp chế biến nước mắm bằng hóa học </para>
+          <para id="id6605317">5.6.2.1. Nguyên lý</para>
+          <para id="id6605330">Sử dụng hóa chất (HCl, H2SO4­, Na2CO3, NaOH) để thủy phân protein thịt cá thành các acid amin.</para>
+          <para id="id6605375">5.6.2.2. Phương pháp </para>
+          <figure id="id6605398">
+            <media id="id1172785711974" alt=""><image src="../../media/graphics7-2fa9.png" mime-type="image/png" height="378" width="407"/></media>
+          </figure>
+          <para id="id6605422">- Nguyên liệu: các loài thủy sản có đạm như tôm, cua, cá, nghêu, sò và nước muối cá cũ.</para>
+          <para id="id6605434">- Xử lý: làm sạch.</para>
+          <para id="id6605440">- Ngâm: trong dung dịch HCl thời gian một tuần, thỉnh thoảng đánh khuấy tạo cho nước mắm có màu sắc đẹp và thủy phân một phần protein trong cá.</para>
+          <para id="id6605455">- Thủy phân: sử dụng những kiệu, lu có ống sinh hàn đồng thời có thiết bị đánh khuấy để tránh cháy khét.</para>
+          <para id="id6605468">+ Nồng độ acid sử dụng là HCl 7N</para>
+          <para id="id6605478">+ Nhiệt độ: cao hay thấp đều có ảnh hưởng đến chất lượng sản phẩm. Nhiệt độ thích hợp nhất là 100-105oC, thủy phân trong thời gian 7-8 giờ.</para>
+          <para id="id6605501">+ Lượng acid: dựa vào nguyên liệu, nếu nguyên liệu có nhiều xương cứng, nhiều vảy cần lượng acid nhiều </para>
+          <para id="id6605514">- Trung hòa: sử dụng Na2CO3 nhiệt độ trung hòa 60-70oC, pH= 6,3-6,5.</para>
+          <para id="id6605549">- Lọc và điều chỉnh chất lượng sản phẩm:</para>
+          <para id="id6605560">+ Vớt chất béo nổi phía trên và lọc qua vải để giữ cặn, xương và xác chưa bị thủy phân.</para>
+          <para id="id6605572">+ Điều chỉnh nồng độ muối về khoảng 20oBé.</para>
+          <para id="id6605591">+ Điều chỉnh nồng độ đạm bằng cách đun ở nhiệt độ 60-70oC hoặc phơi nắng sau đó bổ sung bezoat Na với nồng độ 1%.</para>
+          <para id="id6605613">+ Kéo rút nước mắm qua bã chượp tốt hoặc trộn với nước mắm cốt.</para>
+        </section>
+      </section>
+      <section id="id-909620129733">
+        <title>Phương pháp chế biến nước mắm bằng vi sinh vật</title>
+        <section id="id-91175285701">
+          <title>Nguyên lý</title>
+          <para id="id6605642"> Sử dụng hệ enzym protease trong nấm mốc Aspergilus oryzea để thủy phân protein thịt cá thành các acid amin ở điều kiện nhiệt độ và môi trường thích hợp.</para>
+        </section>
+        <section id="id-604971442882">
+          <title>Phương pháp</title>
+          <para id="id6605674">
+            <media id="id5308554" alt=""><image src="../../media/graphics8-aa3f.png" mime-type="image/png" height="315" width="324"/></media>
+          </para>
+          <para id="id6605708">Hình 5.3. Sơ đồ qui trình chế biến nước mắm bằng phương pháp vi sinh vật</para>
+          <para id="id6605727">- Xử lý: cá phải rửa sạch bùn, đất, tạp chất, cá to phải cắt nhỏ.</para>
+          <para id="id6605737">- Thủy phân: </para>
+          <para id="id6605743">+ Mốc: yêu cầu tốc độ sinh trưởng và phát triển nhanh, hình thái khuẩn ty to và mập, tốt nhất là sau 2 ngày ở nhiệt độ và độ ẩm thích hợp.</para>
+          <para id="id6605758">+ Tỉ lệ giữa mốc và cá từ 3-4% tính theo chế phẩm mốc thô và cá xay nhỏ trộn với mốc.</para>
+          <para id="id6605768">+ Nước cho vào 5-10% để vừa đủ ngấm mốc, giúp men hoạt động tốt, nhiệt độ thủy phân 37-41oC, thời gian 10-15 ngày chượp sẽ chín.</para>
+          <para id="id6605790">+ Muối: sử dụng muối có tinh thể nhỏ, màu sáng, độ trắng cao, không vón cục, không bị chát, lượng muối cho vào 4-6% so với khối lượng cá</para>
+          <para id="id6605804">- Lọc: nước lọc và nước rửa bã bằng 30% so với khối lượng cá. Sau đó </para>
+          <para id="id6605817">+ Đun sôi:nhỏ lửa có tàc dụng khử mùi, vi sinh vật, chất bẩn.</para>
+          <para id="id6605828">+ Thêm muối vào để đạt đến độ mặn nước chấm.</para>
+          <para id="id6605839">+ Kéo rút dịch này qua bả chưởp tốt.</para>
+          <para id="id6605849">* Nhược điểm</para>
+          <para id="id6605861">- Nước mắm không có hương vị vì thời gian sản xuất ngắn.</para>
+          <para id="id6605872">- Nước mắm bị chua do tinh bột lên men lactic hoặc do sinh ra acid dễ bay hơi khi cá bị ươn.</para>
+          <para id="id6605887">- Đắng do xác vi sinh vật còn tồn tại hoặc do chất lượng của muối kém, có nhiều ion Ca2+, Mg2+.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-131379334218">
+      <title>Kiểm tra và bảo quản chượp nước mắm</title>
+      <section id="id-0228498573737">
+        <title>Những hiện tượng hư hỏng của chượp</title>
+        <para id="id6605936"> a. Chượp chua</para>
+        <para id="id6605948">- Hiện tượng: chượp bốc mùi chua, màu xám đượm mùi tanh hôi khó chịu.</para>
+        <para id="id6605958">- Nguyên nhân </para>
+        <para id="id6605963">+ Chua vì mặn đầu: do lượng muối lúc đầu quá nhiều, lượng muối này ngấm vào lớp thịt cá phía bên ngoài, bên trong và nội tạng chưa kịp ngấm muối làm cho thịt cá bị nhạt muối, xảy ra quá trình phân giải sinh ra nhiều acid bay hơi phức tạp như: glycogen, glucose bị phân giải yếm khí tạo ra acid lactic.Các chất này phân giải hiếu khí tạo acid acetic, acid butyric. Ngoài ra các chất béo bị thủy phân tạo glycerin và acid béo hoặc chất đạm khử amin thành acid béo.</para>
+        <figure id="id6605985">
+          <media id="id7708059" alt=""><image src="../../media/graphics9-2ff7.png" mime-type="image/png" height="50" width="282"/></media>
+        </figure>
+        <para id="id6606008">+ Chua vì nhạt đầu: cá nhạt muối không đủ sức kiềm hãm sự phát triển của vi sinh vật, phân giải tạo nhiều acid bay hơi phức tạp làm phát sinh mùi chua, tanh thối nhanh chóng chuyển sang hư thối.</para>
+        <para id="id6606025">- Cách phòng chữa</para>
+        <para id="id6606031">+ Cần phải cho muối đều và đủ.</para>
+        <para id="id6606041">+ Náo đảo, phơi nắng và kéo rút qua bã chượp tốt.</para>
+        <para id="id6606052">+ Dùng rượu chuyển các acid sang dạng ester có mùi thơm hoặc trung hòa bằng NaHCO3.</para>
+        <para id="id6606072">+ Dùng thính để hấp phụ mùi.</para>
+        <para id="id6606081">+ Chua vì mặn đầu tiến hành cho thêm nước lã vào trong chượp và tiến hành chế biến chượp tiếp theo.</para>
+        <para id="id6606094">b. Chượp đen</para>
+        <para id="id6606106">- Hiện tượng: nước bị xám đen, cá nhợt nhạt và ở mức độ cao hơn nữa là cá bị đen.</para>
+        <para id="id6606121">- Nguyên nhân</para>
+        <para id="id6606127">+ Do cá có bùn đất tạp chất không những ở mang, nhớt bên ngoài mà ngay ở nội tạng của cá.</para>
+        <para id="id6606140">+ Do các sắc tố có trong da, thịt và nội tạng của cá như: Lutein, astaxanthin, taraxantin và những dẫn xuất khác như: sepiamelanin có trong mực.</para>
+        <para id="id6606154">+ Do sự phân hủy của các chất khác.</para>
+        <para id="id6606161">+ Do trộn muối không đều gây ngưng tụ nhóm amin và nhóm aldehyde.</para>
+        <figure id="id6606175">
+          <media id="id1172782280653" alt=""><image src="../../media/graphics10-edbf.png" mime-type="image/png" height="30" width="415"/></media>
+        </figure>
+        <para id="id6606199">+ Sự oxy hóa các chất béo chưa bão hòa.</para>
+        <para id="id6606209">Những chất gây đen phần lớn có chứa S, khi phân hủy có thể hình thành H2S, CH3-HS cho màu đen, những chất này tác dụng với ion kim loại cũng cho màu đen.</para>
+        <figure id="id6606243">
+          <media id="id1172786111646" alt=""><image src="../../media/graphics11-1f72.png" mime-type="image/png" height="29" width="344"/></media>
+        </figure>
+        <para id="id6606267">- Cách phòng chữa</para>
+        <para id="id6606273">Tùy theo nguyên nhân có cách phòng chữa khác nhau.</para>
+        <para id="id6606280">+ Xử lý nguyên liệu ban đầu cho tốt.</para>
+        <para id="id6606290">+ Cần chọn lựa nguyên liệu ban đầu cho kỹ, tránh nhiểm bẩn.</para>
+        <para id="id6606302">+ Cho một ít thính rang kỹ và bã chượp tốt vào trong bã chượp bị đen, tiến hành đánh khuấy và tăng cường phơi nắng.</para>
+        <para id="id6606315">+ Dùng chất chống oxy hóa KMnO4, KClO3, H2O2 để oxy hóa các chất đen.</para>
+        <para id="id6606359">+ Khi chượp trở mùi kịp thời cho muối vào để ngăn chặn sự phát triển của vi sinh vật.</para>
+        <para id="id6606371">+ Đun sôi nước bổi, màu đen sẽ bị phá hủy do bay hơi, vi sinh vật bị tiêu diệt.</para>
+        <para id="id6606383">c. Chượp thối</para>
+        <para id="id6606395">- Hiện tượng: chượp thối bao giờ cũng đen và có mùi hôi thối nhưng chượp đen chưa chắc đã thối.</para>
+        <para id="id6606408">- Nguyên nhân: </para>
+        <para id="id6606413">Chủ yếu do muối quá nhạt hoặc sau khi cá đòi muối ta không kịp thời cho muối vào. Khi đó các vi sinh vật hoạt động phân hủy các chất có đạm chủ yếu là các acid amin thành các sản vật cấp thấp làm cho chượp bị thối.</para>
+        <para id="id6606431">Vd: </para>
+        <figure id="id6606443">
+          <media id="id8490523" alt=""><image src="../../media/graphics12-0e90.png" mime-type="image/png" height="52" width="268"/></media>
+        </figure>
+        <para id="id6606467">- Cách phòng chữa</para>
+        <para id="id6606473">+ Cần xử lý nguyên liệu cho tốt để tránh nước mưa vào.</para>
+        <para id="id6606484">+ Dụng cụ chế biến phải sạch sẽ, không để chượp ở nơi ẩm thấp, bẩn thỉu.</para>
+        <para id="id6606496">+ Cần áp dụng đúng kỹ thuật chế biến, đồng thời cần nắm vững hiện tượng cá đòi muối để cho muối đủ, đúng và kịp thời.</para>
+        <para id="id6606510">Nếu chượp bị thối rồi rất khó chữa.</para>
+        <para id="id6606520">+ Có thể trộn với chượp khác và đem nấu.</para>
+        <para id="id6606530">+ Chượp bị nước mưa nhiểu vào thì có thể múc riêng phần đó ra cho muối vào, tăng cường phơi nắng náo đảo.</para>
+        <para id="id6606543">d. Nước mắm thối và cách phòng chữa</para>
+        <para id="id6606556">- Hiện tượng: nước mắm thối nổi lên những bọt nhỏ và dần dần nước bị đục, cá màu nâu xám đến xanh và xông lên mùi hôi thối.</para>
+        <para id="id6606570">- Nguyên nhân:</para>
+        <para id="id6606576">+ Chượp chưa chín chỉ mới phân giải đến sản vật trung gian dễ bị đóng vón, keo tụ mà ta đem kéo rút.</para>
+        <para id="id6606590">+ Do nước mắm lọc không trong (còn lại xác cũ).</para>
+        <para id="id6606601">+ Do nước hâm bị nhạt muối hay quá nóng tạo nhiệt độ và môi trường thích hợp cho vi sinh vật phát triển.</para>
+        <para id="id6606614">+ Do bể thùng lọc hoặc dụng cụ chứa không sạch sẽ có khi lẫn cả xác chượp sống.</para>
+        <para id="id6606626">+ Do nước mắm bị nước mưa hay nước lã đổ vào.</para>
+        <para id="id6606636">- Cách phòng chữa:</para>
+        <para id="id6606642">+ Cần tránh những nguyên nhân trên.</para>
+        <para id="id6606649">+ Cách chữa duy nhất hiện nay là dùng nhiệt độ làm bay hơi mùi hôi thối.</para>
+      </section>
+      <section id="id-143902788365">
+        <title>Các chỉ tiêu phân loại, kiểm tra chượp nước mắm</title>
+        <para id="id6606670">a. Phân loại chượp</para>
+        <section id="id-0651685738172">
+          <title> Chia làm 3 loại</title>
+          <para id="id6606691">- Chượp loại A: gồm tất cả các loại chượp của cá nổi như: cá cơm, cá nục, cá linh. Chượp tốt loại này dùng để sản xuất nước mắm thượng hạng.</para>
+          <para id="id6606706">- Chượp loại B: gồm các loại chượp của cá nổi có chất lượng kém hơn và các loại chượp của cá khác có chất lượng tốt. Chượp này dùng để sản xuất nước mắm đặc biệt và loại I.</para>
+          <para id="id6606723">- Chượp loại C: là chượp của những loại cá đáy có chất lượng xấu như cá phèn, cá mối...</para>
+          <para id="id6606735">b. Chỉ tiêu đánh giá chượp chín</para>
+          <para id="id6606748">* Cảm quan</para>
+          <para id="id6606760">- Màu sắc: màu nâu tươi, nâu xám hoặc xám. Riêng nước cốt có màu vàng rơm đến cánh gián.</para>
+          <para id="id6606772">- Mùi thơm đặc trưng, không có mùi chua, mùi lạ.</para>
+          <para id="id6606782">- Trạng thái</para>
+          <para id="id6606788">+ Đối với chượp gài nén: cá còn nguyên con, nếu sẽ ra thịt cá tách khỏi xương, nếu khuấy thịt sẽ nát vụn.</para>
+          <para id="id6606801">+ Đối với chượp đánh khuấy: cá nát nhuyển, cái chượp sáng, khi đánh khuấy không có hiện tượng sủi bọt.</para>
+          <para id="id6606814">* Hóa học: có 2 yếu tố</para>
+          <para id="id6606831"> Tỉ lệ nitơ amin trên đạm toàn phần của nước cốt.</para>
+          <para id="id6606842">+ Đối với chượp cá nổi tỉ lệ này &gt; 45%.</para>
+          <para id="id6606852">+ Đối với chượp cá đáy tỉ lệ này &gt; 40%.</para>
+          <para id="id6606862">* Một vài phương pháp khác </para>
+          <para id="id6606875">- Phương pháp phơi nắng hoặc sấy ở 50oC, nếu nước mắm đó không có biến đổi gì so với mẫu đối chứng là nước mắm đã chín. Nếu màu từ vàng rơm hoặc cánh gián chuyển sang vàng nhạt mất hương vị đặc trưng, vẫn đục thì chượp chưa chín.</para>
+          <para id="id6606902">- Phương pháp lắng đọng: người ta sử dụng phương pháp cơ học lắc mạnh mẫu nước mắm, lắc 30-40 lần sau đó để yên 20 phút, nếu mẫu nước mắm đó không có biến đổi gì so với mẫu đối chứng đó là chượp đã chín.</para>
+          <para id="id6606920">c. Tiêu chuẩn của nước mắm thành phẩm</para>
+          <para id="id6606933">Bảng 5.2. Tiêu chuẩn đánh giá chất lượng nước mắm</para>
+          <table id="id6606953" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>LoạiChỉ tiêu</entry>
+                  <entry>Đặc biệt (g/l)</entry>
+                  <entry>Loại 1</entry>
+                  <entry>Loại 2</entry>
+                </row>
+                <row>
+                  <entry>Nitơ tổng số</entry>
+                  <entry>20</entry>
+                  <entry>15</entry>
+                  <entry>11</entry>
+                </row>
+                <row>
+                  <entry>Nitơ amin</entry>
+                  <entry>8,5</entry>
+                  <entry>6,5</entry>
+                  <entry>4</entry>
+                </row>
+                <row>
+                  <entry>Nitơ amoniac</entry>
+                  <entry>&lt;5</entry>
+                  <entry>4</entry>
+                  <entry>3</entry>
+                </row>
+                <row>
+                  <entry>Muối</entry>
+                  <entry>250 - 265</entry>
+                  <entry>260 - 280</entry>
+                  <entry>265 - 285</entry>
+                </row>
+                <row>
+                  <entry>Thời gian bảo quản (ngày)</entry>
+                  <entry>150</entry>
+                  <entry>100</entry>
+                  <entry>70</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6607251">d. Pha chế nước mắm</para>
+          <para id="id6607282">Giả sử ta có: Nước mắm cốt AoN</para>
+          <para id="id6607301">Nước mắm ngang BoN</para>
+          <para id="id6607323"> AoN &gt; 15 &gt; BoN</para>
+          <para id="id6607353">Pha thành nước mắm có 15oN. Tỷ lệ sử dụng</para>
+          <figure id="id6607378">
+            <media id="id1172785713946" alt=""><image src="../../media/graphics13-e49f.png" mime-type="image/png" height="89" width="268"/></media>
+          </figure>
+          <para id="id6607401">e. Bảo quản nước mắm</para>
+          <para id="id6607414">Nhờ muối và hàm lượng đạm cao, tạo áp suất thẩm thấu lớn ức chế hoạt động của vi sinh vật. Hàm lượng đạm cao thời gian bảo quản rất dài từ hàng năm đến hàng chục năm nhưng hương vị kém đi.</para>
+          <para id="id6607431">Dụng cụ chứa phải vệ sinh sạch sẽ</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

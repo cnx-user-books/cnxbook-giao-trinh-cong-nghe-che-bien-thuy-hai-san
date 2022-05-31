@@ -1,0 +1,893 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Các biến đổi của động vật thủy sản sau khi chết</title>
+  <metadata>
+  <md:content-id>m30310</md:content-id><md:title>Các biến đổi của động vật thủy sản sau khi chết</md:title>
+  <md:abstract>CÁC BIẾN ĐỔI CỦA ĐỘNG VẬT THỦY SẢN SAU KHI CHẾT</md:abstract>
+  <md:uuid>d362cb89-3329-41df-856d-eba3c4437fcf</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6427180">Cá từ khi đánh được đến khi chết, trong cơ thể của nó bắt đầu có hàng loạt sự thay đổi về vật lý và hóa học. Sự biến đổi của cá sau khi chết được mô tả theo sơ đồ:</para>
+    <para id="id6427196"><figure id="id6427207"><media id="id3760608" alt=""><image src=".png" mime-type="image/png" height="358" width="500"/></media></figure>Hình 2.1.</para>
+    <para id="id6427258"/>
+    <section id="id-0825702508555">
+      <title>Các biến đổi cảm quan</title>
+      <para id="id6427270">Biến đổi về cảm quan là những biến đổi được nhận biết nhờ các giác quan như biểu hiện bên ngoài, mùi, kết cấu và vị. </para>
+      <section id="id-848858512262">
+        <title>Những biến đổi ở cá tươi nguyên liệu</title>
+        <para id="id6427292">Trong quá trình bảo quản, những biến đổi đầu tiên của cá về cảm quan liên quan đến biểu hiện bên ngoài và kết cấu. Vị đặc trưng của các loài cá thường thể hiện rõ ở vài ngày đầu của quá trình bảo quản bằng nước đá.</para>
+        <para id="id6427309">Biến đổi nghiêm trọng nhất là sự bắt đầu mạnh mẽ của quá trình tê cứng. Ngay sau khi chết, cơ thịt cá duỗi hoàn toàn và kết cấu mềm mại, đàn hồi thường chỉ kéo dài trong vài giờ, sau đó cơ sẽ co lại. Khi cơ trở nên cứng, toàn bộ cơ thể cá khó uốn cong thì lúc này cá đang ở trạng thái tê cứng. Trạng thái này thường kéo dài trong một ngày hoặc kéo dài hơn, sau đó hiện tượng tê cứng kết thúc. Khi kết thúc hiện tượng tê cứng, cơ duỗi ra và trở nên mềm mại nhưng không còn đàn hồi như tình trạng trước khi tê cứng. Thời gian của quá trình tê cứng và quá trình mềm hoá sau tê cứng thường khác nhau tuỳ theo loài cá và chịu ảnh hưởng của các yếu tố như nhiệt độ, phương pháp xử lý cá, kích cỡ và điều kiện vật lý của cá (Bảng 2.1).</para>
+        <para id="id6427346">Sự ảnh hưởng của nhịệt độ đối với hiện tượng tê cứng cũng không giống nhau. Đối với cá tuyết, nhiệt độ cao làm cho hiện tượng tê cứng diễn ra nhanh và rất mạnh. Nên tránh điều này vì lực tê cứng mạnh có thể gây ra rạn nứt cơ thịt, nghĩa là mô liên kết trở nên yếu hơn và làm đứt gãy miếng philê .</para>
+        <para id="id6427369">Bảng 2.1 Sự bắt đầu và khoảng thời gian tê cứng ở một số loài cá khác nhau</para>
+        <table id="id6427380" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Loài cá</entry>
+                <entry>Điều kiện</entry>
+                <entry>Nhiệt độ (0C)</entry>
+                <entry>Thời gian kể từ khi chết đến khi bắt đầu tê cứng (giờ)</entry>
+                <entry>Thời gian kể từ khi chết đến khi kết thúc tê cứng (giờ)</entry>
+              </row>
+              <row>
+                <entry>Cá tuyết (Gadus morhua)</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry>Bị sốc</entry>
+                      <entry>0</entry>
+                      <entry>2-8</entry>
+                      <entry>20-65</entry>
+                    </row>
+                    <row>
+                      <entry>Bị sốc</entry>
+                      <entry>10-12</entry>
+                      <entry>1</entry>
+                      <entry>20-30</entry>
+                    </row>
+                    <row>
+                      <entry>Bị sốc</entry>
+                      <entry>30</entry>
+                      <entry>0,5</entry>
+                      <entry>1-2</entry>
+                    </row>
+                    <row>
+                      <entry>Không bị sốc</entry>
+                      <entry>0</entry>
+                      <entry>14-15</entry>
+                      <entry>72-96</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Cá song (Epinephelus malabaricus)</entry>
+                <entry>Không bị sốc</entry>
+                <entry>2</entry>
+                <entry>2</entry>
+                <entry>18</entry>
+              </row>
+              <row>
+                <entry>Cá rô phi xanh (Areochromis aureus)</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry>Bị sốc</entry>
+                      <entry>0</entry>
+                      <entry>1</entry>
+                      <entry>-</entry>
+                    </row>
+                    <row>
+                      <entry>Không bị sốc</entry>
+                      <entry>0</entry>
+                      <entry>6</entry>
+                      <entry>-</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Cá rô phi nhỏ (60g) (Tilapia mossambica)</entry>
+                <entry>Không bị sốc</entry>
+                <entry>0-2</entry>
+                <entry>2-9</entry>
+                <entry>26,5</entry>
+              </row>
+              <row>
+                <entry>Cá tuyết đuôi dài (Macrourus whitson)</entry>
+                <entry>Bị sốc</entry>
+                <entry>0</entry>
+                <entry>&lt;1</entry>
+                <entry>35-55</entry>
+              </row>
+              <row>
+                <entry>Cá cơm (Engraulis anchoita)</entry>
+                <entry>Bị sốc</entry>
+                <entry>0</entry>
+                <entry>20-30</entry>
+                <entry>18</entry>
+              </row>
+              <row>
+                <entry>Cá bơn (Pleuronectes platessa)</entry>
+                <entry>Bị sốc</entry>
+                <entry>0</entry>
+                <entry>7-11</entry>
+                <entry>54-55</entry>
+              </row>
+              <row>
+                <entry>Cá tuyết đen (Pollachius virens)</entry>
+                <entry>Bị sốc</entry>
+                <entry>0</entry>
+                <entry>18</entry>
+                <entry>110</entry>
+              </row>
+              <row>
+                <entry>Cá quân (Sebastes spp.)</entry>
+                <entry>Bị sốc</entry>
+                <entry>0</entry>
+                <entry>22</entry>
+                <entry>120</entry>
+              </row>
+              <row>
+                <entry>Cá bơn Nhật Bản (Paralichthys olivaceus)</entry>
+                <entry>-</entry>
+                <entry>0</entry>
+                <entry>3</entry>
+                <entry>&gt;72</entry>
+              </row>
+              <row>
+                <entry>Cá bơn Nhật Bản (Paralichthys olivaceus)</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry>-</entry>
+                      <entry>5</entry>
+                      <entry>12</entry>
+                      <entry>&gt;72</entry>
+                    </row>
+                    <row>
+                      <entry>-</entry>
+                      <entry>10</entry>
+                      <entry>6</entry>
+                      <entry>72</entry>
+                    </row>
+                    <row>
+                      <entry>-</entry>
+                      <entry>15</entry>
+                      <entry>6</entry>
+                      <entry>48</entry>
+                    </row>
+                    <row>
+                      <entry>-</entry>
+                      <entry>20</entry>
+                      <entry>6</entry>
+                      <entry>24</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Cá chép (Cyprinus carpio)</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry>-</entry>
+                      <entry>0</entry>
+                      <entry>8</entry>
+                      <entry>-</entry>
+                    </row>
+                    <row>
+                      <entry>-</entry>
+                      <entry>10</entry>
+                      <entry>60</entry>
+                      <entry>-</entry>
+                    </row>
+                    <row>
+                      <entry>-</entry>
+                      <entry>20</entry>
+                      <entry>16</entry>
+                      <entry>-</entry>
+                    </row>
+                    <row>
+                      <entry>Bị sốc</entry>
+                      <entry>0</entry>
+                      <entry>1</entry>
+                      <entry>-</entry>
+                    </row>
+                    <row>
+                      <entry>Không bị sốc</entry>
+                      <entry>0</entry>
+                      <entry>6</entry>
+                      <entry>-</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6428854">Nguồn:Hwang, 1991; Iwamoto, 1987; Korhonen, 1990; Nakayama, 1992; Nazir và Magar, 1963; Partmann, 1965; Pawar và Magar, 1965; Stroud, 1969; Trucco, 1982.</para>
+        <para id="id6428873"/>
+        <para id="id6428877">Nói chung, người ta thừa nhận rằng ở điều kiện nhiệt độ cao thì thời điểm tê cứng đến sớm và thời gian tê cứng ngắn. Tuy nhiên, qua nghiên cứu, đặc biệt đối với cá nhiệt đới, người ta thấy rằng nhiệt độ lại có ảnh hưởng ngược lại đối với sự bắt đầu của quá trình tê cứng. Bằng chứng là đối với các loài cá này thì sự tê cứng lại bắt đầu xảy ra sớm hơn ở nhiệt độ 0oC so với nhiệt độ 10oC ở các loài cá khác, mà điều này có liên quan đến sự kích thích những biến đổi sinh hoá ở 0oC. (Poulter và cộng sự, 1982; Iwamoto và cộng sự, 1987). Tuy nhiên, Abe và Okuma (1991) qua nghiên cứu sự xuất hiện quá trình tê cứng trên cá chép đã cho rằng hiện tượng tê cứng phụ thuộc vào sự khác biệt giữa nhiệt độ môi trường nơi cá sống và nhiệt độ bảo quản. Khi có sự khác biệt lớn thì khoảng thời gian từ khi cá chết đến khi xảy ra hiện tượng tê cứng trở nên ngắn hơn và ngược lại.</para>
+        <para id="id6428935">Hiện tượng tê cứng xảy ra ngay lập tức hoặc chỉ sau một thời gian rất ngắn kể từ khi cá chết nếu cá đói và nguồn glycogen dự trữ bị cạn hoặc cá bị sốc (stress). Phương pháp đập và giết chết cá cũng ảnh hưởng đến thời điểm bắt đầu hiện tượng tê cứng. Làm chết cá bằng cách giảm nhiệt (cá bị giết chết trong nước đá lạnh) làm cho sự tê cứng xuất hiện nhanh, còn khi đập vào đầu cá thì thời điểm bắt đầu tê cứng sẽ đến chậm, có thể đến 18 giờ (Azam và cộng sự , 1990; Proctor và cộng sự , 1992).</para>
+        <para id="id6428956">Ý nghĩa về mặt công nghệ của hiện tượng tê cứng là rất quan trọng khi cá được philê vào thời điểm trước hoặc trong khi tê cứng. Nếu philê cá trong giai đoạn tê cứng, do cơ thể cá hoàn toàn cứng đờ nên năng suất phi lê sẽ rất thấp và việc thao tác mạnh có thể gây rạn nứt các miếng philê. Nếu cá được philê trước khi tê cứng thì cơ có thể co lại một cách tự do và miếng philê sẽ bị ngắn lại theo tiến trình tê cứng. Cơ màu sẫm có thể co lại đến 52% và cơ màu trắng co đến 15% chiều dài ban đầu (Buttkus, 1963). Nếu luộc cá trước khi tê cứng thì cấu trúc cơ thịt rất mềm và nhão. Ngược lại, luộc cá ở giai đoạn tê cứng thì cơ thịt dai nhưng khô, còn nếu luộc cá sau giai đoạn tê cứng thì thịt cá trở nên săn chắc, mềm mại và đàn hồi.</para>
+        <para id="id6428992">Cá nguyên con và cá phi lê đông lạnh trước giai đoạn tê cứng có thể sẽ cho ra các sản phẩm có chất lượng tốt nếu rã đông một cách cẩn thận chúng ở nhiệt độ thấp, nhằm mục đích làm cho giai đoạn tê cứng xảy ra trong khi cơ vẫn còn được đông lạnh. </para>
+        <para id="id6429011">Những biến đổi đặc trưng về cảm quan sau khi cá chết rất khác nhau tùy theo loài cá và phương pháp bảo quản. Ở bảng 2.2, EEC đã đưa ra mô tả khái quát để hướng dẫn đánh giá chất lượng của cá. Thang điểm từ 0 đến 3 trong đó điểm 3 tương ứng với mức chất lượng tốt nhất.</para>
+      </section>
+      <section id="id-0696357215541">
+        <title>Những biến đổi chất lượng</title>
+        <para id="id6429042">Có thể phát hiện và chia các kiểu ươn hỏng đặc trưng của cá bảo quản bằng nước đá theo 4 giai đoạn (pha) như sau:</para>
+        <para id="id6429054">- Giai đoạn (pha) 1: Cá rất tươi và có vị ngon, ngọt, mùi như rong biển. Vị tanh rất nhẹ của kim loại. </para>
+        <para id="id6429068">- Giai đoạn (pha) 2: Mất mùi và vị đặc trưng. pH của thịt cá trở nên trung tính nhưng không có mùi lạ. Cấu trúc cơ thịt vẫn còn tốt .</para>
+        <para id="id6429081">- Giai đoạn (pha) 3: Có dấu hiệu ươn hỏng và tùy theo loài cá cũng như là kiểu ươn hỏng (hiếu khí, yếm khí) mà sẽ tạo ra một loạt các chất dễ bay hơi, mùi khó chịu. Một trong những hợp chất bay hơi có thể là trimethylamin (TMA) do vi khuẩn sinh ra từ quá trình khử trimethylamin oxyt (TMAO). TMA có mùi “cá tanh” rất đặc trưng. Ngay khi bắt đầu giai đoạn (pha) này, mùi lạ có thể là mùi hơi chua, mùi như trái cây và mùi hơi đắng, đặc biệt là ở các loại cá béo. Trong những thời kỳ tiếp theo của giai đoạn này, các mùi tanh ngọt, mùi như bắp cải, mùi khai, mùi lưu huỳnh và mùi ôi khét tăng lên. Cấu trúc hoặc là trở nên mềm và sũng nước hoặc là trở nên dai và khô.</para>
+        <para id="id6429117">- Giai đoạn (pha) 4: Đặc trưng của cá có thể là sự ươn hỏng và phân hủy (thối rữa).</para>
+        <para id="id6429128">Bảng 2.2. Đánh giá độ tươi: Qui chế của Hội đồng (EEC) No. 103/76 OJ No.L20</para>
+        <para id="id6429138">(28-01-1976) (EEC,1976).</para>
+        <table id="id6429146" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Các bộ phận được kiểm tra</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c4">Các tiêu chí</entry>
+                    </row>
+                    <row>
+                      <entry namest="c1" nameend="c4">Điểm</entry>
+                    </row>
+                    <row>
+                      <entry>3</entry>
+                      <entry>2</entry>
+                      <entry>1</entry>
+                      <entry>0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c5">Biểu hiện bên ngoài</entry>
+              </row>
+              <row>
+                <entry>Da</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry>Sáng, hệ sắc tố óng ánh, không biến màu </entry>
+                      <entry>Hệ sắc tố sáng nhưng không bóng láng.</entry>
+                      <entry>Hệ sắc tố đang trong quá trình biến màu và mờ đục.</entry>
+                      <entry>1) Hệ sắc tố mờ đục.</entry>
+                    </row>
+                    <row>
+                      <entry>Dịch nhớt trong suốt như có nước.</entry>
+                      <entry>Dịch nhớt hơi đục.</entry>
+                      <entry>Dịch nhớt trắng đục.</entry>
+                      <entry>Dịch nhớt mờ đục</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Mắt</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry>Lồi (phồng lên). </entry>
+                      <entry>Lồi và hơi trũng.</entry>
+                      <entry>Phẳng.</entry>
+                      <entry>1) Lõm ở giữa.</entry>
+                    </row>
+                    <row>
+                      <entry>Giác mạc trong suốt.</entry>
+                      <entry>Giác mạc hơi đục </entry>
+                      <entry>Giác mạc đục.</entry>
+                      <entry>Giác mạc đục như sữa.</entry>
+                    </row>
+                    <row>
+                      <entry>Đồng tử đen, sáng.</entry>
+                      <entry>Đồng tử đen, mờ.</entry>
+                      <entry>Đồng tử mờ đục.</entry>
+                      <entry>Đồng tử xám xịt.</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Mang</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry>Màu sáng.</entry>
+                      <entry>Giảm màu.</entry>
+                      <entry>Đang trở nên biến màu.</entry>
+                      <entry>1) Hơi vàng.</entry>
+                    </row>
+                    <row>
+                      <entry>Không có dịch nhớt.</entry>
+                      <entry>Hơi có vết của dịch nhớt.</entry>
+                      <entry>Dịch nhớt mờ đục.</entry>
+                      <entry>Dịch nhớt đục như sữa.</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Thịt (cắt từ phần bụng)</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry>Hơi xanh , trong mờ, nhẵn và sáng.</entry>
+                      <entry>Mượt như nhung, có sáp, mờ đục.</entry>
+                      <entry>Hơi đục.</entry>
+                      <entry>1) Đục hẳn.</entry>
+                    </row>
+                    <row>
+                      <entry>Không thay đổi màu nguyên thủy.</entry>
+                      <entry>Màu hơi biến đổi.</entry>
+                      <entry/>
+                      <entry/>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Màu (dọc theo cột sống)</entry>
+                <entry>Không màu.</entry>
+                <entry>Phớt hồng.</entry>
+                <entry>Hồng.</entry>
+                <entry>1) Đỏ.</entry>
+              </row>
+              <row>
+                <entry>Các cơ quan</entry>
+                <entry>Thận và phần còn lại của các cơ quan khác phải đỏ sáng như máu ở trong động mạch chủ.</entry>
+                <entry>Thận và phần còn lại của các cơ quan khác phải đỏ đục, máu bị biến màu.</entry>
+                <entry>Thận, phần còn lại của các cơ quan khác và máu phải có màu đỏ nhợt.</entry>
+                <entry>1) Thận, phần còn lại của các cơ quan khác và máu phải có màu nâu nhạt.</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c5">Điều kiện</entry>
+              </row>
+              <row>
+                <entry>Thịt</entry>
+                <entry>Chắc và đàn hồi.Bề mặt nhẵn.</entry>
+                <entry>Kém đàn hồi.</entry>
+                <entry>Hơi mềm (mềm xìu), kém đàn hồi . Như có sáp (mượt như nhung) và bề mặt mờ đục.</entry>
+                <entry>1) Mềm (mềm xìu). Vẩy dễ dàng tách khỏi da, bề mặt rất nhăn nheo, có chiều hướng giống bột.</entry>
+              </row>
+              <row>
+                <entry>Cột sống</entry>
+                <entry>Gẫy, thay vì rời ra.</entry>
+                <entry>Dính</entry>
+                <entry>Hơi dính</entry>
+                <entry>1) Không dính.</entry>
+              </row>
+              <row>
+                <entry>Màng bụng</entry>
+                <entry>Dính hòan toàn vào thịt.</entry>
+                <entry>Dính</entry>
+                <entry>Hơi dính</entry>
+                <entry>1) Không dính.</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c5">Mùi</entry>
+              </row>
+              <row>
+                <entry>Mang, da, khoang bụng.</entry>
+                <entry>Rong biển.</entry>
+                <entry>Không có mùi rong biển hoặc bất kỳ mùi khó chịu nào. </entry>
+                <entry>Hơi chua.</entry>
+                <entry>1) Chua</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6430422">1) Hoặc ở trạng thái tệ hại hơn.</para>
+        <para id="id6430434">Có thể dùng thang điểm để đánh giá cảm quan đối với cá luộc như đã trình bày ở hình 2.2. Thang điểm được đánh số từ 0 đến 10. Điểm 10 chỉ độ tươi tuyệt đối, điểm 8 chỉ chất lượng tốt, điểm 6 chỉ mức chất lượng trung bình, thịt cá không có vị đặc trưng và điểm 4 chỉ mức bị loại bỏ. Khi dùng thang điểm này, đồ thị có dạng chữ S cho thấy ở giai đoạn đầu tiên, chất lượng của cá đã giảm nhanh chóng, ở giai đoạn 2 và 3 tốc độ giảm chất lượng chậm hơn, còn ở giai đoạn cuối cùng, tốc độ giảm chất lượng xảy ra nhanh một khi cá bị ươn thối.</para>
+        <para id="id6430467">
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      </para>
+        <para id="id6430494">Hình 2.2 Biến đổi chất lượng của cá tuyết ướp đá (0oC) </para>
+        <para id="id6430521">Nguồn: Huss, 1976</para>
+      </section>
+    </section>
+    <section id="id-198357627168">
+      <title>Các biến đổi tự phân giải</title>
+      <para id="id6430537">Những biến đổi tự phân giải do hoạt động của enzym góp phần làm giảm chất lượng của cá, cùng với quá trình ươn hỏng do vi sinh vật gây nên.</para>
+      <section id="id-174263356238">
+        <title>Sự phân giải glycogen (quá trình glycosis)</title>
+        <para id="id6430563">Glycogen bị phân giải dưới tác dụng của men glycolysis trong điều kiện không có oxy bằng con đường Embden – Meyerhof, dẫn đến sự tích lũy acid lactic làm giảm pH của cơ thịt cá. Đối với cá tuyết, pH ở cơ thịt giảm từ 6,8 xuống mức pH cuối cùng là 6,1-6,5. Với một số loài cá khác, pH cuối cùng có thể thấp hơn: ở cá thu cỡ lớn thì pH có thể giảm xuống đến mức 5,8-6,0; ở cá ngừ và cá bơn lưỡi ngựa thì pH giảm xuống đến 5,4-5,6; tuy nhiên pH thấp như vậy ít khi thấy ở các loài cá xương ở biển. pH của cơ thịt cá hiếm khi thấp bằng pH của cơ thịt động vật có vú sau khi chết. Ví dụ ở cơ thịt bò thì pH thường giảm xuống đến 5,1 trong giai đoạn tê cứng. Lượng axit lactic được sản sinh ra có liên quan đến lượng cacbohydrat dự trữ (glycogen) trong mô cơ khi động vật còn sống. Nói chung, do cơ thịt cá có hàm lượng glycogen tương đối thấp so với động vật có vú nên sau khi cá chết thì lượng acid lactic được sinh ra ít hơn. Trạng thái dinh dưỡng của cá, hiện tượng sốc và mức độ hoạt động trước khi chết cũng có ảnh hưởng lớn đến hàm lượng glycogen dự trữ và do đó ảnh hưởng đến pH cuối cùng của cá sau khi chết. </para>
+        <para id="id6430601">Theo quy luật, cá ăn nhiều và nghỉ ngơi nhiều sẽ có hàm lượng glycogen nhiều hơn cá đã bị kiệt sức. Một nghiên cứu gần đây về cá chạch Nhật Bản (Chipa và cộng sự, 1991) cho thấy rằng chỉ vài phút gây giẫy giụa khi đánh bắt cá đã làm cho pH của cá giảm 0,5 đơn vị trong 3 giờ so với cá không giẫy giụa khi đánh bắt thì pH của nó chỉ giảm 0,1 đơn vị trong cùng thời gian như trên. Ngoài ra, các tác giả này còn cho thấy việc cắt tiết đã làm giảm đáng kể sự sản sinh axit lactic sau khi chết.</para>
+        <para id="id6430630">pH của cơ thịt cá giảm sau khi cá chết có ảnh hưởng đến tính chất vật lý của cơ thịt cá. Khi pH giảm, điện tích bề mặt của protein sợi cơ giảm đi, làm cho các protein đó bị biến tính cục bộ và làm giảm khả năng giữ nước của chúng. Mô cơ trong giai đoạn tê cứng sẽ mất nước khi luộc và đặc biệt không thích hợp cho quá trình chế biến có xử lý nhiệt, vì sự biến tính do nhiệt càng làm tăng sự mất nước. Sự mất nước có ảnh hưởng xấu đến cấu trúc của cơ thịt cá và Love (1975) đã cho thấy giữa độ dai cơ thịt và pH có mối quan hệ tỉ lệ nghịch, độ dai ở mức không thể chấp nhận được (mất nước khi luộc) sẽ xảy ra ở cơ thịt có pH thấp (Hình 2.3).</para>
+        <para id="id6430666">
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      </para>
+        <para id="id6430692">Hình 2.3. Mối quan hệ giữa cấu trúc của cơ thịt cá tuyết và pH </para>
+        <para id="id6430713">Dấu chấm đen tương ứng với cá đánh bắt ở St. Kilda, biển Đại Tây Dương. </para>
+        <para id="id6430725">Dấu tam giác tương ứng với cá đánh bắt ở Fyllas Bank, Davis Strait .</para>
+        <para id="id6430736">Nguồn: Love (1975) </para>
+        <para id="id6430743">Sự biến đổi pH của cá sau khi chết phụ thuộc rất lớn vào nhiệt độ môi trường</para>
+        <para id="id6430754">Vd. Ở 5oC, sự biến đổi pH của cá diễn ra như sau (hình 2.4):</para>
+        <para id="id6430772">A - B: 4 - 6 giờ</para>
+        <para id="id6430778">B - C - D: 5 - 10 giờ</para>
+        <para id="id6430785">D - E: 3 - 4 ngày</para>
+        <para id="id6430791">E - F - G: 3 - 4 ngày</para>
+        <para id="id6430797">Từ đồ thị hình 2.4 ta thấy khi pH giảm xuống thấp nhất thì cá cứng và khi pH trở lại trung tính thì cá mềm và sau khi mềm thì tiến đến tự phân giải rồi thối rữa.</para>
+        <para id="id6430812">Khi pH giảm, sự hút nước của cơ thể cá cũng giảm. Khi pH = 7 lượng nước hút vào bằng dung tích của cơ thịt. Khi pH = 6 thì dưới 50% và khi pH = 5 thì gần đến điểm đẳng điện của protein nên lượng nước hút vào bé nhất chỉ khoảng 25%.</para>
+        <para id="id6430829">Tóm lại: Cá bắt lên một thời gian rồi chết có pH = 7, sau đó giảm xuống đến pH thấp nhất, cá trở nên cứng. pH giảm đến một mức độ nào đó lại tăng lên gần trung tính, cá lúc này trở nên mềm.</para>
+        <figure id="id6430849">
+          <media id="id1164779356927" alt=""><image src="../../media/graphics1-3190.png" mime-type="image/png" height="363" width="463"/></media>
+        </figure>
+        <para id="id6430873"/>
+        <para id="id6430877">Hình 2.4. Sơ đồ sự biến đổi pH của cá sau khi chết </para>
+        <para id="id6430889">A. Thời gian khi đánh bắtB. Thời gian khi chết, bắt đầu tê cứng</para>
+        <para id="id6430905">C. Cá có pH thấp nhấtD. Cá cứng nhất</para>
+        <para id="id6430919">E. Cá bắt đầu mềmF: Cá bắt đầu ươn hỏng</para>
+        <para id="id6430935">G: Cá ươn hỏng</para>
+      </section>
+      <section id="id-889964745232">
+        <title>Sự phân hủy ATP</title>
+        <para id="id6430952">Sau khi chết, ATP bị phân hủy nhanh tạo thành inosine monophosphate (IMP) bởi enzym nội bào (sự tự phân). Tiếp theo sự phân giải của IMP tạo thành inosine và hypoxanthine là chậm hơn nhiều và được xúc tác chính bởi enzym nội bào IMP phosphohydrolase và inosine ribohydrolase, cùng với sự tham gia của enzym có trong vi khuẩn khi thời gian bảo quản tăng. Sự phân giải ATP được tìm thấy song song với sự mất độ tươi của cá, được xác định bằng phân tích cảm quan.</para>
+        <para id="id6430967">ATP bị phân hủy xảy ra theo bởi các phản ứng tự phân:</para>
+        <figure id="id6430977">
+          <media id="id1164779369493" alt=""><image src="../../media/graphics2-8185.png" mime-type="image/png" height="84" width="497"/></media>
+        </figure>
+        <para id="id6431001">Trong tất cả các loài cá, các giai đoạn tự phân xảy ra giống nhau nhưng tốc độ tự phân khác nhau, thay đổi tùy theo loài.</para>
+        <para id="id6431014">Glycogen và ATP hầu như biến mất trước giai đoạn tê cứng, trong khi đó IMP và HxR vẫn còn duy trì. Khi hàm lượng IMP và HxR bắt đầu giảm, hàm lượng Hx tăng lên. pH giảm xuống đến mức thấp nhất ở giai đoạn tự phân này.</para>
+        <para id="id6431030">ATP như là chất chỉ thị hóa học về độ tươi: Chỉ số hóa học về độ tươi của cá là biểu hiện bên ngoài bằng cách định lượng, đánh giá khách quan và cũng có thể bằng cách kiểm tra tự động. Một mình ATP không thể sử dụng để đánh giá độ tươi bởi vì ATP nhanh chóng chuyển đổi tạo thành IMP. Sản phẩm trung gian của sự phân hủy này tăng và giảm làm cho kết quả không chính xác. Khi xác định kết quả, cần chú ý đến inosine và hypoxanthin, chất chuyển hóa cuối cùng của ATP. </para>
+        <para id="id6431058">Hypoxanthine được dùng như một tiêu chuẩn để đánh giá mức độ tươi của cá. Tuy nhiên, điều này có thể dẫn đến sự nhầm lẫn khi so sánh giữa các loài với nhau. Ở một số loài quá trình phân hủy tạo thành HxR trong khi các loài khác lại sinh Hx. Vì vậy, để nhận biết mức độ tươi của cá một cách chính xác người ta đưa ra trị số K. Trị số K biểu diễn mối liên hệ giữa inosine, hypoxanthine và tổng hàm lượng của ATP thành phần:</para>
+        <figure id="id6431082">
+          <media id="id1164784714689" alt=""><image src="../../media/graphics3-5530.png" mime-type="image/png" height="76" width="438"/></media>
+        </figure>
+        <para id="id6431106">Trong đó, [ATP], [ADP], [AMP], [IMP], [HxR], [Hx] là nồng độ tương đối của các hợp chất tương ứng trong cơ thịt cá được xác định tại các thời điểm khác nhau trong quá trình bảo quản lạnh. Trị số K càng thấp, cá càng tươi.</para>
+        <para id="id6431125"> IMP và 5 nucleotide khác có tác dụng như chất tạo mùi cho cá, chúng liên kết với acid glutamic làm tăng mùi vị của thịt cá. IMP tạo mùi vị đặc trưng, hypoxanthine có vị đắng. Sự mất mùi vị cá tươi là kết quả của quá trình phân hủy IMP.</para>
+        <para id="id6431143"> Surette và cộng sự (1988) đã theo dõi sự tự phân giải ở cá tuyết thanh trùng và không thanh trùng thông qua các chất dị hóa ATP. Tốc độ hình thành và bẻ gãy phân tử IMP như nhau trong cả 2 mẫu mô cơ của cá tuyết thanh trùng và không thanh trùng (hình 2.5a và 2.5b) cho thấy quá trình dị hóa đối với sự phân giải ATP đến inosine hoàn toàn do các enzym tự phân giải. </para>
+        <para id="id6431163">Hình 2.5a. Sự biến đổi đối với IMP, Ino và Hx trong miếng philê cá tuyết vô trùng ở 3oCHình 2.5b. Sự biến đổi đối với IMP, Ino và Hx trong miếng philê cá tuyết chưa vô trùng ở 3oC
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      </para>
+      </section>
+      <section id="id-589698170416">
+        <title>Sự phân giải protein</title>
+        <para id="id6431312">Biến đổi tự phân của protein trong cá ít được chú ý. Hệ enzym protease quan trọng nhất là men cathepsin, trong cá chúng hoạt động rất thấp, nhưng ngược lại hoạt động mạnh ở các loài tôm, cua và nhuyễn thể.</para>
+        <para id="id6431329">a. Các enzym cathepsin</para>
+        <para id="id6431340">Cathepsin là enzym thủy phân nằm trong lysosome. Enzym quan trọng nhất là cathepsin D tham gia vào quá trình thủy phân protein nội tại của tế bào tạo thành peptide ở pH = 2-7. Sau đó peptide tiếp tục bị phân hủy dưới tác của men cathepsin A, B và C. Tuy nhiên, quá trình phân giải protein dưới tác dụng enzym thủy phân trong thịt cá rất ít. Enzym cathepsin có vai trò chính trong quá trình tự chín của cá ở pH thấp và nồng độ muối thấp. Enzym cathepsin bị ức chế hoạt động ở nồng độ muối 5%.</para>
+        <para id="id6431359">b. Các enzym calpain</para>
+        <para id="id6431371">Gần đây, người ta đã tìm thấy mối liên hệ giữa một nhóm enzym proteaza nội bào thứ hai - đ­ược gọi là "calpain" hay "yếu tố đ­ược hoạt hóa bởi canxi" (CAF) - đối với quá trình tự phân giải cơ thịt cá đư­ợc tìm thấy trong thịt, các loài cá có vây và giáp xác.Các enzym calpain tham gia vào quá trình làm gãy và tiêu hũy protein trong sợi cơ.</para>
+        <para id="id6431396">c. Các enzym collagenase</para>
+        <para id="id6431401">Enzym collagenase giúp làm mềm tế bào mô liên kết. Các enzym này gây ra các “vết nứt” hoặc bẻ gãy các myotome khi bảo quản cá bằng đá trong một thời gian dài hoặc khi bảo quản chỉ trong thời gian ngắn nhưng ở nhiệt độ cao. Đối với cá hồi Đại Tây D­ương, khi nhiệt độ đạt đến 17oC thì sự nứt rạn cơ là không thể tránh khỏi, có lẽ là do sự thoái hóa của mô liên kết và do sự co cơ nhanh vì nhiệt độ cao khi xảy ra quá trình tê cứng.</para>
+      </section>
+      <section id="id-315780457565">
+        <title>Sự phân cắt TMAO</title>
+        <para id="id6431443"/>
+        <para id="id6431447">Trimetylamin là một amin dễ bay hơi có mùi khó chịu đặc trư­ng cho mùi thuỷ sản ươn­ hỏng. Sự có mặt của trimetylamin trong cá ươn hỏng là do sự khử TMAO dưới tác dụng của vi khuẩn. Sự gia tăng TMA trong thủy sản phụ thuộc chủ yếu vào hàm l­ượng của TMAO trong nguyên liệu cá. TMA đư­ợc dùng để đánh giá chất lư­ợng của cá biển. Tiến trình này bị ức chế khi cá được làm lạnh.</para>
+        <figure id="id6431478">
+          <media id="id1164789109090" alt=""><image src="../../media/graphics4-bf7a.png" mime-type="image/png" height="50" width="257"/></media>
+        </figure>
+        <para id="id6431502">Trong cơ thịt của một số loài tồn tại enzym có khả năng phân hủy TMAO thành dimethylamin (DMA) và formaldehyde (FA)</para>
+        <figure id="id6431515">
+          <media id="id1164789109126" alt=""><image src="../../media/graphics5-4f91.png" mime-type="image/png" height="49" width="428"/></media>
+        </figure>
+        <para id="id6431539">Enzym xúc tác quá trình hình thành formaldehyt đ­ược gọi là TMAO-ase hoặc TMAO demethylase, nó thư­ờng đư­ợc tìm thấy trong các loài cá tuyết.</para>
+        <para id="id6431557">Ở cá lạnh đông formaldehyde có thể gây ra sự biến tính protein, làm thay đổi cấu trúc và mất khả năng giữ nước của sản phẩm. Sự tạo thành DMA và formaldehyde là vấn đề quan trọng cần quan tâm trong suốt quá trình bảo quản lạnh đông. Tốc độ hình thành formaldehyde nhanh nhất khi ở nhiệt độ lạnh đông cao (lạnh đông chậm). Ngoài ra, n</para>
+        <para id="id6431598">ếu cá bị tác động cơ học quá mức trong các khâu từ khi đánh bắt đến khi làm lạnh đông và nếu nhiệt độ trong quá trình bảo quản lạnh động bị dao động thì lượng formaldehyde hình thành sẽ tăng.</para>
+        <para id="id6431639">Bảng 2.3. Tóm tắt những biến đổi trong quá trình tự phân giải của cá ­ướp lạnh</para>
+        <table id="id6431647" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Enzym</entry>
+                <entry>Cơ chất</entry>
+                <entry>Các biến đổi xảy ra</entry>
+                <entry>Ngăn chặn/Kìm hãm</entry>
+              </row>
+              <row>
+                <entry>Enzym phân giải glycogen</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry>Glycogen</entry>
+                      <entry>- Tạo ra acid lactic, làm giảm pH của mô, làm mất khả năng giữ nư­ớc trong cơ.</entry>
+                      <entry>- Trên thực tế, nếu được thì nên để quá trình tê cứng của cá diễn ra ở nhiệt độ càng gần 0oC càng tốt.</entry>
+                    </row>
+                    <row>
+                      <entry/>
+                      <entry>- Nhiệt độ cao khi xảy ra tê cứng có thể dẫn đến sự nứt cơ thịt</entry>
+                      <entry>Phải tránh gây căng thẳng cho cá ở giai đoạn tr­ước khi xảy ra tê cứng.</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Enzym gây ra tự phân giải, liên quan đến sự phá hủy nucleotid</entry>
+                <entry>ATP ADP AMP IMP</entry>
+                <entry>- Mất mùi cá t­ươi, dần dần xuất hiện vị đắng do Hx (ở những giai đoạn sau)</entry>
+                <entry>- Tương tự như­ trên. - Bốc dỡ vận chuyển mạnh tay hoặc đè nén sẽ làm tăng sự phá hủy </entry>
+              </row>
+              <row>
+                <entry>Cathepsin</entry>
+                <entry>Các protein, Các peptid</entry>
+                <entry>- Mô bị mềm hóa gây khó khăn hoặc cản trở cho việc chế biến</entry>
+                <entry>- Tránh mạnh tay khi thao tác lúc bảo quản và bốc dỡ.</entry>
+              </row>
+              <row>
+                <entry>Chymotrypsin, trypsin, cacboxypeptidase</entry>
+                <entry>Các protein, Các peptid</entry>
+                <entry>Tự phân giải khoang bụng của các loài cá tầng nổi (gây hiện tượng vỡ bụng)</entry>
+                <entry>- Vấn đề sẽ gia tăng khi đông lạnh/rã đông hoặc bảo quản lạnh trong thời gian dài.</entry>
+              </row>
+              <row>
+                <entry>Calpain</entry>
+                <entry>Các protein sợi cơ</entry>
+                <entry>- Làm mềm mô cá và giáp xác lột xác</entry>
+                <entry>- Loại bỏ canxi để ngăn chặn quá trình hoạt hóa</entry>
+              </row>
+              <row>
+                <entry>Collagenase</entry>
+                <entry>Mô liên kết</entry>
+                <entry>- “Vết nứt” trên miếng philê- Gây mềm hóa</entry>
+                <entry>- Sự thoái hóa của mô liên kết liên quan đến thời gian và nhiệt độ bảo quản lạnh</entry>
+              </row>
+              <row>
+                <entry>TMAO demethylase</entry>
+                <entry>TMAO</entry>
+                <entry>- Tạo ra formaldehyt làm cứng cơ của họ cá tuyết khi đông lạnh </entry>
+                <entry>- Bảo quản cá ở nhiệt độ &lt;-30oC- Tác động vật lý quá mức và quá trình đông lạnh/rã đông làm tăng hiện t­ượng cứng cơ do FA</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id-00710134262575">
+      <title>Biến đổi do vi sinh vật</title>
+      <section id="id-308449868059">
+        <title>Hệ vi khuẩn ở cá vừa mới đánh bắt</title>
+        <para id="id6432165">Ở cơ thịt và các cơ quan bên trong của cá tươi, vi khuẩn hiện diên rất ít. Ở cá tươi vi khuẩn chỉ có thể tìm thấy trên da (102 - 107cfu/cm2), mang (103 - 109cfu/g) và nội tạng (103 - 109cfu/g) (Shewan, 1962). Hệ vi sinh vật của cá vừa đánh bắt lại phụ thuộc vào môi tr­ường nơi đánh bắt hơn là vào loài cá (Shewan, 1977). Số lượng vi khuẩn tồn tại trong cá cao hay thấp tùy thuộc vào cá sống trong môi trường nước ấm hay nước lạnh. Vi khuẩn trên da và mang cá sống trong vùng nước ôn đới, môi trường nước sạch ít hơn so với cá sống trong vùng nước nhiệt đới, môi trường ô nhiểm. Số lượng vi khuẩn trong nội tạng cá có liên quan trực tiếp đến nguồn thức ăn của cá: cao ở cá ăn tạp và thấp ở cá không ăn tạp. Ngoài ra số lượng vi khuẩn thay đổi còn tùy thuộc vào mùa sinh sống. Cá sống trong mùa hè có số lượng vi khuẩn cao hơn.</para>
+        <para id="id6432265">
+          <figure id="id6432288">
+            <media id="id3147621" alt=""><image src="../../media/graphics6-c3b8.png" mime-type="image/png" height="197" width="492"/></media>
+          </figure>
+        </para>
+        <para id="id6432312"/>
+        <para id="id6432316">Số lượng vi khuẩn tồn tại ở các loài giáp xác và thân mềm gần giống với số lượng vi khuẩn tồn tại trên cá.</para>
+        <para id="id6432329">
+          <media id="id1164779389011" alt=""><image src="../../media/graphics7-8c5a.png" mime-type="image/png" height="234" width="461"/></media>
+        </para>
+        <para id="id6432384">Vi khuẩn ở cá mới vừa đánh bắt chủ yếu gồm vi khuẩn hiếu khí, kỵ khí không bắt buộc, vi khuẩn G- như Pseudomonas, Alteromonas, Acinetobacter, Moraxella, Flavolacberium, Cytophaga and Vibrio. Cá sống trong vùng nước ấm dễ bị nhiểm bởi vi khuẩn G+ như Micrococcus, Bacillus và Coryneform.</para>
+        <para id="id6432462">Các loài Aeromonas đặc trư­ng cho cá nư­ớc ngọt, trong khi đó có một số vi khuẩn cần natri để phát triển thì đặc trư­ng cho cá biển. Các loài này bao gồm Vibrio, Photobacterium và Shewanella. Tuy nhiên, dù Shewanella putrefaciens cần natri cho sự phát triển như­ng chủng này cũng có thể phân lập từ môi trư­ờng n­ước ngọt (DiChristina và DeLong, 1993; Gram và cộng sự, 1990; Spanggaard và cộng sự, 1993). Mặc dù S. putrefaciens đ­ược tìm thấy trong n­ước ngọt nhiệt đới, như­ng nó không đóng vai trò quan trọng trong sự hư­ hỏng của cá nư­ớc ngọt (Lima dos Santos, 1978; Gram, 1990).</para>
+        <para id="id6416256">Vi khuẩn hiện diện ở loài thân mềm giống với vi khuẩn trong cá biển nhưng số lượng vi khuẩn G+ như Bacillus, Micrococcus, Enterobacteriaceae và Streptococcus chiếm số lượng lớn hơn.</para>
+        <para id="id6416296">Bảng 2.4. Hệ vi khuẩn ở cá đánh bắt từ vùng nư­ớc không bị ô nhiễm</para>
+        <table id="id6416311" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Gram (-)</entry>
+                <entry>Gram (+)</entry>
+                <entry>Ghi chú</entry>
+              </row>
+              <row>
+                <entry>Pseudomonas Moraxella Acinetobacter Shewanella putrefaciens Flavobacterium CytophagaVibrio Photobacterium Aeromonas</entry>
+                <entry>Bacillus Clotridium Micrococcus Lactobacillus Các vi khuẩn có dạng hình chùy</entry>
+                <entry>Vibrio và Photobacterium đặc trưng cho nư­ớc biển; Aeromonas đặc tr­ưng cho n­ước ngọt</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6416442"/>
+        <para id="id6416446">Hai loại vi khuẩn gây bệnh thường làm biến đổi mùi vị của cá và nhuyễn thể gồm: Clostridium botulinum loại E, B, F và Vibrio parahaemolyticus. </para>
+        <para id="id6416476">- Clostridium botulinum là vi khuẩn sinh bào tử kháng nhiệt. Vi khuẩn này không có hại nếu tồn tại một lượng nhỏ trong cá tươi. Vi khuẩn sẽ trở nên rất nguy hiểm khi điều kiện bảo quản hoặc chế biến không tốt tạo điều kiện thuận lợi cho bào tử sinh sản, phát triển và sản sinh độc tố. Vi khuẩn loại E, B, F có khả năng kháng nhiệt thấp. </para>
+        <para id="id6416504">- Vibrio parahaemolyticus là loại vi khuẩn ít chịu nhiệt, ưa muối gây bệnh viêm đường ruột với các triệu chứng bệnh giống như triệu chứng bệnh gây ra do Salmonella. Bệnh chỉ xảy ra khi ăn vào lượng lớn tế bào vi khuẩn (khoảng 106cfu/g), mức thông thường có thể chấp nhận được là 103cfu/g. Loại vi khuẩn này rất nhạy cảm với nhiệt (nóng và lạnh).</para>
+        <para id="id6416560">Ngoài ra, một số loại vi khuẩn khác được tìm thấy trong cá và các loài hải sản khác như Clostridium perfringen, Staphylococcus aureus , Salmonella spp., Shigella spp. bị lây nhiễm do quá trình vận chuyển và chế biến không đảm bảo vệ sinh.</para>
+      </section>
+      <section id="id-966998937276">
+        <title>Sự xâm nhập của vi sinh vật</title>
+        <para id="id6416620">Thịt của cá sống khỏe mạnh hoặc cá vừa đánh bắt thì không có vi khuẩn vì hệ thống miễn dịch của cá ngăn chặn sự phát triển của vi khuẩn trong thịt cá. Khi cá chết, hệ thống miễn dịch bị suy yếu và vi khuẩn đ­ược tự do sinh sôi phát triển. Trên bề mặt da, vi khuẩn phần lớn định cư­ ở các túi vảy. Trong quá trình bảo quản, chúng sẽ xâm nhập vào cơ thịt bằng cách đi qua giữa các sợi cơ. Những nghiên cứu của Murray và Shewan (1979) cho thấy rằng trong quá trình bảo quản bằng đá chỉ có một l­ượng rất hạn chế vi khuẩn xâm nhập vào cơ thịt. Có thể dùng kính hiển vi để phát hiện được vi khuẩn trong cơ thịt một khi l­ượng vi sinh vật trên bề mặt da tăng lên trên 106 cfu/cm2 (Ruskol và Bendsen, 1992). Điều này quan sát thấy được ở cả hai trường hợp khi bảo quản cá bằng đá và ở nhiệt độ th­ường. Không có sự khác nhau về mô hình xâm nhập của vi khuẩn gây hư hỏng đặc trư­ng (ví dụ, S. putrefaciens) và vi khuẩn không gây hư hỏng cá.</para>
+        <para id="id6416686">Vì thực sự chỉ có một lư­ợng giới hạn vi sinh vật xâm nhập cơ thịt và sự phát triển của vi sinh vật chủ yếu diễn ra trên bề mặt cá, nên sự hư­ hỏng của cá chủ yếu là do các enzym của vi khuẩn khuếch tán vào cơ thịt và các chất dinh dư­ỡng khuếch tán ra phía ngoài.</para>
+        <para id="id6416704">Sự hư­ hỏng của cá xảy ra với những tốc độ khác nhau và điều đó có thể giải thích bằng sự khác nhau về tính chất của bề mặt cá. Da cá có độ chắc rất khác nhau. Do vậy, những loài cá như­ cá tuyết méc-lang (Merlangius merlangus) và cá tuyết (Gadus morhua) có lớp da rất mỏng manh thì sự hư­ hỏng xảy ra nhanh hơn so với một số loài cá thân dẹt như­ cá bơn là loại cá có lớp biểu bì và hạ bì rất chắc chắn. Hơn thế nữa, nhóm cá sau có lớp chất nhớt rất dày mà đây lại là nơi có chứa một số thành phần kháng khuẩn như­ kháng thể và enzym phân giải được các loại vi khuẩn (Murray và Fletcher, 1976; Hjelmland và cộng sự, 1983).</para>
+      </section>
+      <section id="id-821129548189">
+        <title>Biến đổi của vi sinh vật trong suốt quá trình bảo quản và gây ươn hỏng</title>
+        <para id="id6416762">Đối với cá ôn đới, gần nh­ư ngay lập tức sau khi cá chết thì các vi khuẩn bắt đầu giai đoạn sinh trưởng theo cấp số nhân. Điều này cũng đúng với cá ư­ớp đá, có lẽ là do hệ vi sinh vật của chúng đã thích nghi với nhiệt độ lạnh. Trong quá trình bảo quản bằng đá, l­ượng vi sinh vật sẽ tăng gấp đôi sau khoảng một ngày và sau 2-3 tuần sẽ đạt 105-109 cfu trong một gam thịt hoặc trên một cm2 da. Khi bảo quản ở nhiệt độ thường, sau 24 giờ thì lượng vi sinh vật đạt gần với mức 107-108 cfu/g. </para>
+        <para id="id6416831">Đối với cá nhiệt đới: Vi khuẩn trong cá nhiệt đới thư­ờng trải qua giai đoạn tiềm ẩn (pha lag) từ 1 đến 2 tuần nếu cá đ­ược bảo quản bằng đá, sau đó mới bắt đầu giai đoạn sinh trưởng theo cấp số nhân. Tại thời điểm bị hư­ hỏng, lư­ợng vi khuẩn trong cá nhiệt đới và cá ôn đới đều như­ nhau (Gram, 1990; Gram và cộng sự, 1990).</para>
+        <para id="id6416853">Nếu cá ư­ớp đá đ­ược bảo quản trong điều kiện yếm khí hoặc trong môi trường không khí có chứa CO2, l­ượng vi khuẩn chịu lạnh thông th­ường như­ S. putrefaciens và Pseudomonas thư­ờng thấp hơn nhiều (nghĩa là trong khoảng 106-107 cfu/g) so với khi bảo quản cá trong điều kiện hiếu khí. Tuy nhiên, l­ượng vi khuẩn ­ưa lạnh đặc trư­ng như­ P. phosphoreum đạt đến mức 107-108 cfu/g khi cá hư hỏng (Dalgaard và cộng sự, 1993).</para>
+      </section>
+      <section id="id-0422747880649">
+        <title>Vi sinh vật gây ươn hỏng cá </title>
+        <para id="id6416953">Cần phân biệt rõ thuật ngữ hệ vi sinh vật khi hư hỏng (spoilage flora) với vi khuẩn gây hư hỏng (spoilage bacteria), vì thuật ngữ đầu tiên chỉ đơn thuần là nói đến các vi khuẩn hiện diện trong cá khi chúng bị hư hỏng, còn thuật ngữ sau lại nói đến một nhóm vi khuẩn đặc trưng gây nên sự biến mùi và vị có liên quan với sự hư hỏng. Một l­ượng lớn vi khuẩn trong cá ươn không có vai trò gì trong quá trình hư­ hỏng. Mỗi sản phẩm cá có những vi khuẩn gây hỏng đặc trưng riêng của nó và lượng vi khuẩn này (so với l­ượng vi khuẩn tổng số) có liên quan đến thời hạn bảo quản. </para>
+        <para id="id6416986">Bảng 2.5. Các hợp chất đặc trưng trong quá trình ươn hỏng của thịt cá bảo quản hiếu khí hoặc được đóng gói có đá và ở nhiệt độ môi trường</para>
+        <table id="id6416999" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Vi sinh vật đặc trưng gây ươn hỏng</entry>
+                <entry>Các hợp chất ươn hỏng đặc trưng</entry>
+              </row>
+              <row>
+                <entry>Shewanella putrefaciensPhotobacterium phosphoreumCác loài PseudomonasVibrionaceaeCác vi khuẩn gây hỏng hiếu khí</entry>
+                <entry>TMA, H2S, CH3SH, (CH3)2S, HxTMA, HxCeton, aldehyde, este, các sunfit không phải H2STMA, H2SNH3, các acid: acetic, butyric và propionic</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6417145">Bảng 2.6. Cơ chất và các hợp chất gây biến mùi do vi khuẩn sinh ra trong quá trình ươn hỏng của cá</para>
+        <table id="id6417156" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Cơ chất</entry>
+                <entry>Các hợp chất sinh ra do hoạt động của vi khuẩn</entry>
+              </row>
+              <row>
+                <entry>TMAOCysteineMethionineCarbohydrat và lactatInosine, IMPCác acid amin (glycine, serine, leucine)Các acid amin, urê</entry>
+                <entry>TMAH2SCH3SH, (CH3)2SAcetat, CO2, H2OHypoxanthineCác este, ceton, aldehydeNH3</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6417311"/>
+        <para id="id6417315">Trước tiên vi khuẩn hiếu khí sử dụng nguồn năng lượng carbohydrate và lactate để phát triển tạo thành CO2 và H2O. Kết quả của tiến trình này làm giảm thế oxy hóa khử trên bề mặt sản phẩm. Dưới điều kiện này, vi khuẩn yếm khí (Alteromonas putrefacien, Enterobacteriaceae) phát triển khử TMAO thành TMA theo bởi các phản ứng sinh hóa:</para>
+        <figure id="id6417364">
+          <media id="id1164779057772" alt=""><image src="../../media/graphics8-e779.png" mime-type="image/png" height="103" width="571"/></media>
+        </figure>
+        <para id="id6417388">Sản phẩm tạo thành cuối cùng là TMA tạo mùi vị xấu cho cá.</para>
+        <para id="id6417396">Bước tiếp theo trong suốt quá trình ươn hỏng do vi sinh vật ở cá là sự phân hủy amino acid, cơ chế diễn ra như sau:</para>
+        <figure id="id6417412">
+          <media id="id1164779057827" alt=""><image src="../../media/graphics9-21df.png" mime-type="image/png" height="96" width="529"/></media>
+        </figure>
+        <para id="id6417436"> Chỉ có một lượng nhỏ NH3 tạo thành trong giai đoạn tự phân giải nhưng phần lớn được tạo thành từ sự phân hủy các acid amin.</para>
+        <para id="id6417458">Ở cá nhám, lượng NH3 tạo thành trong suốt giai đoạn bảo quản rất lớn bởi vì hàm lượng urê trong thịt cá nhám rất cao, thành phần này bị phân hủy dưới tác dụng của vi khuẩn sản sinh enzym urease tạo thành CO2 và NH3­ theo phản ứng:</para>
+        <figure id="id6417504">
+          <media id="id1164779057884" alt=""><image src="../../media/graphics10-b923.png" mime-type="image/png" height="31" width="432"/></media>
+        </figure>
+        <para id="id6417528">TMA, NH3, amin được gọi chung là tổng nitơ bazơ bay hơi (TVB), thường được sử dụng như chỉ tiêu hóa học để đánh giá chất lượng cá (chủ yếu là TMA). Giới hạn cho phép TVB-N/100g ở cá bảo quản lạnh là 30-35mg. Ở cá tươi hàm lượng TMA chiếm rất thấp. Sau thời gian bảo quản, vi khuẩn khử TMAO tạo thành TMA làm cho cá bị ươn hỏng. TMA là chỉ tiêu cơ bản để đánh giá mức độ tươi của cá. Chất lượng cá bảo quản lạnh được gọi là tốt khi hàm lượng TMA-N/100g &lt;1,5mg, 10-15mg TMA-N/100g là giới hạn cho phép với người tiêu dùng.</para>
+        <para id="id6417567">Vi khuẩn phân hủy acid amin có chứa lưu huỳnh như cysteine, methionine tạo thành H2S, CH3-SH (methyl mercaptane) và (CH3)2S dimethylsulphide. Các hợp chất bay hơi này tạo mùi vị xấu cho sản phẩm, ngay cả ở liều lượng rất thấp (ppb), làm giảm giá trị cảm quan của sản phẩm.</para>
+        <para id="id6417619">Các loài giáp xác thường rất nhạy cảm với vi sinh vật gây ươn hỏng so với cá do có chứa hàm lượng phi protein cao. Khi hàm lượng arginine phosphate cao, nó có thể bị dephosphorylate bởi phản ứng tự phân. Vi khuẩn có thể phân hủy arginine thành ornithine. Sau đó ornithine tiếp tục bị decarboxylate tạo thành hợp chất putrescine tạo mùi vị xấu cho sản phẩm.</para>
+        <para id="id6417638">Bảo quản cá trong điều kiện yếm khí một thời gian dài, kết quả vi khuẩn phân hủy các acid amin tạo sản phẩm NH3. Loài vi khuẩn hoạt động trong điều kiện kỵ khí bắt buộc là Fusobacterium. Sự phát triển của chúng chỉ xảy ra ở cá ươn hỏng.</para>
+      </section>
+      <section id="id-830200539615">
+        <title>Các yếu tố ảnh hưởng đến sự phát triển của vi sinh vật</title>
+        <section id="id-103610682938">
+          <title>Các yếu tố bên trong</title>
+          <para id="id6417692">Các nhân tố bên trong có liên quan trực tiếp đến chất lượng của cá. Các nhân tố này bao gồm các đặc tính hóa học và vật lý của cá như pH, độ hoạt động của nước, thế oxy hóa khử (Eh), thành phần, các chất kháng vi khuẩn tự nhiên và cấu trúc sinh học.</para>
+          <para id="id6417710">a. pH</para>
+          <para id="id6417722">Nhiều loài vi sinh có thể phát triển khi giá trị pH thay đổi trong phạm vi rộng. pH giới hạn cho sự phát triển của vi sinh vật thay đổi từ 1-11. pH tối ưu cho hầu hết các loài vi sinh vật phát triển khoảng 7,0. Sự phát triển của vi sinh vật ở giá trị pH khác nhau, cho trong bảng sau:</para>
+          <para id="id6417744">Bảng 2.7. pH tối ưu và giới hạn pH cho sự phát triển của vi sinh vật</para>
+          <table id="id6417758" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>pHVi sinh vật </entry>
+                  <entry>Min.</entry>
+                  <entry>Opt.</entry>
+                  <entry>Max.</entry>
+                </row>
+                <row>
+                  <entry>Vi khuẩn</entry>
+                  <entry>4,4</entry>
+                  <entry>7,0</entry>
+                  <entry>9,8</entry>
+                </row>
+                <row>
+                  <entry>Nấm men</entry>
+                  <entry>1,5</entry>
+                  <entry>4,0 – 6,0</entry>
+                  <entry>9,0</entry>
+                </row>
+                <row>
+                  <entry>Nấm mốc</entry>
+                  <entry>1,5</entry>
+                  <entry>7,0</entry>
+                  <entry>11,0</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6417964">Tuy nhiên, có một vài trường hợp ngoại lệ. Vi khuẩn chịu axit như vi khuẩn axit lactic, axit acetic có thể phát triển ở pH &lt; 4,4. pH tối ưu cho sự phát triển của acid acetic trong khoảng 5,4-6,3 và của acid lactic từ 5,5-6,0. Vi khuẩn bazơ có thể phát triển ở môi trường pH kiềm. Vibrio parahaemolyticus phát triển ở khoảng pH từ 4,8-11,0 và Enterococcus phát triển ở khoảng pH từ 4,8-10,6.</para>
+          <para id="id6418011">b. Độ hoạt động của nước (aw)</para>
+          <para id="id6418032">Nước cần cho quá trình phát triển và trao đổi chất của vi sinh vật. Thông số quan trọng nhất dùng để đo lường nước là độ hoạt động của nước (aw).</para>
+          <para id="id6418055">Độ hoạt động của nước trong thực phẩm là tỉ số giữa áp suất hóa hơi riêng phần của nước trong thực phẩm (P) và áp suất hóa hơi riêng phần của nước tinh khiết (P­o) ở cùng nhiệt độ.</para>
+          <para id="id6418076">aw = P/Po</para>
+          <para id="id6418093">Giảm độ hoạt động của nước bằng cách giảm áp suất hóa hơi của thực phẩm. Điều này có thể thực hiện bằng cách cho bay hơi một phần nước hoặc bổ sung thêm các chất tan vào sản phẩm. Sự phát triển của các nhóm vi sinh vật khác nhau bị giới hạn bởi độ hoạt động của nước thấp.</para>
+          <para id="id6418112">Bảng 2.8. aw thấp nhất cho sự phát triển của vi sinh vật</para>
+          <table id="id6418134" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Vi sinh vật</entry>
+                  <entry>aw thấp nhấp</entry>
+                </row>
+                <row>
+                  <entry>Vi khuẩn gram âmgram dương</entry>
+                  <entry>0,950,91</entry>
+                </row>
+                <row>
+                  <entry>Nấm mốc</entry>
+                  <entry>0,80</entry>
+                </row>
+                <row>
+                  <entry>Nấm men</entry>
+                  <entry>0,88</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6418290">Tuy nhiên có một vài loại vi sinh vật đặc hiệu trong quá trình bảo quản cá có thể phát triển ở độ hoạt động của nước thấp. Có 3 dạng chủ yếu là dạng ưa muối, ưa khô và thẩm thấu. Dạng ưa muối không thể phát triển trong môi trường không muối và yêu cầu cung cấp lượng muối thường xuyên cho sự phát triển. Chúng thường là loại vi khuẩn có khả năng kháng muối cao hơn các loại vi sinh vật khác (độ hoạt động của nước thấp nhất aw = 0,75). Loại vi khuẩn ưa khô được định nghĩa là loại vi khuẩn có khả năng phát triển rất nhanh dưới điều kiện khô ở aw = 0,85 (độ hoạt động của nước thấp nhất aw = 0,6). Vi sinh vật ưa khô được biết đó là các loại nấm mốc và nấm men. </para>
+          <para id="id6418344">Vi sinh vật thẩm thấu có khả năng phát triển trong môi trường có áp suất thẩm thấu cao. Dạng thường được ứng dụng nhất là nấm men kháng đường, aw cần thiết cho sự phát triển giống với vi khuẩn thẩm thấu (aw thấp nhất = 0,6).</para>
+          <para id="id6418371">Cá, giáp xác và các loài thân mềm thường có aw &gt; 0,98.</para>
+          <para id="id6418392">c. Điện thế oxy hóa khử (Eh)</para>
+          <para id="id6418413">Vi sinh vật có ảnh hưởng đến thế oxy hóa khử của cá trong suốt quá trình phát triển. Đặc biệt xảy ra với vi khuẩn hiếu khí, khi vi khuẩn này phát triển làm cho Eh của cá giảm xuống thấp. Với vi khuẩn kỵ khí, hiện tượng này xảy ra không đáng kể. Khi vi khuẩn hiếu khí phát triển nó sẽ lấy hết O2 trong cá, làm cho Eh giảm xuống thấp. Kết quả làm cho môi trường trở nên thiếu chất oxy hóa và giàu chất khử.</para>
+          <para id="id6418465">Vi sinh vật phát triển ở giá trị Eh cao được gọi là vi sinh vật hiếu khí bắt buộc và những loài khác phát triển ở giá trị Eh thấp được gọi là vi sinh vật kỵ khí bắt buộc. Khác với vi sinh vật hiếu khí và kỵ khí bắt buộc, vi sinh vật kỵ khí không bắt buộc có thể phát triển ở cả giá trị Eh cao và thấp bởi vì chúng có hệ điều khiển bằng cách đóng hoặc mở van để làm tăng hoặc giảm Eh hoặc có sự hiện diện hay không có sự hiện diện của oxy.</para>
+          <para id="id6418526">* Vi khuẩn hiếu khí bắt buộc</para>
+          <para id="id6418532">Vi khuẩn hiếu khí bắt buộc trong cá bao gồm Pseudomonas spp., Acinetobacter-Moraxella spp., micrococci và một vài loài thuộc nhóm Bacillus spp., sử dụng oxy như là chất nhận điện tử trong quá trình hô hấp. Chúng có thể phân giải protein và lipid tạo sản phẩm cuối cùng là CO2 và H2O. Chúng thường phát triển trên bề mặt của cá nguyên con và cá philê khi môi trường có đầy đủ oxy.</para>
+          <para id="id6418605">* Vi khuẩn kỵ khí bắt buộc</para>
+          <para id="id6418610">Clostridia chỉ có thể phát triển với thế oxy hóa khử thấp (-300mv) và một số loài khác chỉ có thể phát triển trong điều kiện không có oxy. Giá trị Eh tối đa mà vi khuẩn kỵ khí phát triển từ +30 đến -250 mv. Một số loài vi khuẩn kỵ khí có thể phát triển ở thế oxy hóa khử cao hơn nhưng trong môi trường không có oxy tốt hơn là có sự hiện diện của oxy. Vi khuẩn kỵ khí không sinh bào tử như Bacteroides thường không chịu được với thế oxy hóa khử cao, trong khi các loài clostridia có thể sống sót một thời gian dài ở thế oxy hóa khử cao (+110 mv) trong sự hiện diện của oxy và đôi khi cũng phát triển ở thế oxy hóa khử cao (+370 mv) trong điều kiện không có oxy. Vi sinh vật kỵ khí bắt buộc thường phát triển nhiều nhất ở phần trong của cá chưa chế biến.</para>
+          <para id="id6418681">Cá mới vừa đánh bắt, Eh trong mô cơ cá luôn luôn dương (+200 đến +300 mv). Trong suốt quá trình bảo quản, Eh giảm nhanh và còn lại ở mức rất thấp, Eh âm trong suốt quá trình ươn hỏng (- 300 đến - 400 mv).</para>
+          <para id="id6418724">Có mối quan hệ rất gần giữa Eh và sự hiện diện của TMAO. Ví dụ ở cá tuyết, Eh trong mô cơ giảm cùng với sự khử TMAO thành TMA. Ở cá muối, vi khuẩn khử TMAO bị ức chế nhờ aw thấp, vì vậy TMAO dao động không lớn, Eh thay đổi không đáng kể và vẫn duy trì giá trị dương. </para>
+          <para id="id6418778">* Vi khuẩn kỵ khí không bắt buộc</para>
+          <para id="id6418784">Vi khuẩn kỵ khí không bắt buộc trong cá như Lactobacillaceae, Enterobacteriaceae, Corynebacteriaceae và vi khuẩn khử TMAO như Pseudomonas spp., Acinetobacter-Moraxella spp. có thể sử dụng oxy như chất nhận điện tử, nhưng trong điều kiện không có oxy chúng có thể nhận các điện tử khác như NO3-, SO42-, TMAO. Chúng có thể phát triển trên bề mặt và cả bên trong thịt cá, hoạt động phân giải protein và lipid. Sản phẩm của sự phân giải thường là các acid hữu cơ và TMA (trong trường hợp vi khuẩn khử TMAO). Chúng là các vi khuẩn rất quan trọng gây nên sự ươn hỏng thực phẩm. Một số loài kỵ khí không bắt buộc như Enterobacteriaceae là vi khuẩn gây ảnh hưởng đến sức khỏe cộng đồng.</para>
+          <para id="id6418879">d. Giá trị dinh dưỡng của cá</para>
+          <para id="id6418892">Để hoạt động và phát triển, vi sinh vật cần nước, nguồn năng lượng cacbon, nitơ, các loại khoáng và vitamin. Trạng thái tự nhiên và giá trị dinh dưỡng của cá sẽ ảnh hưởng đến sự phát triển của chúng.</para>
+          <para id="id6418905">* Nguồn năng lượng</para>
+          <para id="id6418913">Carbohydrate (mono-, di-, và polysaccharide), các acid hữu cơ, các hợp chất rượu là nguồn năng lượng chính. Các acid amin, di-, tri-, polypeptide cũng có thể sử dụng như nguồn năng lượng. Hàm lượng carbohydrate trong cá và các loài giáp xác rất thấp (&lt; 1%), động vật thân mềm chứa hàm lượng carbohydrate cao hơn (&gt; 3%).</para>
+          <para id="id6418932">* Nguồn nitơ</para>
+          <para id="id6418944">Vi sinh vật cần nitơ cho quá trình sinh tổng hợp của chúng. Chúng có thể sử dụng nguồn acid amin, peptide, nucleotide, urê, amoniac (hợp chất phi protein) và protein. Các thành phần này được tìm thấy trong cá, giáp xác và động vật thân mềm.</para>
+          <para id="id6418964">* Khoáng</para>
+          <para id="id6418976">Khoáng có vai trò trong việc thay đổi chức năng tế bào. Khoáng hiện diện trong cá dưới dạng muối. Loại và lượng khoáng khác nhau tùy thuộc vào loại cá và thường thay đổi theo mùa.</para>
+          <para id="id6418992">* Vitamin</para>
+          <para id="id6419003">Một số vi sinh vật không thể sản xuất vitamin (auxotrophics), sự phát triển của chúng dựa trên sự hiện diện của một hay nhiều vitamin có sẵn trong cá. Vi khuẩn gram dương cần nhiều vitamin B hơn vi khuẩn gram âm. Nhìn chung, thịt cá là nguồn cung cấp tốt vitamin nhóm B. Vitamin A và D có nhiều trong loài cá béo.</para>
+          <para id="id6419022">e. Sự hiện diện của chất kháng vi sinh vật tự nhiên</para>
+          <para id="id6419035">Chất nhớt trên da cá có chứa một lượng lysozyme giúp kích thích murein, là thành phần chính của vách tế bào vi khuẩn gram dương. Vách tế bào vi khuẩn gram âm bao gồm 2 lớp màng ngoài (lipo-protein và lipo-polysaccharide), giúp bảo vệ lớp murein bên trong chống lại tác động của lysozyme, mặc dù một vài loại vi khuẩn gram âm như Enterobacteriaceae nhạy cảm với lysozyme.</para>
+          <para id="id6419068">f. Cấu trúc sinh học</para>
+          <para id="id6419080">Da và màng bụng của cá, vỏ của các loài giáp xác, màng ngoài của động vật thân mềm có cấu trúc sinh học có tác dụng bảo vệ, chống lại sự xâm nhập của vi khuẩn vào bên trong tế bào, giúp ngăn cản sự ươn hỏng.</para>
+        </section>
+        <section id="id-570026169858">
+          <title>Các nhân tố bên ngoài</title>
+          <para id="id6419107">Các nhân tố môi trường bao gồm các đặc tính vật lý và hóa học của môi trường bảo quản cá.</para>
+          <para id="id6419119">a. Nhiệt độ</para>
+          <para id="id6419127">Nhiệt độ là yếu tố môi trường quan trọng nhất có ảnh hưởng đến sự tồn tại và phát triển của vi sinh vật. Có 3 nhóm vi sinh vật chính phát triển ở các khoảng nhiệt độ khác nhau bao gồm: vi khuẩn chịu nhiệt, chịu ấm và chịu lạnh.</para>
+          <para id="id6419146">Bảng 2.9. Sự phát triển của vi sinh vật ở các khoảng nhiệt độ khác nhau</para>
+          <table id="id6419154" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>Nhóm VSV</entry>
+                  <entrytbl namest="c2" nameend="c4" cols="3">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c3">Nhiệt độ (oC)</entry>
+                      </row>
+                      <row>
+                        <entry>Min.</entry>
+                        <entry>Opt.</entry>
+                        <entry>Max.</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>Chịu lạnh</entry>
+                  <entry>-18</entry>
+                  <entry>10</entry>
+                  <entry>20</entry>
+                </row>
+                <row>
+                  <entry>Chịu ấm</entry>
+                  <entry>5</entry>
+                  <entry>30 - 37</entry>
+                  <entry>50</entry>
+                </row>
+                <row>
+                  <entry>Chịu nhiệt</entry>
+                  <entry>37</entry>
+                  <entry>55</entry>
+                  <entry>70</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6419390"/>
+          <para id="id6419395">b. Độ ẩm tương đối (R.H.)</para>
+          <para id="id6419407">Độ hoạt động của nước (aw) có liên quan đến độ ẩm tương đối cân bằng (ERH)</para>
+          <para id="id6419430">ERH (%) = aw . 100</para>
+          <para id="id6419447">Cần phải điều khiển độ ẩm tương đối cân bằng trong sản phẩm một cách nghiêm ngặt để tránh sự hút hoặc mất nước do sự bay hơi.</para>
+          <para id="id6419461">c. Sự hiện diện loại và nồng độ khí trong môi trường</para>
+          <para id="id6419475">Thay thế không khí bằng một hoặc nhiều loại khí khác (O2, CO2, N2) sẽ có ảnh hưởng đến sự phát triển của vi sinh vật.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-0710668824466">
+      <title>Sự oxy hóa chất béo</title>
+      <para id="id6419525">Trong lipid cá có một lượng lớn acid béo cao không no có nhiều nối đôi nên chúng rất nhạy cảm với quá trình oxy hóa bởi cơ chế tự xúc tác. Biến đổi xảy ra quan trọng nhất trong chất béo của cá là tiến trình oxy hóa hóa học.</para>
+      <section id="id-797233540087">
+        <title>Sự oxy hóa hóa học (tự oxy hóa)</title>
+        <para id="id6419558">- Giai đoạn khởi đầu</para>
+        <para id="id6419568">RH Ro (gốc tự do)</para>
+        <para id="id6419614">(chất béo chưa bão hòa)</para>
+        <para id="id6419622">Bước khởi đầu có thể được tăng cường dưới tác dụng của nguồn năng lượng như khi gia nhiệt hoặc chiếu sáng (đặc biệt là nguồn ánh sáng UV), các hợp chất hữu cơ, vô cơ (thường tìm thấy dưới dạng muối Fe và Cu) là chất xúc tác rất nhạy cảm vì vậy có ảnh hưởng rất mạnh, kích thích quá trình oxy hóa xảy ra.</para>
+        <para id="id6419641">- Giai đoạn lan truyền</para>
+        <para id="id6419649"><media id="id1164784536272" alt=""><image src="../../media/graphics11-3796.png" mime-type="image/png" height="74" width="532"/></media>Ro </para>
+        <para id="id6419698">Cơ chế của sự phân hủy hydroperoxide chưa được biết rõ, nhưng có một vài sự phân hủy hydroperoxide tạo thành aldehyde và ketone mà không cần sự phân cắt chuỗi cacbon. Các hợp chất tạo thành mùi vị xấu cho sản phẩm được hình thành sau khi chuỗi cacbon bị phân cắt. Các thành phần này sau khi phân cắt tạo thành các hợp chất hòa tan trong nước, sau đó có thể bị phân giải dưới tác dụng của vi sinh vật tạo thành CO­2 và H2O.</para>
+        <para id="id6419733">- Giai đoạn kết thúc</para>
+        <figure id="id6419744">
+          <media id="id1164784536326" alt=""><image src="../../media/graphics12-3704.png" mime-type="image/png" height="52" width="360"/></media>
+        </figure>
+      </section>
+      <section id="id-464689487661">
+        <title>Sự tạo thành gốc tự do do hoạt động của enzym</title>
+        <para id="id6419778">Dạng phân giải lipid này liên quan đến cả 2 quá trình thủy phân lipid và sự phân hủy acid béo do hoạt động của enzym lipoxidase. Quá trình thủy phân lipid gây ra do vi sinh vật hoặc enzym lipase nội tại. Bước đầu tiên của phản ứng này là sự thủy phân triglyceride tạo thành glycerol và các acid béo tự do. Trong suốt thời gian bảo quản lạnh cá, sự thủy phân xảy ra do enzym trong nội tạng cá không quan trọng, lượng acid béo tự do hình thành trong suốt giai đoạn bảo quản khi nhiệt độ bảo quản gia tăng. Tuy nhiên, không có mối liên hệ giữa hàm lượng acid béo tự do và mức độ tạo thành gốc tự do. Cơ chế của sự phân hủy acid béo tự do chưa được biết rõ. Một số vi sinh vật sản xuất enzym lipoxydase kích thích chuỗi acid béo phản ứng với oxy tạo sản phẩm hydroperoxide, hợp chất này dễ dàng bị phân cắt tạo thành aldehyde và ketone tạo mùi vị xấu cho sản phẩm.</para>
+      </section>
+    </section>
+  </content>
+</document>

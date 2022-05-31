@@ -1,0 +1,337 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Kỹ thuật lạnh đông thủy sản</title>
+  <metadata>
+  <md:content-id>m30642</md:content-id><md:title>Kỹ thuật lạnh đông thủy sản</md:title>
+  <md:abstract>KỸ THUẬT LẠNH ĐÔNG THỦY SẢN</md:abstract>
+  <md:uuid>0cafa8a9-2603-46c5-8e30-2365c56bb92f</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-896078889506">
+      <title>Lạnh đông </title>
+      <section id="id-393240827354">
+        <title>Mục đích của quá trình lạnh đông </title>
+        <para id="id6560480">Mục đích của quá trình lạnh đông thủy sản là hạ nhiệt độ xuống thấp. Vì vậy làm chậm lại sự ươn hỏng và sản phẩm được tan giá sau thời gian bảo quản lạnh đông hầu như không bị thay đổi tính chất ban đầu của nguyên liệu tươi.</para>
+        <para id="id6560497">Bảo quản lạnh và lạnh đông thường được áp dụng khi thủy sản xuất khẩu. Thủy sản lạnh đông xuất khẩu thường rất quan trọng với các nước đang phát triển do giá thành sản phẩm cao như tôm lạnh đông, mang lại thu nhập có giá trị cao so với các loại sản phẩm thực phẩm khác tiêu thụ nội địa.</para>
+      </section>
+      <section id="id-674925468633">
+        <title>Tiến trình lạnh đông</title>
+        <para id="id6560529">Thủy sản chiếm khoảng 75% trọng lượng nước. Lạnh đông là tiến trình chuyển đổi hầu hết lượng nước trong cá thành nước đá. Nước trong thủy sản là dạng chất hòa tan và dạng keo. Điểm lạnh đông hạ xuống dưới 0oC. Điểm lạnh đông phụ thuộc vào nồng độ chất hòa tan trong dung dịch. Điểm lạnh đông tiêu biểu của thủy sản là -1oC đến -2oC. Trong suốt quá trình lạnh đông, nước dần dần chuyển đổi thành nước đá, nồng độ muối hữu cơ và vô cơ hòa tan tăng lên, điểm lạnh đông tiếp tục hạ thấp. Ngay cả ở nhiệt độ -25oC, chỉ có 90 đến 95% nước thực sự đóng băng. Lượng nước này không bao gồm nước liên kết (nghĩa là nước liên kết hóa học với những phần tử đặc biệt như carbonyl, nhóm amino của protein và liên kết hydro). Vì vậy không bao giờ có điểm lạnh đông cố định. Tuy nhiên, phần lớn nước (khoảng 75-80%) được đông kết ở nhiệt độ -1oC và -5oC. Khoảng nhiệt độ này được gọi là điểm tới hạn hay vùng lạnh đông.</para>
+        <para id="id6560627">Trong suốt giai đoạn đầu của quá trình làm lạnh, nhiệt độ giảm nhanh xuống dưới điểm lạnh đông của nước (0oC). Khi đó lượng nhiệt yêu cầu tách ra lớn trong giai đoạn 2 để chuyển lượng lớn nước liên kết thành nước đá, sự thay đổi nhiệt độ rất ít và giai đoạn này được gọi là giai đoạn ngưng nhiệt. Có khoảng 3/4 nước được chuyển đổi tạo thành nước đá, nhiệt độ một lần nữa bắt đầu giảm và trong suốt giai đoạn thứ 3 này hầu như lượng nước còn lại đóng băng. Một lượng nhỏ nhiệt đã được tách ra trong suốt giai đoạn 3 này.</para>
+        <figure id="id6560668">
+          <media id="id2644760" alt=""><image src="../../media/graphics1-0b12.png" mime-type="image/png" height="306" width="430"/></media>
+        </figure>
+        <para id="id6560692">Hình 4.1. Nhiệt độ và thời gian lạnh đông thủy sản</para>
+        <para id="id6560698">Sự ươn hỏng tiếp tục giảm nhanh ở nhiệt độ dưới 0oC. Đây là điểm quan trọng để chuyển nhanh đến điểm tới hạn lạnh đông. Tuy nhiên, quá trình lạnh đông chậm cho kết quả sản phẩm có chất lượng kém và đây là nguyên nhân chính dẫn đến sự phân giải protein. </para>
+        <para id="id6560725">Khi nhiệt độ của sản phẩm giảm xuống dưới 0oC, dung dịch đầu tiên được làm lạnh xuống nhanh, sau đó dung dịch bắt đầu kết tinh hoặc hình thành kết tủa và tinh thể nước đá hình thành ở giai đoạn 2. Đầu tiên có một ít phân tử, đó là những phân tử nhỏ của chất lơ lửng không hòa tan trong chất lỏng hoặc sự kết hợp ngẫu nhiên của các phân tử nước để tạo thành tinh thể nước đá theo tiêu chuẩn. </para>
+        <para id="id6560753">Sang giai đoạn 2, các tinh thể lớn dần lên, lượng nhiệt tách ra chậm kết quả làm cho quá trình lạnh đông chậm lại, tinh thể đá hình thành với kích thước lớn hơn và số lượng ít hơn, có thể gây ra sự phá vỡ vách tế bào, kết quả làm mất chất dịch và làm thay đổi cấu trúc của sản phẩm khi tan giá. Ngược lại, lượng nhiệt tách ra nhanh là kết quả của quá trình lạnh đông nhanh, tạo ra số lượng lớn tinh thể nước đá nhỏ. Vì vậy giảm sự hao hụt chất dịch và sự phá vỡ vách tế bào.</para>
+        <para id="id6560782">Tuy nhiên, vách tế bào của cá được xem như là lớp màng elastic để chống lại sự phá vỡ vách tế bào từ sự hình thành tinh thể nước đá lớn để giảm sự mất dịch khi tan giá cá lạnh đông. Thực tế, phần lớn lượng nước được liên kết trong cấu trúc của protein và sẽ không bị mất đi do sự rò rĩ khi tan giá. Lượng nước liên kết này có thể được xác định khi ép mô cơ cá tươi bằng tay và không thấy có chất lỏng thoát ra. </para>
+        <para id="id6560806">Tuy nhiên, sự tan giá của bất kỳ loại sản phẩm cá nào cũng có sự mất chất dịch từ phần thịt cá, được giải thích thông qua sự phân giải protein trong suốt tiến trình lạnh đông gây nên sự biến đổi protein làm mất khả năng liên kết nước. Sự phân giải protein dựa trên nồng độ enzym (và các thành phần khác) và nhiệt độ. Sự gia tăng nồng độ enzym làm gia tăng tốc độ phân giải. Sự phân giải này sẽ giảm khi nhiệt độ hạ thấp. Dĩ nhiên, khi nhiệt độ hạ thấp, một lượng nước lớn sẽ chuyển thành nước đá và nồng độ của enzym trong dung dịch tăng lên. Vì vậy dưới điểm lạnh đông của nước, nồng độ và nhiệt độ có mối quan hệ rất gần nhau.</para>
+        <para id="id6560841">Khoảng nhiệt độ tối ưu cho quá trình phân giải protein từ -1oC đến -2oC. Vì vậy để giảm sự rò rĩ chất dịch khi tan giá đến mức thấp nhất, thời gian để nhiệt độ sản phẩm nằm trong khoảng nhiệt độ này trong suốt quá trình lạnh đông phải càng ngắn càng tốt. Sự phân giải protein dẫn đến sự mất nước trong suốt quá trình bảo quản lạnh đông. </para>
+        <para id="id6560880">Lạnh đông nhanh là dạng phổ biến, được ứng dụng rộng rãi trong hầu hết các tiến trình lạnh đông thực phẩm. Trong lạnh đông nhanh có khái niệm lạnh đông IQF hay còn gọi là lạnh đông rời. Lạnh đông nhanh rất khó để xác định. Mặc dù ở Anh đã có đề nghị rằng tất cả các loài cá nên giảm nhiệt độ từ 0oC đến -5oC trong 2 giờ hoặc ít hơn. Tuy nhiên, 2 giờ vẫn bị xem là thời gian quá dài cho các sản phẩm.</para>
+        <para id="id6560919">Như đã chỉ ra ở trên, sự hạ thấp nhiệt độ làm giảm tốc độ phản ứng. Hơn thế nữa, khi lượng nước trong cá đông đặc nó sẽ trở nên dạng liên kết. Vì vậy giảm độ hoạt động của nước (aw) và cũng giảm được sự phát triển của vi khuẩn. Vì vậy có thể nói rằng tiến trình lạnh đông trong bảo quản cá là sự kết hợp của sự giảm nhiệt độ và hạ thấp độ hoạt động của nước.</para>
+      </section>
+      <section id="id-162358979108">
+        <title>Các dạng thiết bị lạnh đông</title>
+        <para id="id6560961">Có 3 phương pháp cơ bản được ứng dụng cho quá trình lạnh đông cá. Việc lựa chọn phương pháp nào sẽ dựa trên giá thành, chức năng và tính khả thi phụ thuộc vào một số nhân tố và loại sản phẩm. 3 phương pháp đó là:</para>
+        <para id="id6560978">1. Lạnh đông bằng không khí: ở đây không khí lạnh được thổi qua liên tục trên sản phẩm</para>
+        <para id="id6560989">2. Lạnh đông dạng đĩa hay lạnh đông tiếp xúc: sản phẩm được đặt tiếp xúc với lỗ rỗng đĩa thiết bị lạnh đông bằng kim loại mà ở đó chất lỏng làm lạnh được đưa ngang qua.</para>
+        <para id="id6561005">3. Lạnh đông dạng phun hoặc ngâm vào dung dịch: sản phẩm được đặt trực tiếp với chất lỏng làm lạnh</para>
+        <para id="id6561018">Tất cả 3 dạng lạnh đông trên được ứng dụng trong quá trình lạnh đông sản phẩm cả trong nhà máy chế biến và trên tàu đánh bắt.</para>
+        <section id="id-28074218691">
+          <title>Lạnh đông dạng khí thổi (đông gió)</title>
+          <para id="id6561041">Ưu điểm lớn nhất của thiết bị lạnh đông dạng khí thổi là tính linh hoạt của nó. Nó có thể thích ứng với sự thay đổi hình dạng bất thường của sản phẩm. Khi sản phẩm có hình dạng và kích thước thay đổi trong phạm vi rộng, lạnh đông dạng khí thổi được chọn là tốt nhất. Tuy nhiên, vì tính linh động này mà nó thường gây khó khăn cho người sử dụng vì không thể biết được ứng dụng chính xác của nó. Thiết bị này dễ dàng sử dụng nhưng tính chính xác và hiệu quả không cao.</para>
+          <para id="id6561069">Sản phẩm có thể lạnh đông trong thời gian thích hợp, tốc độ dòng thổi của không khí nên đạt ở mức cân bằng cao. Để đạt được tốc độ lạnh đồng nhất sau khi qua thiết bị lạnh đông, dòng không khí thổi vào yêu cầu phải giống nhau trên mỗi con cá và mỗi bao gói.</para>
+          <para id="id6561086">Tốc độ không khí thổi 5 m/s thường được áp dụng cho hầu hết các dạng lạnh đông bằng khí thổi.</para>
+          <figure id="id6561101">
+            <media id="id7584002" alt=""><image src="../../media/graphics2-9f9d.png" mime-type="image/png" height="269" width="459"/></media>
+          </figure>
+          <para id="id6561125">Hình 4.2. Mối quan hệ giữa thời gian lạnh đông với tốc độ không khí trong thiết bị lạnh đông bằng khí thổi</para>
+          <para id="id6561137">Thiết bị lạnh đông khí thổi liên tục có thể điều chỉnh tốc độ khí thổi vào khi vượt quá giá trị cho phép. Tốc độ dòng khí thổi cao, khoảng 10 - 15 m/s có thể mang lại giá trị kinh tế cao cho thiết bị lạnh đông dạng liên tục.</para>
+          <para id="id6561154">Nhược điểm của thiết bị lạnh đông dạng khí thổi là tính không hiệu quả và dòng khí thổi vào không đồng nhất trên sản phẩm.</para>
+          <figure id="id6561170">
+            <media id="id6648173" alt=""><image src="../../media/graphics3-8abd.png" mime-type="image/png" height="367" width="483"/></media>
+          </figure>
+          <para id="id6561199">Hình 4.3. Tủ đông gió</para>
+          <para id="id6561207">Hình 4.3 mô tả dạng thiết bị lạnh đông dạng khí thổi. Không khí lạnh chuyển động từ phía sau tới và trở lại dàn lạnh ở khoảng trống phía dưới. Tủ gồm nhiều mô đun độc lập với nhau, nhờ đó có thể điều chỉnh năng suất lạnh của nó dễ dàng.</para>
+        </section>
+        <section id="id-0940141592824">
+          <title>Lạnh đông dạng đĩa (tiếp xúc)</title>
+          <para id="id6561239">Lạnh đông dạng đĩa được ứng dụng cho lạnh đông cá khối (block) nhưng nó không linh hoạt như dạng khí thổi. Thiết bị có thể là dạng đứng hoặc nằm ngang tùy theo cách sắp xếp của đĩa. Các đĩa được làm bằng nhôm, dạng cắt ngang, sắp xếp thành hàng và chất lỏng làm lạnh sẽ đi qua đó. Quá trình trao đổi nhiệt diễn ra ngang qua mặt trên và mặt dưới của đĩa. Quá trình lạnh đông được hình thành nhờ sự tiếp xúc trực tiếp giữa đĩa lạnh và sản phẩm. </para>
+          <para id="id6561262">Kích cỡ tối đa của khối sản phẩm ứng dụng trong phương pháp này thường là 1,07 mm x 535 mm. Tuy nhiên, kích cỡ của khối sản phẩm có thể thay đổi tùy theo sản phẩm và bề dày của khối sản phẩm có thể thay đổi dao động trong khoảng từ 25 đến 130 mm. Kích cỡ của khối sản phẩm được chọn lựa phụ thuộc vào loại cá đem đi lạnh đông.</para>
+          <para id="id6561280">* Ảnh hưởng của mức độ tiếp xúc các bề mặt truyền nhiệt trong tủ đông tiếp xúc</para>
+          <para id="id6561291">Mức độ tiếp xúc và khả năng truyền nhiệt từ thực phẩm vào dàn lạnh giảm do:</para>
+          <list id="id6561302" list-type="bulleted">
+            <item>Nhiệt truyền qua nhiều lớp kim loại</item>
+            <item>Các bề mặt tiếp xúc không phẳng</item>
+            <item>Kích thước, hình dạng các khuôn đựng thực phẩm không đúng tiêu chuẩn</item>
+            <item>Chiều cao khuôn và bề dày sản phẩm khác nhau</item>
+            <item>Sự ép nén không đạt yêu cầu</item>
+          </list>
+          <para id="id6561347">
+            <figure id="id6561357">
+              <media id="id6904752" alt=""><image src=".png" mime-type="image/png" height="292" width="333"/></media>
+            </figure>
+            <figure id="id6561381">
+              <media id="id7957212" alt=""><image src=".png" mime-type="image/png" height="287" width="333"/></media>
+            </figure>
+          </para>
+          <para id="id6561405">Hình 4.4. Tủ đông tiếp xúc và các yếu tố ảnh hưởng đến mức độ tiếp xúc, truyền nhiệt trong tủ đông tiếp xúc</para>
+          <para id="id6561417">Biện pháp khắc phục:</para>
+          <para id="id6561422">Để tăng khả năng truyền nhiệt của thực phẩm trong tủ đông tiếp xúc có thể áp dụng các biện pháp:</para>
+          <para id="id6561433">- Thay khay đựng khuôn bằng khung ghép khuôn</para>
+          <para id="id6561442">- Dùng thép không rỉ làm khuôn</para>
+          <para id="id6561448">- Sử dụng các khuôn có kích thước phù hợp với sản phẩm trong khuôn, không để dư thể tích khuôn khi sản phẩm đã đóng băng</para>
+          <para id="id6561463">- Dùng nắp đậy khuôn phù hợp</para>
+          <para id="id6561471">- Đảm bảo lực ép nén đều và đủ cho dàn lạnh</para>
+        </section>
+        <section id="id-334078050287">
+          <title>Lạnh đông dạng phun và ngâm thẩm thấu</title>
+          <para id="id6561490">Đây là loại thiết bị thường được ứng dụng để cấp đông sản phẩm IQF. Dạng thiết bị lạnh đông này ít được sử dụng rộng rãi trong công nghệ chế biến cá lạnh đông mà chỉ thường được sử dụng để lạnh đông các sản phẩm đặc biệt hoặc sản phẩm có giá trị kinh tế cao.</para>
+          <para id="id6561510">a. Cấp đông dạng ngâm thẩm thấu</para>
+          <para id="id6561519">Sử dụng phương pháp cấp đông dạng ngâm phải đảm bảo sự tiếp xúc tốt giữa bề mặt cá và môi trường lạnh đông để đảm bảo quá trình truyền nhiệt xảy ra được tốt. Môi trường lạnh đông thường sử dụng là dung dịch muối NaCl, có điểm eutectic là -21,2oC. Để đạt được điểm lạnh đông này, nhiệt độ nước muối khoảng -15oC được ứng dụng cho tiến trình lạnh đông. Trong suốt quá trình vận chuyển sản phẩm đến kho bảo quản, nhiệt độ sản phẩm phải được giữ ở mức càng thấp càng tốt.</para>
+          <para id="id6561563">Lạnh đông cá ngừ lớn trong dung dịch nước muối có thể kéo dài đến 3 ngày để đạt được quá trình lạnh đông hoàn toàn. Sử dụng thiết bị lạnh đông dạng khí thổi ở nhiệt độ càng thấp càng tốt từ -50oC đến -60oC, thời gian lạnh đông ít hơn 24 giờ. Lạnh đông trong dung dịch nước muối trước kia được ứng dụng rộng rãi trong công nghiệp lạnh đông cá, ngày nay phương pháp lạnh đông này đã được thay thế bằng phương pháp lạnh đông dạng khí thổi.</para>
+          <para id="id6561607">b. Lạnh đông dạng phun (cấp đông băng chuyền)</para>
+          <para id="id6561616">Lạnh đông dạng phun cũng giống như lạnh đông dạng hỗn hợp trong ống sinh hàn. Tốc độ lạnh đông bằng phương pháp lạnh đông hỗn hợp trong ống sinh hàn rất nhanh nhờ sự tiếp xúc trực tiếp với sản phẩm. Trong phương pháp này, hơi lạnh được phun vào sản phẩm và nhiệt tách ra làm thay đổi trạng thái môi trường lạnh.</para>
+          <para id="id6561634">* CO</para>
+          <para id="id6561638">Với phương pháp lạnh đông này oxyt carbon lỏng được phun trên sản phẩm ngang qua các ống trên băng tải, phía dưới có các vòi phun. CO sẽ thay đổi trạng thái khi ngang qua các vòi phun và hấp thụ một lượng nhiệt lớn. Kết quả làm cho sản phẩm lạnh xuống nhanh. Trong một số hệ thống, các lớp CO rắn (nước đá khô) được đặt nằm dưới băng tải và sản phẩm được đặt nằm phía trên. CO lỏng sau đó được phun trên đầu; sự thăng hoa của nước đá khô xảy ra ở nhiệt độ -78oC, có thể làm lạnh đông xuống ít nhất -75oC. Quá trình lạnh đông xảy ra trong những trường hợp này rất nhanh và sự mất dịch sẽ giảm xuống ít hơn 1%.</para>
+          <para id="id6561689">* N2 lỏng</para>
+          <para id="id6561705">Trong trường hợp lạnh đông bằng N2 lỏng, khí hóa lỏng được phun lên sản phẩm thổi ngang qua băng tải đang chuyển động. Khí N2 đi ngược chiều với băng tải. Vì vậy cá nên được làm lạnh sơ bộ trước khi đưa đến phun N2 lỏng. Ở áp suất bình thường, nitơ lỏng sôi ở -196oC, vì vậy nó cần được làm lạnh sơ bộ xuống trong đường ống trước để tránh cho sản phẩm bị nức ra do quá trình làm lạnh xuống quá nhanh (tức thời). Sau khi phun, sản phẩm cần phải được để ổn định trước khi đưa ra khỏi băng tải của phòng lạnh đông. Điều này có thể do ảnh hưởng của sự chênh lệch nhiệt độ từ môi trường bên ngoài với nhiệt độ tâm sản phẩm để đưa đến trạng thái cân bằng. Sản phẩm sau khi đạt đến trạng thái cân bằng hoàn toàn được đưa đến phòng bảo quản lạnh.</para>
+          <para id="id6561780">Cả CO và N2 cũng có thể sử dụng trong phương pháp lạnh đông bằng khí thổi với thiết bị lạnh đông dạng xoắn ốc.</para>
+          <para id="id6561800">Xét về mặt kinh tế, các phương pháp lạnh đông được áp dụng để chế biến sản phẩm cá lạnh đông phải tạo ra được sản phẩm đảm bảo chất lượng, đáp ứng yêu cầu người tiêu dùng. VD. Phương pháp lạnh đông dạng đĩa được sử dụng để lạnh đông cá dạng khối (block). Sử dụng bất kỳ dạng lạnh đông nào khác cho kết quả không đồng nhất ở các phía. Điều này dẫn đến giảm hiệu suất của tiến trình chế biến ở giai đoạn sau. Lạnh đông dạng khí thổi có thể ứng dụng cho mọi loại sản phẩm.</para>
+          <para id="id6561830">Các dạng thiết bị lạnh đông băng chuyền</para>
+          <list id="id6561839" list-type="bulleted">
+            <item>Lạnh đông băng chuyền xoắn</item>
+          </list>
+          <para id="id6561852">Dạng thiết bị băng chuyền xoắn được biểu diễn ở hình 4.5</para>
+          <figure id="id6561866">
+            <media id="id1164791451639" alt=""><image src="../../media/graphics4-d55a.png" mime-type="image/png" height="313" width="444"/></media>
+          </figure>
+          <para id="id6561895">Hình 4.5. Tủ đông băng chuyền xoắn</para>
+          <para id="id6561904">Băng chuyền gồm nhiều thanh ghép đặt nằm ngang không song song với nhau. Phía ngoài có khoảng cách lớn hơn phía trong. Nhờ đó nó chuyển động xoắn dọc trên khung đỡ hình trụ. Băng chuyền vận chuyển sản phẩm chuyển động từ dưới lên trên, không khí lạnh chuyển động từ trên xuống dưới, trao đổi nhiệt với sản phẩm để thực hiện quá trình lạnh đông.</para>
+          <para id="id6561921">- Lạnh đông dạng thẳng</para>
+          <figure id="id6561932">
+            <media id="id1164787068319" alt=""><image src="../../media/graphics5-a2ff.png" mime-type="image/png" height="248" width="458"/></media>
+          </figure>
+          <para id="id6561961">Hình 4.6. Tủ đông băng chuyền thẳng</para>
+          <para id="id6561970">Tủ đông được ghép từ những tấm cách nhiệt và được đặt trực tiếp trên nền nhà. Bên trong có băng chuyền thẳng chạy xuyên dọc tủ để vận chuyển sản phẩm. Dàn lạnh với quạt gió phía trên tạo ra dòng không khí lạnh thổi xuống bề mặt băng chuyền. Không khí lấy nhiệt của thực phẩm và đưa vào dàn lạnh. Băng chuyền vừa nâng đỡ thực phẩm vừa nhận nhiệt của thực phẩm để truyền vào không khí.</para>
+          <para id="id6561987">Các tấm băng chuyền được tạo nên từ những móc liên kết, nhờ đó nó có thể chuyển động mềm dẻo, uốn lượn trên những con lăn, đồng thời cho không khí xuyên qua để tăng sự trao đổi nhiệt.</para>
+        </section>
+      </section>
+      <section id="id-763845166988">
+        <title>Xử lý sản phẩm thủy sản sau lạnh đông</title>
+        <para id="id6562013">Để kéo dài thời gian bảo quản, mạ băng và bao gói sản phẩm thủy sản lạnh đông rất cần thiết.</para>
+        <section id="id-491335283766">
+          <title>Mạ băng</title>
+          <para id="id6562030">Mạ băng có nghĩa là áo một lớp nước đá mỏng ở bề mặt ngoài của thủy sản lạnh đông bằng cách p</para>
+          <para id="id6562038">hun sương hoặc nhúng vào nước để tạo lớp nước đá mỏng trên bề mặt sản phẩm lạnh đông, đã được ứng dụng rộng rãi trong bảo quản sản phẩm lạnh đông thủy sản nhằm giúp bảo vệ sản phẩm tránh sự mất nước và oxy hóa. Lớp nước đá giúp ngăn cản hiện tượng thăng hoa và cũng hạn chế lượng không khí thổi ngang qua bề mặt của sản phẩm. Vì vậy sẽ giảm được tốc độ oxy hóa sản phẩm. Lượng nhiệt cần thiết cho tiến trình mạ băng cần được quan tâm và thủy sản có thể được làm lạnh sơ bộ trong phòng lạnh đông trước khi chuyển đến kho bảo quản.</para>
+          <para id="id6562070">Trong quá trình mạ băng, bề mặt sản phẩm nhận thêm nhiệt vào và thủy sản cần được tái đông trong tủ cấp đông trước khi chuyển đến kho bảo quản. Để tạo lớp băng đẹp và đồng đều trên bề mặt của thủy sản, quá trình mạ băng đòi hỏi phải được kiểm soát một cách chặt chẽ.</para>
+          <para id="id6562085">a. Phương pháp mạ băng bằng cách nhúng vào thùng nước</para>
+          <para id="id6562095">Mạ băng bằng cách này không được khuyến khích sử dụng vì:</para>
+          <para id="id6562106">- Nhiệt độ ban đầu của nước có thể tương đối cao so với nhiệt độ bề mặt sản phẩm lạnh đông; nó được làm giảm xuống khi mạ băng tiếp diễn và vì thế chiều dày của lớp băng thay đổi.</para>
+          <para id="id6562118">- Nước sẽ bẩn sau vài lần nhúng</para>
+          <para id="id6562124">Nếu áp dụng mạ băng bằng phương pháp nhúng thì thùng chứa phải được cung cấp nước lạnh liên tục và vừa đủ với mức ống chảy tràn.</para>
+          <para id="id6562134">Fillet lạnh đôngMức nướcNước 0oCFillet lạnh đông sau khi mạ băng</para>
+          <para id="id6562953">Hình 4.7. Thiết bị mạ băng nhúng dạng băng chuyền</para>
+          <para id="id6562963">Để kiểm soát chiều dày lớp băng cần phải kiểm soát:</para>
+          <para id="id6562971">- Mức nước: mức nước cao thì lớp băng dày hơn</para>
+          <para id="id6562981">- Tốc độ băng chuyền: lớn cho lớp băng mỏng hơn</para>
+          <para id="id6562990">b. Phương pháp mạ băng bằng cách phun sương</para>
+          <para id="id6562999">Phương pháp mạ băng bằng cách phun là thích hợp, nhưng lại khó có được lớp băng đẹp, đồng đều.</para>
+          <para id="id6563008">Để lớp băng đẹp và đồng đều:</para>
+          <para id="id6563013">- Tốc độ băng chuyền không đổi sẽ đảm bảo thời gian vừa đúng trong vùng mạ băng</para>
+          <para id="id6563021">- Phun từ trên xuống và từ dưới lên một lượng nước lạnh không đổi và mạ băng được cả phía trên lẫn phía dưới sản phẩm </para>
+          <para id="id6563041">- Sự sắp xếp băng chuyền đôi làm cho thủy sản đổi bề mặt tạo ra lớp băng đều đặn</para>
+          <para id="id6563049">- Các vách ngăn điều chỉnh có thể được dùng để sắp xếp lại các thủy sản chồng lên nhau trên băng chuyền. Vì thế, mỗi sản phẩm được lộ ra hoàn toàn.</para>
+          <para id="id6563060"><figure id="id6563070"><media id="id3791458" alt=""><image src=".png" mime-type="image/png" height="351" width="567"/></media></figure>Hình 4.8. Thiết bị mạ băng có băng chuyền đôiBăng chuyềnVòi phunDây đai băng chuyền </para>
+          <para id="id6563198"/>
+          <para id="id6563203"/>
+          <para id="id6563207">Các yếu tố ảnh hưởng đến tỉ lệ mạ băng</para>
+          <para id="id6563216">- Thời gian mạ băng</para>
+          <para id="id6563228">- Nhiệt độ thủy sản </para>
+          <para id="id6563241">- </para>
+          <para id="id6563246">Nhiệt độ nước mạ băng </para>
+          <para id="id6563259">- Kích thước sản phẩm </para>
+          <para id="id6563279">- Hình dạng sản phẩm </para>
+        </section>
+        <section id="id-902051529247">
+          <title>Bao gói</title>
+          <para id="id6563304">Sản phẩm nên được bao gói và hàn kín lại để ngăn chặn quá trình oxy hóa sản phẩm. Vật liệu được chọn lựa để bao gói cần phải có khả năng ngăn cản sự thẩm thấu hơi nước cao để ngăn chặn sự bốc hơi nước của cá trong suốt quá trình bảo quản. Vì vậy khi chọn lựa bao gói cần phải thích hợp cho mỗi loại sản phẩm.</para>
+        </section>
+      </section>
+      <section id="id-054128437477">
+        <title>Bảo quản lạnh đông</title>
+        <section id="id-472262773685">
+          <title>Nhiệt độ bảo quản</title>
+          <para id="id6563339">Hạ nhiệt độ bảo quản xuống thấp có thể làm chậm lại sự hư hỏng của thủy sản lạnh đông do sự phân giải protein, biến đổi chất béo và sự mất nước. Nhiệt độ được đề nghị để bảo quản sản phẩm cá lạnh đông là -30oC, tối thiểu phải là -18oC.</para>
+        </section>
+        <section id="id-882632005567">
+          <title>Các biến đổi xảy ra trong thời gian bảo quản sản phẩm lạnh đông</title>
+          <para id="id6563384">a. Sự biến đổi protein</para>
+          <para id="id6563393">Protein biến đổi trong suốt quá trình lạnh đông và bảo quản lạnh. Tốc độ phân hủy phụ thuốc rất lớn vào nhiệt độ.</para>
+          <para id="id6563405">b. Biến đổi chất béo</para>
+          <para id="id6563413">Mỡ cá giàu acid béo chưa bão hòa, vì vậy có thể bị oxy hóa nhanh chóng tạo mùi ôi khét trong suốt thời gian bảo quản. Có thể ngăn chặn sự oxy hóa chất béo của cá bằng cách mạ băng hoặc bao gói trong bao bì plastic có hút chân không.</para>
+          <para id="id6563430">c. Sự biến đổi màu sắc</para>
+          <para id="id6563439">Chất lượng của cá thường được đánh giá bởi hình dạng bên ngoài, sự biến đổi màu sắc phải ở mức rất thấp, nếu không sẽ làm giảm chất lượng sản phẩm.</para>
+          <para id="id6563453">Sự mất màu hồng ở các loài giáp xác là kết quả từ sự biến màu của hợp chất carotenoid.</para>
+          <figure id="id6563464">
+            <media id="id5447862" alt=""><image src="../../media/graphics6-912a.png" mime-type="image/png" height="57" width="386"/></media>
+          </figure>
+          <para id="id6563488">Bảo quản ở nhiệt độ thấp giúp làm chậm lại sự biến đổi protein, chất béo và màu sắc.</para>
+          <para id="id6563499">d. Sự biến đổi hàm lượng ẩm</para>
+          <para id="id6563508">Khi cá mất nước nhiều trong quá trình bảo quản lạnh, bề mặt cá trở nên khô, mờ đục và xốp. Nếu tiến trình này kéo dài, phần nước nằm sâu bên trong cá cũng bị thấm ra đến khi cá xơ ra, nguyên liệu sẽ rất nhẹ.</para>
+          <para id="id6563525">Ảnh hưởng của sự mất nước nghiêm trọng có thể nhìn thấy được khi trên bề mặt của cá bị sậm lại, trạng thái này gọi là “cháy lạnh”. Hiện tượng này chỉ thấy sau một thời gian dài bảo quản trong kho lạnh.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-23438373959">
+      <title>Tan giá</title>
+      <para id="id6563547">Tan giá là quá trình phục hồi trạng thái thực phẩm như trước khi lạnh đông. Trong quá trình tan giá xảy ra các hiện tượng nóng chảy nước đá và cấu trúc tế bào sản phẩm hút nước vào.</para>
+      <para id="id6563562">Sản phẩm sau khi tan giá không thể có tính chất hoàn toàn giống như trước khi lạnh đông. Mức độ phục hồi trạng thái phụ thuộc vào quá trình lạnh đông, bảo quản và tan giá.</para>
+      <para id="id6563577">Phương pháp tan giá có thể phân chia ra làm 2 nhóm</para>
+      <para id="id6563586">- Nhiệt được phát ra trong phần thịt </para>
+      <para id="id6563595">- Nhiệt được dẫn từ mặt ngoài vào tâm của khối sản phẩm</para>
+      <section id="id-358689473295">
+        <title>Tan giá nhóm 1</title>
+        <para id="id6563617">Các phương pháp tan giá nhóm này bao gồm nhiệt điện trường, nhiệt microwave và nhiệt điện trở. Sử dụng microwave làm tan giá cá nhanh hơn nhiệt điện trường và nhiệt điện trở. Tuy nhiên, nhiệt microwave có giá thành cao và năng lượng được hấp thụ trên bề mặt, một số vị trí trên sản phẩm bị quá nóng làm ảnh hưởng đến sản phẩm và bề mặt sản phẩm bị nấu chín. Tan giá bằng nhiệt điện trường, giá thành cao hơn nhưng chỉ mất khoảng 20% thời gian so với làm tan giá trong môi trường không khí hoặc tan giá chân không.</para>
+        <para id="id6563647">Tan giá bằng điện trở đòi hỏi cá phải được làm ấm đến nhiệt độ khoảng –10oC, bằng cách ngâm trong nước. Trên nhiệt độ này cá được tan giá trong thiết bị dẫn nhiệt bằng cách đặt cá giữa 2 tấm kim loại, sự tiếp xúc nhiệt xảy ra và sự thay đổi dòng điện với hiệu điện thế thấp được ứng dụng. Sự phân cực của nước gây ra do sự thay đổi hướng lực điện trường và sự tạo ra năng lượng do ma sát làm cho cá nóng lên. Sự tiếp xúc xảy ra tốt khi khối cá đồng dạng với bề mặt dĩa.</para>
+        <para id="id6563676">Tan giá bằng phương pháp điện có giá thành cao và cần có trình độ điều khiển cao. Tuy nhiên, nếu áp dụng đúng nguyên tắc sẽ cho sản phẩm cá tan giá có chất lượng tốt. Phương pháp này đòi hỏi thiết bị đắt tiền, và khó tránh hiện tượng quá nhiệt cho sản phẩm.</para>
+      </section>
+      <section id="id-178693082906">
+        <title>Tan giá nhóm 2</title>
+        <para id="id6563702">Các phương pháp nhóm 2 có thể được phân chia làm các dạng: a) nước, b) hơi nước bảo hòa, c) đặt giữa các dĩa kim loại gia nhiệt</para>
+        <para id="id6563715">Xét tính hiệu quả và yêu cầu trang thiết bị, năng lượng, tan giá trong bồn nước là phương pháp hầu như được ứng dụng nhiều nhất</para>
+        <para id="id6563728">VD: Để làm tan giá 1 kg cá lạnh đông từ -20oC, lượng calories cần bằng với lượng calo để làm lạnh đông cá đến -20oC.</para>
+        <para id="id6563757">Trong suốt quá trình lạnh đông, nhiệt độ cần phải hạ xuống đến -50oC đến khi toàn bộ chất lỏng đóng băng. Ở nhiệt độ -5oC, có khoảng 65-70% chất lỏng đóng băng tạo thành nước đá. Ở giai đoạn này cần lượng calories cao nhất để nước đóng băng và giai đoạn này chiếm phần lớn thời gian của tiến trình lạnh đông.</para>
+        <para id="id6563797">Quá trình tan giá cũng cần một lượng năng lượng nhưng mất thời gian dài hơn.</para>
+        <para id="id6563805">Có thể quan sát thấy thời gian tan giá dài hơn 2 đến 3 lần thời gian lạnh đông. Điều này dẫn đến khả năng truyền nhiệt của cá tuyết lạnh đông khoảng 1,6 kcal/0oC và của cá tuyết tươi khoảng 0,5 kcal/0oC.</para>
+        <para id="id6563838">Nhiệt được truyền từ bên ngoài vào thịt cá, phần ngoài sẽ tan giá trước và nhiệt truyền ngang qua lớp nước đá đã tan giá giảm xuống 1/3. Kết quả là cần thời gian dài hơn gấp 3 lần để lượng nhiệt đi qua lớp nước đã tan giá, đi vào lớp cá bên trong vẫn còn lạnh đông. Tác nhân này tăng dần lên đến khi cá được tan giá hoàn toàn.</para>
+        <figure id="id6563863">
+          <media id="id1164791575217" alt=""><image src="../../media/graphics7-2cec.png" mime-type="image/png" height="360" width="468"/></media>
+        </figure>
+      </section>
+      <section id="id-559856625546">
+        <title>Hình 4.9. Tiến trình lạnh đông và tan giá cá tuyết dạng khối dày 100 mm</title>
+        <para id="id6563900">Nhiệt được truyền từ môi trường khác đến cá và khả năng dẫn nhiệt của nước cao hơn không khí gấp 25 lần. Điều này cho thấy rằng dùng nước như môi trường dẫn nhiệt tốt.</para>
+        <para id="id6563915">Trong suốt quá trình tan giá, vấn đề cần quan tâm là một phần cá bị quá nhiệt. Sau khi tan giá, nếu nhiệt độ môi trường tiếp xúc quá cao (hằng số nhiệt độ của nước trên 18oC) sẽ làm cho thịt cá bị ‘cháy’.</para>
+        <section id="id-89144017452">
+          <title>Tan giá trong nước</title>
+          <para id="id6563947">a. Tan giá dưới dòng nước chảy</para>
+          <para id="id6563957">Khối cá được đặt vào trong bồn nước chảy (nhiệt độ nước vòi), để qua đêm và cá sẽ được tan giá sáng hôm sau.</para>
+          <para id="id6563970">Ưu điểm</para>
+          <para id="id6563977">- Vốn đầu tư nhỏ, giá thành thấp</para>
+          <para id="id6563986">- Cần ít thông tin, không đòi hỏi kỹ thuật cao</para>
+          <para id="id6563995">- Ít tốn nhân lực</para>
+          <para id="id6564000">- Có thể ứng dụng với mọi khối cá có hình dạng và kích thước khác nhau</para>
+          <para id="id6564011">- Cá được làm sạch nhờ dòng nước chảy liên tục</para>
+          <para id="id6564020">- Dễ ứng dụng, tiết kiệm mặt bằng</para>
+          <para id="id6564026">Nhược điểm</para>
+          <para id="id6564034">- Khó điều khiển được nước sạch</para>
+          <para id="id6564043">- Nhiệt độ tan giá phụ thuộc vào môi trường xung quanh, khó điều chỉnh</para>
+          <para id="id6564054">- Nhiệt độ cuối cùng có thể quá cao, kết quả làm giảm chất lượng và sản lượng của sản phẩm</para>
+          <para id="id6564065">- Tiêu hao lượng nước lớn (đến 120 m3/ tấn cá)</para>
+          <para id="id6564083">- Cá tan giá trong nước có thể bị biến trắng và có thể bị no nước</para>
+          <para id="id6564093">Từ những lý do trên, phương pháp này chỉ phù hợp khi cần tan giá không thường xuyên và với qui mô nhỏ.</para>
+          <para id="id6564105">b. Tan giá bằng cách ngâm vào trong nước nóng</para>
+          <para id="id6564118">Phương pháp này còn được gọi là phương pháp Lorenzen - tên của nhà đầu tư</para>
+          <list id="id6564129" list-type="bulleted">
+            <item>750 lít nước ở 33oC được cho vào bồn 1000 lít</item>
+            <item>350 kg cá dạng khối được đặt vào bồn</item>
+            <item>Khí cho vào dưới đáy của bồn để tạo dòng tuần hoàn an toàn</item>
+            <item>Sau khoảng 5 h ngưng nạp khí, nước đá được cho vào để bảo quản</item>
+          </list>
+          <para id="id6564183">- Bồn được đặt trong kho lạnh. Cá sẽ được giữ ở 0oC trong thời gian 4 - 5 ngày, ban đêm bổ sung thêm nước đá</para>
+          <para id="id6564204">Ưu điểm</para>
+          <list id="id6564212" list-type="bulleted">
+            <item>Vốn đầu tư nhỏ, giá thành thấp</item>
+            <item>Cần ít thông tin, không đòi hỏi trình độ điều khiển cao</item>
+            <item>Cá được làm sạch sau khi tan giá</item>
+            <item>Ít tiêu tốn năng lượng</item>
+            <item>Có thể áp dụng cho mọi sản phẩm có hình dạng và kích thước khác nhau</item>
+            <item>Hằng số nhiệt độ ở 0oC</item>
+            <item>Dễ ứng dụng, tiết kiệm mặt bằng sản xuất</item>
+          </list>
+          <para id="id6564291">Nhược điểm</para>
+          <para id="id6564299">- Quá trình tan giá phải được lên kế hoạch cụ thể trong các công đoạn chế biến tiếp theo</para>
+          <list id="id6564310" list-type="bulleted">
+            <item>Đòi hỏi không gian bồn bảo quản lớn sau khi dùng</item>
+          </list>
+          <para id="id6564325">- Cần phải có người quản lý và cung cấp nước đá trong suốt giai đoạn bảo quản lạnh</para>
+          <list id="id6564336" list-type="bulleted">
+            <item>Cá tan giá trong nước có thể bị đốm trắng và no nước </item>
+          </list>
+          <para id="id6564350">c. Tan giá liên tục trong thiết bị tuần hoàn nước</para>
+          <para id="id6564365">Trong phương pháp này, khối cá được đưa liên tục qua bể nước. Nguyên lý hoạt động của thiết bị này là cá lạnh đông được cho vào bể và cá được tan giá dưới đáy của bể. Sau đó chúng được bốc dỡ lên bằng băng tải </para>
+          <para id="id6564383">Để có được diện tích bề mặt lớn, khối cá lạnh đông được chuyển động liên tục đến khi chúng tách rời ra và như vậy quá trình tan giá sẽ nhanh hơn. Nước trong bể được lọc và tuần hoàn liên tục để duy trì nhiệt độ của nước ổn định và giữ cố định ở mức đã xác định trước.</para>
+          <para id="id6564404">Ưu điểm</para>
+          <list id="id6564411" list-type="bulleted">
+            <item>Cho năng suất cao (1 - 2 tấn /giờ)</item>
+            <item>Dễ điều khiển nhiệt độ</item>
+            <item>Có khả năng hoạt động liên tục</item>
+            <item>Tiết kiệm không gian kho bảo quản lạnh</item>
+            <item>Ít tốn nhân lực</item>
+          </list>
+          <para id="id6564457">Nhược điểm</para>
+          <list id="id6564464" list-type="bulleted">
+            <item>Vốn đầu tư cao</item>
+            <item>Cần có trình độ điều khiển cao</item>
+            <item>Có nhiều tiếng động (do dao động)</item>
+            <item>Giá thành hoạt động cao (do nhiệt, phần chất thải, vệ sinh)</item>
+          </list>
+          <para id="id6564508">- Để đạt hiệu quả cao đòi hỏi nhiệt độ phải cao, dẫn đến làm giảm chất lượng sản phẩm</para>
+          <list id="id6564519" list-type="bulleted">
+            <item>Lượng nước tuần hoàn lại nhiều lần có thể là nguyên nhân làm tăng số lượng vi khuẩn trong sản phẩm</item>
+            <item>Khó duy trì nhiệt độ là hằng số, nhiệt độ bị hạ thấp khi cá tan giá</item>
+          </list>
+          <para id="id6564547">Từ đó chúng ta có thể kết luận rằng tan giá bằng phương pháp này các nhược điểm vẫn còn quá nhiều, vì vậy các thiết bị tan giá hoạt động liên tục vẫn còn phải cải tiến đến khi các điều kiện trên đạt được độ tin cậy cao.</para>
+        </section>
+        <section id="id-409210372734">
+          <title>Tan giá bằng hơi khí bão hòa</title>
+          <para id="id6564573">Tan giá bằng hơi khí bão hòa ở nhiệt độ và vận tốc xác định hầu như có hiệu quả như tan giá trong nước. </para>
+          <para id="id6564585">Thiết bị sử dụng cho loại tan giá này giống như thiết bị lạnh đông dạng hầm, chỉ khác là không khí nóng thổi xung quanh cá.</para>
+          <para id="id6564598">Khối cá đông lạnh được đặt vào khay, đưa vào hầm bằng xe goòng. Xe goòng phải khớp với hầm, nghĩa là phòng làm việc phải chất đầy. Bằng cách này không khí được thổi vào xung quanh cá.</para>
+          <para id="id6564613">Xe goòng được đặt vào hầm, cửa đóng lại và tiến trình tan giá được bắt đầu khi quạt được mở lên. Không khí thổi vào được điều chỉnh bởi thiết bị điều nhiệt, thiết bị này giữ cho nhiệt độ của hầm là hằng số ở nhiệt độ 18oC. Khi mới bắt đầu, nhiệt độ có thể tăng đến 33oC (nghĩa là đến khi lớp ngoài của cá bắt đầu tan giá).</para>
+          <para id="id6564652">Để quá trình dẫn nhiệt giữa cá và không khí diễn ra đạt hiệu quả, cần thiết phải có 100% hơi khí bão hòa. Hơi khí bão hòa này có được từ nơi làm ấm ngay sau khi gia nhiệt.</para>
+          <para id="id6564663">Không khí bão hòa ngăn cản cá bị khô trong suốt tiến trình tan giá. Cá bị khô sẽ giảm sản lượng và chất lượng nên cần phải tránh.</para>
+          <para id="id6564676">Khả năng làm việc đạt tiêu chuẩn của loại thiết bị này là 20 tấn cá tan giá ở 18O‑C trong thời gian 14 - 15h.</para>
+          <para id="id6564699">Quá trình tan giá tốt khi chất lượng của cá sau khi tan giá không thay đổi so với trước khi tan giá.</para>
+        </section>
+      </section>
+      <section id="id-159820524714">
+        <title>Các biến đổi của sản phẩm tan giá so với trước khi lạnh đông </title>
+        <list id="id6564722" list-type="enumerated">
+          <item>Biến đổi vậy lý</item>
+        </list>
+        <list id="id6564735" list-type="bulleted">
+          <item>Sự cứng xác tăng do mất nước</item>
+          <item>Độ đàn hồi giảm</item>
+          <item>Tỷ lệ nước tự do tăng, tỷ lệ nước liên kết giảm</item>
+          <item>Khối lượng giảm</item>
+          <item>Mùi vị đặc trưng giảm do hao hụt chất tan</item>
+        </list>
+        <para id="id6564787">b. Hao hụt chất dinh dưỡng trong quá trình tan giá</para>
+        <para id="id6564796">Tế bào bị phá vỡ do cấp đông chậm hay quá trình kết tinh lại sẽ làm giảm khả năng hấp thụ nước của các tổ chức tế bào, dẫn đến hình thành các giọt nhỏ xuống khi tan giá.</para>
+        <list id="id6564811" list-type="enumerated">
+          <item>Sự phát triển của vi sinh vật sau khi tan giá</item>
+        </list>
+        <para id="id6564822">* Nguồn gốc </para>
+        <para id="id6564826">- Số lượng vi sinh vật còn sống sót</para>
+        <para id="id6564835">+ Sơ chế (rửa, chần/ gia nhiệt sơ bộ, phụ gia)</para>
+        <para id="id6564845">+ Vệ sinh trong quá trình sản xuất</para>
+        <para id="id6564850">- Loại vi sinh vật</para>
+        <para id="id6564856">+ Loại/lượng vi sinh vật ban đầu (phụ thuộc vào sản phẩm)</para>
+        <para id="id6564865">+ Các loài chịu đựng tốt nhất sẽ phát triển</para>
+        <para id="id6564875">* Các yếu tố ảnh hưởng đến sự phát triển của vi sinh vật sau tan giá</para>
+        <list id="id6564885" list-type="bulleted">
+          <item>Nhiệt độ bảo quản</item>
+          <item>Tốc độ cấp đông</item>
+          <item>Thời gian bảo quản</item>
+          <item>Loại thực phẩm</item>
+          <item>Sự tái nhiễm</item>
+          <item>Sự nhỏ giọt</item>
+        </list>
+        <para id="id6564931">Vì vậy cần phải có phương pháp, chế độ làm tan giá cho phù hợp với đối tượng</para>
+      </section>
+    </section>
+  </content>
+</document>

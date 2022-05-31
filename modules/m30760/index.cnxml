@@ -1,0 +1,538 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Thành phần hóa học và tính chất của động vật thủy sản</title>
+  <metadata>
+  <md:content-id>m30760</md:content-id><md:title>Thành phần hóa học và tính chất của động vật thủy sản</md:title>
+  <md:abstract>THÀNH PHẦN HÓA HỌC VÀ TÍNH CHẤT CỦA ĐỘNG VẬT THỦY SẢN</md:abstract>
+  <md:uuid>db56f67c-8007-4a5d-ac86-98b0554d2dc8</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-0821534477469">
+      <title>Thành phần hóa học của thủy sản và ảnh hưởng của thành phần hóa học đến chất lượng</title>
+      <section id="id-641304944929">
+        <title>Thành phần hóa học của thủy sản</title>
+        <para id="id6567721">Thành phần hóa học gồm: nước, protein lipid, muối vô cơ, vitamin... Các thành phần này khác nhau rất nhiều, thay đổi phụ thuộc vào giống, loài, giới tính, điều kiện sinh sống,... Ngoài ra, các yếu tố như thành phần thức ăn, môi trường sống, kích cỡ cá và các đặc tính di truyền cũng ảnh hưởng đến thành phần hóa học, đặc biệt là ở cá nuôi. Các yếu tố này có thể kiểm soát được trong chừng mực nào đó.</para>
+        <para id="id6567745">Các thành phần cơ bản của cá và động vật có vú có thể chia thành những nhóm có cùng tính chất.</para>
+        <para id="id6567757">Bảng 1.1. Các thành phần cơ bản (tính theo % căn bản ướt) của cá và thịt bò</para>
+        <table id="id6567768" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Thành phần</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">Cá (phi lê)</entry>
+                    </row>
+                    <row>
+                      <entry>Tối thiểu</entry>
+                      <entry>Thông thường</entry>
+                      <entry>Tối đa</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>Thịt nạc bò</entry>
+              </row>
+              <row>
+                <entry>Protein</entry>
+                <entry>6</entry>
+                <entry>16 – 21</entry>
+                <entry>28</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>Lipid</entry>
+                <entry>0,1</entry>
+                <entry>0,2 – 25</entry>
+                <entry>67</entry>
+                <entry>3</entry>
+              </row>
+              <row>
+                <entry>Carbohydrate</entry>
+                <entry>-</entry>
+                <entry>&lt; 0,5</entry>
+                <entry>-</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>Tro</entry>
+                <entry>0,4</entry>
+                <entry>1,2 – 1,5</entry>
+                <entry>1,5</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>Nước</entry>
+                <entry>28</entry>
+                <entry>66 – 81</entry>
+                <entry>96</entry>
+                <entry>75</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6568160">Sự khác nhau về thành phần hóa học của cá và sự biến đổi của chúng có ảnh hưởng đến mùi vị và giá trị dinh dưỡng của sản phẩm, việc bảo quản tươi nguyên liệu và qui trình chế biến.</para>
+        <para id="id6568175">Thành phần hóa học của cá ở từng cơ quan, bộ phận có sự khác nhau</para>
+        <para id="id6568187">Bảng 1.2. Thành phần hóa học của cá (%)</para>
+        <table id="id6568193" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry> Thành phầnChỉ tiêu</entry>
+                <entry>Nước </entry>
+                <entry>Protein</entry>
+                <entry>Lipid </entry>
+                <entry>Muối vô cơ </entry>
+              </row>
+              <row>
+                <entry>Thịt cá</entry>
+                <entry>48 – 85,1</entry>
+                <entry>10,3 – 24,4</entry>
+                <entry>0,1 – 5,4</entry>
+                <entry>0,5 – 5,6</entry>
+              </row>
+              <row>
+                <entry>Trứng cá</entry>
+                <entry>60 - 70</entry>
+                <entry>20 - 30</entry>
+                <entry>1 - 11</entry>
+                <entry>1 – 2</entry>
+              </row>
+              <row>
+                <entry>Gan cá</entry>
+                <entry>40 - 75</entry>
+                <entry>8 - 18</entry>
+                <entry>3 - 5</entry>
+                <entry>0,5 – 1,5</entry>
+              </row>
+              <row>
+                <entry>Da cá</entry>
+                <entry>60 - 70</entry>
+                <entry>7 - 15</entry>
+                <entry>5 - 10</entry>
+                <entry>1 - 3</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <section id="id-163721605654">
+          <title>Bảng 1.3. Thành phần hóa học của một số loài thủy sản </title>
+          <table id="id6568532" summary="">
+            <tgroup cols="8">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <tbody>
+                <row>
+                  <entry>Thành phầnLoài</entry>
+                  <entry>Protein%</entry>
+                  <entry>Lipid%</entry>
+                  <entry>Glucid%</entry>
+                  <entry>Tro%</entry>
+                  <entry>Canximg%</entry>
+                  <entry>Phosphatmg%</entry>
+                  <entry>Femg%</entry>
+                </row>
+                <row>
+                  <entry>Mực</entry>
+                  <entry>17-20</entry>
+                  <entry>0,8</entry>
+                  <entry>-</entry>
+                  <entry>-</entry>
+                  <entry>54</entry>
+                  <entry>-</entry>
+                  <entry>1,2</entry>
+                </row>
+                <row>
+                  <entry>Tôm</entry>
+                  <entry>19 -23</entry>
+                  <entry>0,3 – 1,4</entry>
+                  <entry>2</entry>
+                  <entry>1,3 – 1,8</entry>
+                  <entry>29 - 30</entry>
+                  <entry>33-67</entry>
+                  <entry>1,2-5,1</entry>
+                </row>
+                <row>
+                  <entry>Hàu</entry>
+                  <entry>11-13</entry>
+                  <entry>1 - 2</entry>
+                  <entry>-</entry>
+                  <entry>2,2</entry>
+                  <entry>0,21</entry>
+                  <entry>-</entry>
+                  <entry>-</entry>
+                </row>
+                <row>
+                  <entry>Sò</entry>
+                  <entry>8,8</entry>
+                  <entry>0,4</entry>
+                  <entry>3</entry>
+                  <entry>4</entry>
+                  <entry>37</entry>
+                  <entry>82</entry>
+                  <entry>1,9</entry>
+                </row>
+                <row>
+                  <entry>Trai</entry>
+                  <entry>4,6</entry>
+                  <entry>1,1</entry>
+                  <entry>2,5</entry>
+                  <entry>1,9</entry>
+                  <entry>668</entry>
+                  <entry>107</entry>
+                  <entry>1,5</entry>
+                </row>
+                <row>
+                  <entry>Ốc </entry>
+                  <entry>11-12</entry>
+                  <entry>0,3-0,7</entry>
+                  <entry>3,9-8,3</entry>
+                  <entry>1 – 4,3</entry>
+                  <entry>1310-1660</entry>
+                  <entry>51-1210</entry>
+                  <entry>-</entry>
+                </row>
+                <row>
+                  <entry>Cua</entry>
+                  <entry>16</entry>
+                  <entry>1,5</entry>
+                  <entry>1,5</entry>
+                  <entry>-</entry>
+                  <entry>40</entry>
+                  <entry>-</entry>
+                  <entry>1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6267830"/>
+        </section>
+      </section>
+      <section id="id-764480638817">
+        <title>Ảnh hưởng của thành phần hóa học đến chất lượng</title>
+        <para id="id6267844">Yếu tố ảnh hưởng rõ nhất đến thành phần hóa học của cá là thành phần thức ăn. Thông thường cá nuôi thường được cho ăn thức ăn chứa nhiều lipid để cá phát triển nhanh. Tuy nhiên, khi hàm lượng lipid cao dư để cung cấp năng lượng thì lipid dư thừa sẽ được tích lũy ở các mô làm cho cá có hàm lượng lipid rất cao. Ngoài ảnh hưởng không tốt đến chất lượng nói chung, nó cũng có thể làm giảm năng suất chế biến vì lipid dự trữ được xem như phế liệu, bị loại bỏ nội tạng sau khi moi ruột và phi lê.</para>
+        <para id="id6267869">Cách thông thường để giảm hàm lượng lipid của cá nuôi trước khi thu hoạch là cho cá đói một thời gian. Ngoài ra, cho cá đói còn có tác dụng giảm hoạt động của enzym trong nội tạng, giúp làm chậm lại các biến đổi xảy ra sau khi cá chết.</para>
+        <section id="id-275936310545">
+          <title>Protein</title>
+          <para id="id6267895">Được cấu tạo từ các acid amin, các acid amin không thay thế quyết định giá trị dinh dưỡng của thực phẩm. Protein của ngũ cốc thường thiếu lysine và các acid amin có chứa lưu huỳnh (methionine, cysteine), trong khi protein của cá là nguồn giàu các acid amin này. Do đó, protein cá có giá trị dinh dưỡng cao hơn các loại ngũ cốc khác.</para>
+          <para id="id6267930">Có thể chia protein của mô cơ cá ra thành 3 nhóm:</para>
+          <para id="id6267936">* Protein cấu trúc (Protein tơ cơ)</para>
+          <para id="id6267949">Gồm các sợi myosin, actin, actomyosin và tropomyosin, chiếm khoảng 65-75% tổng hàm lượng protein trong cá và khoảng 77-85% tổng hàm lượng protein trong mực. Các protein cấu trúc này có chức năng co rút đảm nhận các hoạt động của cơ. Myosin và actin là các protein tham gia trực tiếp vào quá trình co duỗi cơ. Protein cấu trúc có khả năng hòa tan trong dung dịch muối trung tính có nồng độ ion khá cao (&gt;0,5M).</para>
+          <para id="id6267964">* Protein chất cơ (Protein tương cơ) </para>
+          <para id="id6267978">Gồm myoglobin, myoalbumin, globulin và các enzym, chiếm khoảng 25-30% hàm lượng protein trong cá và 12-20% trong mực. Các protein này hòa tan trong nước, trong dung dịch muối trung tính có nồng độ ion thấp (&lt;0,15M). Hầu hết protein chất cơ bị đông tụ khi đun nóng trong nước ở nhiệt độ trên 50oC. </para>
+          <para id="id6268010">Trong quá trình chế biến và bảo quản, myoglobin dễ bị oxy hóa thành metmyoglobin, ảnh hưởng đến màu sắc của sản phẩm.</para>
+          <para id="id6268025">* Protein mô liên kết: </para>
+          <para id="id6268030">Bao gồm các sợi collagen, elastin. Hàm lượng colagen ở cơ thịt cá thấp hơn ở động vật có vú, thường khoảng 1-10% tổng lượng protein và 0,2-2,2% trọng lượng của cơ thịt. Chiếm khoảng 3% ở cá xương và khoảng 10% ở cá sụn (so với 17% trong các loài động vật có vú. Có trong mạng lưới ngoại bào, không tan trong nước, dung dịch kiềm hoặc dung dịch muối có nồng độ ion cao.</para>
+          <para id="id6268048">Điểm đẳng điện pI của protein cá vào khoảng pH 4,5-5,5. Tại giá trị pH này, protein có độ hòa tan thấp nhất.</para>
+          <para id="id6268061"/>
+          <para id="id6268066">
+            <media id="id2975764" alt=""><image src="../../media/graphics1.jpg" mime-type="image/jpeg" height="315" width="487"/></media>
+          </para>
+          <para id="id6268101">Hình 1.1. Sự hòa tan của protein tơ cơ trước và sau khi đông khô ở các giá trị pH từ 2 đến 12 </para>
+          <para id="id6268117">Cấu trúc hình thái của protein ở cá dễ bị biến đổi do môi trường vật lý thay đổi. Hình 1.1 cho thấy tính tan của protein trong sợi cơ thay đổi sau khi đông khô. Việc xử lý với nồng độ muối cao hoặc xử lý bằng nhiệt có thể dẫn đến sự biến tính, sau đó cấu trúc protein bị thay đổi không hồi phục được.</para>
+          <para id="id6268144">Khi protein bị biến tính dưới những điều kiện được kiểm soát, có thể sử dụng các đặc tính của chúng cho mục đích công nghệ. Ví dụ trong sản xuất các sản phẩm từ surimi, người ta đã lợi dụng khả năng tạo gel của protein trong sợi cơ. Protein từ cơ thịt cá sau khi xay nhỏ, rửa sạch rồi cho thêm muối và phụ gia để tạo tính ổn định, tiếp đến quá trình xử lý nhiệt và làm nguội có kiểm soát giúp protein tạo gel rất mạnh (Suzuki, 1981).</para>
+          <para id="id6268173">Các protein tương cơ cản trở quá trình tạo gel, chúng được xem là nguyên nhân làm giảm độ bền gel của sản phẩm. Vì vậy, trong công nghệ sản xuất surimi việc rửa thịt cá trong nước nhằm nhiều mục đích, một trong những mục đích là loại bỏ protein hòa tan trong nước, gây cản trở quá trình tạo gel.</para>
+          <para id="id6268190">Protein tương cơ có khả năng hòa tan cao trong nước, là nguyên nhân làm mất giá trị dinh dưỡng do một lượng protein đáng kể thoát ra khi rửa, ướp muối, tan giá,…Vì vậy cần chú ý để duy trì giá trị dinh dưỡng và mùi vị của sản phẩm.</para>
+          <para id="id6268207">Protein mô liên kết ở da cá, bong bóng cá, vách cơ khác nhau. Tương tự như sợi collagen trong động vật có vú, các sợi collagen ở các mô của cá cũng tạo nên cấu trúc mạng lưới mỏng với mức độ phức tạp khác nhau. Tuy nhiên, collagen ở cá kém bền nhiệt hơn nhiều và ít có các liên kết chéo hơn nhưng nhạy cảm hơn collagen ở động vật máu nóng có xương sống.</para>
+        </section>
+        <section id="id-407157534718">
+          <title>Thành phần trích ly chứa nitơ phi protein (Non Protein Nitrogen)</title>
+          <para id="id6268238">Chất phi protein là thành phần hòa tan trong nước, có khối lượng phân tử thấp và chiếm khoảng 9-18% tổng hàm lượng protein ở cá xương, khoảng 33-38% ở các loài cá sụn. Thành phần chính của hợp chất này bao gồm các chất bay hơi (amoniac, amine, trimethylamin, dimethylamin), trimethylamineoxid (TMAO), dimethylamineoxid (DMAO), creatin, các acid amin tự do, nucleotide, urê (có nhiều trong cá sụn) ..... </para>
+          <para id="id6268266">Bảng 1.4 liệt kê một số thành phần trong nhóm nitơ phi protein của các loài cá, tôm hùm, thịt gia cầm và thịt động vật có vú.</para>
+          <para id="id6268279">Bảng 1.4. Sự khác nhau cơ bản về thành phần các chất phi protein từ cơ</para>
+          <table id="id6268291" summary="">
+            <tgroup cols="7">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <tbody>
+                <row>
+                  <entry>Thành phần theo mg/100g trọng lượng ướt</entry>
+                  <entrytbl namest="c2" nameend="c4" cols="3">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c3">Cá</entry>
+                      </row>
+                      <row>
+                        <entry>Tuyết</entry>
+                        <entry>Trích</entry>
+                        <entry>Nhám</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                  <entry>Tôm hùm</entry>
+                  <entry>Gia cầm</entry>
+                  <entry>Động vật có vú</entry>
+                </row>
+                <row>
+                  <entry>- Tổng nitơ phi protein</entry>
+                  <entry>1.200</entry>
+                  <entry>1.200</entry>
+                  <entry>3.000</entry>
+                  <entry>5.500</entry>
+                  <entry>1.200</entry>
+                  <entry>3.500</entry>
+                </row>
+                <row>
+                  <entry>- Tổng acid amin tự do+ Arginine+ Glycine+ Acid glutamic+ Histidine+ Proline</entry>
+                  <entry>75&lt;1020&lt;10&lt;1,0&lt;1,0</entry>
+                  <entry>300&lt;1020&lt;1086&lt;1,0</entry>
+                  <entry>100&lt;1020&lt;10&lt;1,0&lt;1,0</entry>
+                  <entry>3.000750102-103270-750</entry>
+                  <entry>440&lt;20&lt;2055&lt;10&lt;10</entry>
+                  <entry>350&lt;10&lt;1036&lt;10&lt;10</entry>
+                </row>
+                <row>
+                  <entry>- Creatine</entry>
+                  <entry>400</entry>
+                  <entry>400</entry>
+                  <entry>300</entry>
+                  <entry>0</entry>
+                  <entry>-</entry>
+                  <entry>550</entry>
+                </row>
+                <row>
+                  <entry>- Betaine</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>150</entry>
+                  <entry>100</entry>
+                  <entry>-</entry>
+                  <entry>-</entry>
+                </row>
+                <row>
+                  <entry>- TMAO</entry>
+                  <entry>350</entry>
+                  <entry>250</entry>
+                  <entry>500-103</entry>
+                  <entry>100</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                </row>
+                <row>
+                  <entry>- Anserine</entry>
+                  <entry>150</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>280</entry>
+                  <entry>150</entry>
+                </row>
+                <row>
+                  <entry>- Carnosine</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>180</entry>
+                  <entry>200</entry>
+                </row>
+                <row>
+                  <entry>- Urê</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>2.000</entry>
+                  <entry>-</entry>
+                  <entry>-</entry>
+                  <entry>35</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6269184">Nguồn: Shewan, 1974.</para>
+          <para id="id6269190">Thành phần chất trích ly chứa nitơ phi protein khác nhau phụ thuộc vào loài, kích cỡ, mùa vụ, phần cơ lấy mẫu, ….</para>
+          <figure id="id6269205">
+            <media id="id1166780324697" alt=""><image src="../../media/graphics2.jpg" mime-type="image/jpeg" height="365" width="487"/></media>
+          </figure>
+          <para id="id6269229">A, B: hai loài cá biển xươngC: loài cá sụnD: loài cá nước ngọt</para>
+          <para id="id6269244">Hình 1.2. Sự phân bố nitơ phi protein trong cơ thịt cá </para>
+          <para id="id6269251">(Nguồn: Konosu và Yamaguchi, 1982; Suyama và cộng sự, 1977)</para>
+          <para id="id6269257">Các chất trích ly chứa nitơ phi protein rất quan trọng đối với các nhà chế biến thuỷ sản bởi vì chúng ảnh h­ưởng đến mọi tính chất của thực phẩm như:­ màu sắc, mùi vị, trạng thái cấu trúc, dinh dư­ỡng, sự an toàn và sự hư­ hỏng sau thu hoạch.</para>
+          <list id="id6269290" list-type="enumerated">
+            <item>Trimethylamin oxyt (TMAO)</item>
+          </list>
+          <para id="id6269300">TMAO là thành phần đặc trư­ng và quan trọng của nhóm chất chứa nitơ phi protein. TMAO có chủ yếu trong các loài cá nước mặn và ít được tìm thấy trong các loài cá nước ngọt. Hàm lượng TMAO trong cá khác nhau tùy theo loài, điều kiện sinh sống, kích cỡ. Cá hoạt động bơi lội nhiều, kích cỡ lớn chứa nhiều TMAO hơn cá nhỏ, ít bơi lội trong nước. Hàm lượng TMAO chứa cao nhất trong các loài cá sụn (cá nhám) và mực, chiếm khoảng 75-250 mgN/100g, cá tuyết chứa ít hơn (60-120 mgN/100g). </para>
+          <para id="id6269334">Theo Tokunaga (1970), hàm lượng TMAO ở cá nổi như cá trích, cá thu, cá ngừ tập trung cao nhất trong cơ thịt sẫm (vùng tối), trong khi đó các loài cá đáy thịt trắng có hàm lượng TMAO cao hơn nhiều trong cơ thịt màu sáng. TMAO có vai trò điều hòa áp suất thẩm thấu của cá, vì vậy giúp cá chống lại áp suất thẩm thấu gây ra do sự chênh lệch nồng độ muối trong nước biển. </para>
+          <para id="id6269356">b. Các axit amin tự do</para>
+          <para id="id6269369">Các axit amin tự do chiếm khoảng 0,5-2% trọng l­ượng cơ thịt, chúng góp phần tạo nên mùi vị thơm ngon đặc tr­ng của nguyên liệu. Hàm lượng axit amin tự do càng nhiều thì vi khuẩn gây hư­ hỏng phát triển càng nhanh và sinh ra mùi ammoniac. Các loài cá có cơ thịt sẫm và th­ường vận động như­ cá ngừ, cá thu có hàm lư­ợng histidine cao. Cơ thịt sẫm chứa histidin nhiều hơn cơ thịt trắng. Trong thời gian bảo quản, histidine bị vi sinh vật khử nhóm carboxyl hình thành độc tố histamine.</para>
+          <figure id="id6269441">
+            <media id="id1166784502912" alt=""><image src="../../media/graphics3-c146.png" mime-type="image/png" height="171" width="471"/></media>
+          </figure>
+          <para id="id6269481">Hình 1.3. Sự tạo thành histamine từ histidine</para>
+          <para id="id6269487">c. Urê</para>
+          <para id="id6269491">Urê có phổ biến trong tất cả cơ thịt cá, như­ng nói chung có ít hơn 0,05% trong cơ thịt của cá xư­ơng, các loài cá sụn biển có chứa một l­ượng lớn urê (1-2,5%). Trong quá trình bảo quản, urê phân huỷ thành NH3 và CO2 d­ưới tác dụng của enzym urease của vi sinh vật. Do urê hoà tan trong nư­ớc và thấm qua màng tế bào nên nó dễ đư­ợc tách ra khỏi miếng phi lê</para>
+          <para id="id6269565">d. Amoniac</para>
+          <para id="id6269570">Amoniac có mùi đặc trưng (mùi khai). Trong cơ thịt của cá t­ươi có một lư­ợng nhỏ amoniac. Trong cá xư­ơng, l­ượng amoniac thấp như­ng khi bị hư­ hỏng do vi sinh vật thì lư­ợng amoniac tăng nhanh. Khi sự h­ư hỏng tiến triển, pH của cơ thịt chuyển sang môi trư­ờng kiềm do l­ượng amoniac tăng lên và tạo nên mùi ­ươn thối của cá.</para>
+          <para id="id6269625">e. Creatine</para>
+          <para id="id6269630">Là thành phần chính của hợp chất phi protein. Cá ở trạng thái nghỉ ngơi creatine tồn tại dưới dạng mạch vòng phospho và cung cấp năng lượng cho quá trình co cơ.</para>
+        </section>
+        <section id="id-852426117866">
+          <title>Enzym</title>
+          <para id="id6269652">Enzym là protein, chúng hoạt động xúc tác cho các phản ứng hoá học ở trong nội tạng và trong cơ thịt. Enzym tham gia vào quá trình trao đổi chất ở tế bào, quá trình tiêu hoá thức ăn và tham gia vào quá trình tê cứng. Sau khi cá chết enzym vẫn còn hoạt động, vì thế gây nên quá trình tự phân giải của cá, làm ảnh h­ưởng đến mùi vị, trạng thái cấu trúc, và hình dạng bề ngoài của chúng. Sản vSảnphẩm của quá trình phân giải do enzym là nguồn dinh d­ưỡng cho vi sinh vật, làm tăng nhanh tốc độ ươn hỏng.</para>
+          <para id="id6269714">Trong nguyên liệu có nhiều enzym khác nhau. Các nhóm enzym chính ảnh hưởng đến chất l­ượng nguyên liệu là:</para>
+          <para id="id6269726">Enzym thuỷ phân</para>
+          <para id="id6269731">Enzym oxy hoá khử</para>
+          <para id="id6269736">Nhiều loại protease đư­ợc tách chiết từ cơ thịt cá và có tác dụng phân giải làm mềm mô cơ. Sự mềm hoá của mô cơ gây khó khăn cho chế biến. Các enzym thuỷ phân protein quan trọng trong nguyên liệu gồm: Cathepsin, protease kiềm tính, collagenase, pepsin, trypsin, chimotrypsin.</para>
+          <para id="id6269758">Các emzym thuỷ phân lipid quan trọng trong cá gồm có: Lipase, phospholipase. Chúng thường có trong các cơ quan nội tạng và trong cơ thịt. Enzym thuỷ phân lipid rất quan trọng đối với cá đông lạnh, ở các loài cá này lipid có thể bị thuỷ phân khi độ hoạt động của nư­ớc thấp. lTrongQuá trình bảo quản lạnh đông các axit béo tự do đư­ợc sinh ra từ photpholipid và triglyxerit, có ảnh hư­ởng xấu đến chất l­ượng của cá. Axit béo tự do gây ra mùi vị xấu, ảnh hưởng đến cấu trúc và khả năng giữ nư­ớc của protein cơ thịt.</para>
+          <para id="id6269839">Các enzym oxy hoá khử bao gồm: Phenoloxidase, lipoxygenase, peroxidase. Polyphenoloxidase đặc biệt quan trọng trong tôm vì chúng là nguyên nhân gây nên đốm đen cho nguyên liệu sau thu hoạch. </para>
+          <para id="id6269870"/>
+        </section>
+        <section id="id-171318884292">
+          <title>Lipid</title>
+          <para id="id6269882">Cá sử dụng chất béo như là nguồn năng lượng dư trữ để duy trì sự sống trong những tháng mùa đông, khi nguồn thức ăn khan hiếm.</para>
+          <para id="id6269895">Hàm lư­ợng lipid trong cá dao động nhiều (0,1-30%). Cá đư­ợc phân loại theo hàm l­ượng chất béo như­ sau:</para>
+          <para id="id6269924">- Cá gầy (&lt; 1% chất béo) như­ cá tuyết, cá tuyết sọc đen...</para>
+          <para id="id6269936">- Cá béo vừa (&lt;10% chất béo) nh­ư cá bơn lư­ỡi ngựa, cá nhồng, cá mập</para>
+          <para id="id6269947">- Cá béo (&gt;10% chất béo) như­ cá hồi, cá trích, cá thu, ...</para>
+          <section id="id-9871713926">
+            <title>Bảng 1.5. Hàm lượng chất béo trong cơ thịt của các loài cá khác nhau</title>
+            <table id="id6269971" summary="">
+              <tgroup cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry>Loại cá</entry>
+                    <entry>Hàm lượng chất béo (%)</entry>
+                  </row>
+                  <row>
+                    <entry>Cá tuyết</entry>
+                    <entry>0,1 – 0,9</entry>
+                  </row>
+                  <row>
+                    <entry>Cá bơn</entry>
+                    <entry>0,5 – 9,6</entry>
+                  </row>
+                  <row>
+                    <entry>Cá sao</entry>
+                    <entry>1,1 – 3,6</entry>
+                  </row>
+                  <row>
+                    <entry>Cá herring</entry>
+                    <entry>0,4 - 30</entry>
+                  </row>
+                  <row>
+                    <entry>Cá thu</entry>
+                    <entry>1 - 35</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <para id="id6256547">a. Sự phân bố chất béo trong cá</para>
+            <para id="id6256553">Chất béo của các loài cá béo thường tập trung trong mô bụng vì đây là vị trí cá ít cử động nhất khi bơi lội trong nước. Mô mỡ còn tập trung ở mô liên kết, nằm giữa các sợi cơ. Với cá gầy, hàm lượng chất béo trong cá dự trữ chủ yếu trong gan.</para>
+            <figure id="id6256578">
+              <media id="id1166780165703" alt=""><image src="../../media/graphics4.jpg" mime-type="image/jpeg" height="428" width="604"/></media>
+            </figure>
+            <para id="id6256602">Hình 1.4. Sự phân bố lipid tồng số ở các phần khác nhau của cơ thể cá thu (hình trên) và cá ốt vẩy lông có nguồn gốc từ Nauy (hình dưới) </para>
+            <para id="id6256612">Nguồn: Lohne, 1976 </para>
+            <para id="id6256617">b. Dạng tự nhiên của chất béo</para>
+            <para id="id6256623">Lipid trong các loài cá xương được chia thành 2 nhóm chính: phospholipid và triglycerit. Phospholipid tạo nên cấu trúc của màng tế bào, vì vậy chúng được gọi là lipid cấu trúc. Triglycerit là lipid dự trữ năng lượng có trong các nơi dự trữ chất béo, thường ở trong các bào mỡ đặc biệt được bao quanh bằng một màng phospholipid và mạng lưới colagen mỏng hơn. Triglycerit thường được gọi là lipid dự trữ. Một số loài cá có chứa các este dạng sáp như một phần của các lipid dự trữ.</para>
+            <para id="id6256641">Thành phần chất béo trong cá khác xa so với các loài động vật có vú khác. Điểm khác nhau chủ yếu là chúng bao gồm các acid béo chưa bão hòa cao (14-22 nguyên tử cacbon, 4-6 nối đôi). Hàm lượng axit béo chưa bão hòa trong cá biển (88%) cao hơn so với cá nước ngọt (70%). Chất béo trong cá chứa nhiều acid béo chưa bão hòa do đó rất dễ bị oxy hóa sinh ra các sản phẩm cấp thấp như aldehyde, ceton, skaton. Tuy nhiên, lipid trong thủy sản rất có lợi cho sức khỏe người tiêu dùng. Các hợp chất có lợi trong lipid cá là các axit béo không no cao, đặc biệt là: Axit eicosapentaenoic (EPA 20:5) và axit docosahexaenoic (DHA 22:6)</para>
+            <para id="id6256679">Điểm đông đặc của dầu cá thấp hơn động vật khác. Ở nhiệt độ thường ở trạng thái lỏng, nhiệt độ thấp bị đông đặc ở mức độ khác nhau.</para>
+            <para id="id6256690"/>
+          </section>
+        </section>
+        <section id="id-960182310909">
+          <title>Gluxit</title>
+          <para id="id6256703">Hàm lư­ợng gluxit trong cơ thịt cá rất thấp, thư­ờng dư­ới 0,5%, tồn tại dưới dạng năng lượng dự trữ glycogen. Tuy nhiên, hàm lượng glycogen ở các loài nhuyễn thể chiếm khoảng 3%.Cá vừa đẻ trứng lượng gluxit dự trữ rất thấp. Sau khi chết, glycogen cơ thịt chuyển thành axit lactic, làm giảm pH của cơ thịt, mất khả năng giữ nư­ớc của cơ thịt. Sự biến đổi của pH ở cơ thịt sau khi cá chết có ý nghĩa công nghệ rất lớn.</para>
+        </section>
+        <section id="id-672626015792">
+          <title>Các loại vitamin và chất khoáng</title>
+          <para id="id6256771">Cá là nguồn cung cấp chính vitamin nhóm B (thiamin, riboflavin và B12­), vitanin A và D có chủ yếu trong các loài cá béo. Vitamin A và D tích lũy chủ yếu trong gan, vitamin nhóm B có chủ yếu trong cơ thịt cá.</para>
+          <para id="id6256795">Vitamin rất nhạy cảm với oxy, ánh sáng, nhiệt độ. Ngoài ra, trong quá trình chế biến (sản xuất đồ hộp, tan giá, ướp muối, ...) ảnh h­ưởng lớn đến thành phần vitamin. Vì vậy, cần phải chú ý tránh để tổn thất vitamin trong quá trình chế biến.</para>
+          <para id="id6256827">Chất khoáng của cá phân bố chủ yếu trong mô xương, đặc biệt trong xương sống. Canxi và phospho là 2 nguyên tố chiếm nhiều nhất trong xương cá. Thịt cá là nguồn giàu sắt, đồng, lưu huỳnh và íôt. Ngoài ra còn có niken, coban, chì, asen, kẽm.</para>
+          <para id="id6256846">- Hàm lượng chất sắt trong thịt cá nhiều hơn động vật trên cạn, cá biển nhiều hơn cá nước ngọt, cơ thịt cá màu sẫm nhiều hơn thịt cá màu trắng.</para>
+          <para id="id6256861">- Sunfua (S) có phổ biến trong thịt các loài hải sản, chiếm khoảng 1% chất khô của thịt. Sunfua trong thịt cá phần lớn tồn tại ở dạng hợp chất hữu cơ sunfua hòa tan. Hàm lượng sunfua nhiều hay ít có ảnh hưởng lớn đến màu sắc của sản phẩm.</para>
+          <para id="id6256879">- Hàm lượng đồng trong cá ít hơn so với động vật thủy sản không xương sống. </para>
+          <para id="id6256891">- Hàm lượng iod trong thịt cá ít hơn so với động vật hải sản không xương sống. Cá biển có hàm lượng iod cao hơn cá nước ngọt. Hàm lượng iod của động vật hải sản nói chung nhiều gấp 10 - 50 lần so với động vật trên cạn. Thịt cá có nhiều mỡ thì hàm lượng iod có xu hướng tăng lên.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-480311406662">
+      <title>Tính chất của động vật thủy sản</title>
+      <section id="id-613292812881">
+        <title>Tính chất vật lý</title>
+        <section id="id-904441602551">
+          <title>Hình dạng: </title>
+          <para id="id6256936">Hình dạng cơ thể và chức năng của cá hoàn toàn thích nghi với cuộc sống bơi lội tự do trong nư­ớc. Cá có nhiều dạng:</para>
+          <para id="id6256957">- Hình thoi: cá nục, cá thu, cá ngừ. </para>
+          <para id="id6256964">- Hình tên: cá cờ, cá kim.</para>
+          <para id="id6256970">- Hình dẹp: cá chim, cá đuối, cá bơn.</para>
+          <para id="id6256980">- Hình rắn: cá khoai, cá hố, cá dứa.</para>
+          <para id="id6256986">Có thể chia thành 2 dạng cơ bản: cá thân tròn và cá thân dẹt</para>
+          <para id="id6256996">- Cá thân tròn như:­ cá ngừ, cá thu, cá nhám. Chúng thư­ờng hoạt động bơi lội.</para>
+          <para id="id6257011">- Cá thân dẹt như­ cá đuối, cá bơn thích ứng với đời sống ở đáy biển, và ít bơi lội.</para>
+          <para id="id6257029">Vi sinh vật đ­ược tìm thấy trên bề mặt ngoài của cá sống và cá vừa mới đánh bắt. Nếu cá có tỉ lệ diện tích bề mặt so với khối lư­ợng của nó (còn gọi là diện tích bề mặt riêng) càng lớn thì càng dễ bị hư­ hỏng do hoạt động của vi sinh vật ở bề mặt cá. Vì vậy, tr­ước khi xử lý và bảo quản, cần phải rửa sạch cá để loại bỏ lớp nhớt ở bề mặt cá chứa vi sinh vật.</para>
+        </section>
+        <section id="id-742979315692">
+          <title>Tỉ trọng của cá</title>
+          <para id="id6257056">Gần bằng tỉ trọng của nước, thay đổi tùy theo bộ phận trên cơ thể của cá, phụ thuộc vào thân nhiệt của cá, cá có nhiệt đô càng nhỏ thì tỉ trọng càng nhỏ.</para>
+        </section>
+        <section id="id-410125334168">
+          <title>Điểm băng </title>
+          <para id="id6257079">Là điểm ở đó nhiệt độ làm cho cá bắt đầu đóng băng, nước trong cơ thể cá tồn tại ở dạng dung dịch do đó điểm băng tuân theo định luật Raun. Dung dịch càng loãng đóng băng càng nhanh, điểm đóng băng của cá gần điểm đóng băng của nước (0oC). Thông thường điểm băng của các loài cá từ -0,6oC  -2,6oC. Điểm băng của cá tỉ lệ nghịch với pH của dung dịch trong cơ thể cá. Áp suất thẩm thấu của động vật thủy sản nước ngọt thấp hơn nước mặn do đó điểm băng của thủy sản nước ngọt cao hơn nước mặn.</para>
+        </section>
+        <section id="id-264455905208">
+          <title>Hệ số dẫn nhiệt</title>
+          <para id="id6257160"> Phụ thuộc chủ yếu vào hàm lượng mỡ, cá có hàm lượng mỡ càng lớn thì hệ số dẫn nhiệt càng nhỏ. Tuy nhiên hệ số dẫn nhiệt còn phụ thuộc vào nhiệt độ. Thịt cá đông kết có hệ số dẫn nhiệt lớn hơn cá chưa đông kết, nhiệt độ đông kết càng thấp hệ số dẫn nhiệt càng cao.</para>
+        </section>
+        <section id="id-158476098485">
+          <title>Tính chất hóa học của động vật thủy sản</title>
+          <para id="id6257188">Chủ yếu nghiên cứu hệ thống keo, đó là các loại protein</para>
+        </section>
+        <section id="id-37057595034">
+          <title>Tính chất hóa học thể keo của động thủy sản</title>
+          <para id="id6257209">Do cấu tạo từ những hợp chất nitrogen, các hợp chất này cấu tạo nên cơ quan của cá tạo cho cấu trúc của cá có độ chắc, độ đàn hồi và độ dẽo dai nhất định (cấu tạo từ các thành phần phức tạp nhưng chủ yếu là protein). Cấu tạo của cơ thể cá là một hỗn hợp năng lượng chất hóa học mà trước hết là các loại protein, sau đó là lipid rồi các muối vô cơ và những chất khác nữa tạo thành một dung dịch keo nhớt trong đó nước là dung môi.</para>
+        </section>
+        <section id="id-98194406648">
+          <title>Trạng thái tồn tại của nước</title>
+          <para id="id6257239">Tồn tại ở 2 trạng thái là nước kết hợp và nước tự do</para>
+          <para id="id6257250">- Nước tự do: là dung môi tốt cho nhiều chất hòa tan đông kết ở 0oC, khả năng dẫn điện lớn, có thể thoát ra khỏi cơ thể của sinh vật ở áp suất thường.</para>
+          <para id="id6257276">- Nước kết hợp: không là dung môi cho các chất hòa tan, không đông kết, khả năng dẫn điện nhỏ, không bay hơi ở áp suất thường.</para>
+        </section>
+        <section id="id-263616167071">
+          <title>Hình thức tồn tại của nước</title>
+          <para id="id6257305">Thường tồn tại dưới 2 hình thức: tồn tại với hạt thân nước và chất thân nước</para>
+          <para id="id6257317">* Hạt thân nước: tồn tại dưới dạng nước khuếch tán, nước tự do, nước hấp phụ</para>
+          <para id="id6257329">- Nước hấp phụ: là lớp nước bên trong, kết hợp với các hạt thân nước bằng lực phân tử trên bề mặt hoặc 1 gốc nhất định nào đó</para>
+          <para id="id6257343">- Nước khuếch tán: là lớp nước ở giữa, không kết hợp với các hạt thân nước, độ dày lớp nước khuếch tán dày hơn lớp nước hấp phụ rất nhiều</para>
+          <para id="id6257358">* Chất thân nước: tồn tại dưới 2 hình thức nước kết hợp và nước tự do.</para>
+          <para id="id6257370">- Nước kết hợp</para>
+          <para id="id6257379">+ Nước kết hợp với protein ở dạng keo đặc tức nước do protein ở dạng keo đặc hấp thụ.</para>
+          <para id="id6257391">+ Nước kết hợp protein keo tan: là nước kết hợp vơí protein ở trạng thái hòa tan, muối vô cơ và các chất ở trạng thái keo hòa tan khác, nước này là nước do keo hòa tan hấp thụ.</para>
+          <para id="id6257407">- Nước tự do: gồm nước cố định, nước có kết cấu tự do và nước dính ướt.</para>
+          <para id="id6257419">+ Nước cố định: là nước chứa rất nghiêm ngặt trong kết cấu hình lưới, nó là một dạng keo đặc nước này rất khó ép ra.</para>
+          <para id="id6257433">+ Nước kết cấu tự do: tồn tại ở những lỗ nhỏ và khe hở của kếtcấu hình lưới của màng sợi cơ hoặc ở những tổ chức xốp nhiều lỗ rổng của mô liên kết, nước này dễ ép ra</para>
+          <para id="id6257449">+ Nước dính ướt: rất mỏng, thường dính sát trên bề mặt của cơ thịt cá.</para>
+          <para id="id6257461">Nước kết hợp có ý nghĩa rất quan trọng trong sự sống của động vật thủy sản. Bên cạnh đó nước kết hợp còn tạo giá trị cảm quan cho động vật thủy sản, tạo mùi vị thơm ngon.</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>
