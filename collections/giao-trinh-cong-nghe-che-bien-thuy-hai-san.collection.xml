@@ -1,3 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10771</md:content-id>  <md:title>Giáo trình công nghệ chế biến thủy hải sản</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>3088ebe5-7fb9-46c5-b64b-9416ae8b42fc</md:uuid>
-<md:slug>giao-trinh-cong-nghe-che-bien-thuy-hai-san</md:slug>
-</metadata>  <col:content>          <col:module document="m30137"/>                            <col:module document="m30760"/>                            <col:module document="m30310"/>                            <col:module document="m30642"/>                            <col:module document="m30469"/>                            <col:module document="m30313"/>                            <col:module document="m30321"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="ThS. Phan Th&#x1ECB; Thanh Qu&#x1EBF;">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10771</md:content-id>
+    <md:title>Gi&#xE1;o tr&#xEC;nh c&#xF4;ng ngh&#x1EC7; ch&#x1EBF; bi&#x1EBF;n th&#x1EE7;y h&#x1EA3;i s&#x1EA3;n</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>3088ebe5-7fb9-46c5-b64b-9416ae8b42fc</md:uuid>
+    <md:slug>giao-trinh-cong-nghe-che-bien-thuy-hai-san</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m30137"/>
+    <col:module document="m30760"/>
+    <col:module document="m30310"/>
+    <col:module document="m30642"/>
+    <col:module document="m30469"/>
+    <col:module document="m30313"/>
+    <col:module document="m30321"/>
+  </col:content>
+</col:collection>
